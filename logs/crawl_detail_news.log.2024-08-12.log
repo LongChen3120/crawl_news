@@ -1,0 +1,857 @@
+2024-08-15 15:21:56,082 - Crawl - ERROR - ThreadPoolExecutor-0_0: Detect result false
+2024-08-15 15:21:56,054 - Crawl - WARNING - ThreadPoolExecutor-0_1: https://vnexpress.net/nhung-thay-doi-ve-luat-tai-ngoai-hang-anh-mua-2024-2025-4781722.html Find element by xpath: List element empty
+2024-08-15 15:21:56,141 - Crawl - ERROR - ThreadPoolExecutor-0_1: Detect result false
+2024-08-15 15:21:56,151 - Crawl - WARNING - ThreadPoolExecutor-0_1: https://vnexpress.net/nhung-thay-doi-ve-luat-tai-ngoai-hang-anh-mua-2024-2025-4781722.html Find element by xpath: List element empty
+2024-08-15 15:21:56,152 - Crawl - ERROR - ThreadPoolExecutor-0_1: Detect result false
+2024-08-15 15:21:56,167 - Crawl - WARNING - ThreadPoolExecutor-0_1: https://vnexpress.net/nhung-thay-doi-ve-luat-tai-ngoai-hang-anh-mua-2024-2025-4781722.html Find element by xpath: List element empty
+2024-08-15 15:21:56,168 - Crawl - ERROR - ThreadPoolExecutor-0_1: Detect result false
+2024-08-15 15:21:56,332 - Crawl - WARNING - ThreadPoolExecutor-0_1: https://vnexpress.net/gia-xang-moi-nhat-hom-nay-15-8-4781803.html Find element by xpath: List element empty
+2024-08-15 15:21:56,341 - Crawl - ERROR - ThreadPoolExecutor-0_1: Detect result false
+2024-08-15 15:21:56,510 - Crawl - WARNING - ThreadPoolExecutor-0_2: https://vnexpress.net/ho-ve-ham-canada-tham-viet-nam-4781787.html Find element by xpath: List element empty
+2024-08-15 15:21:56,527 - Crawl - ERROR - ThreadPoolExecutor-0_2: Detect result false
+2024-08-15 15:21:56,647 - Crawl - WARNING - ThreadPoolExecutor-0_2: https://vnexpress.net/ho-ve-ham-canada-tham-viet-nam-4781787.html Find element by xpath: List element empty
+2024-08-15 15:21:56,662 - Crawl - ERROR - ThreadPoolExecutor-0_2: Detect result false
+2024-08-15 15:21:56,681 - Crawl - WARNING - ThreadPoolExecutor-0_2: https://vnexpress.net/ho-ve-ham-canada-tham-viet-nam-4781787.html Find element by xpath: List element empty
+2024-08-15 15:21:56,699 - Crawl - ERROR - ThreadPoolExecutor-0_2: Detect result false
+2024-08-15 15:21:56,895 - Crawl - WARNING - ThreadPoolExecutor-0_0: https://vnexpress.net/truc-thang-dien-tap-cuu-ho-cuu-nan-4781546.html Find element by xpath: List element empty
+2024-08-15 15:21:56,899 - Crawl - ERROR - ThreadPoolExecutor-0_0: Detect result false
+2024-08-15 15:21:56,910 - Crawl - WARNING - ThreadPoolExecutor-0_0: https://vnexpress.net/truc-thang-dien-tap-cuu-ho-cuu-nan-4781546.html Find element by xpath: List element empty
+2024-08-15 15:21:56,913 - Crawl - ERROR - ThreadPoolExecutor-0_0: Detect result false
+2024-08-15 15:21:56,917 - Crawl - WARNING - ThreadPoolExecutor-0_0: https://vnexpress.net/truc-thang-dien-tap-cuu-ho-cuu-nan-4781546.html Find element by xpath: List element empty
+2024-08-15 15:21:56,919 - Crawl - ERROR - ThreadPoolExecutor-0_0: Detect result false
+2024-08-15 15:21:57,091 - Crawl - WARNING - ThreadPoolExecutor-0_4: https://vnexpress.net/tac-gia/pham-tam-long-1930.html Find element by xpath: List element empty
+2024-08-15 15:21:57,093 - Crawl - ERROR - ThreadPoolExecutor-0_4: Detect result false
+2024-08-15 15:21:57,109 - Crawl - WARNING - ThreadPoolExecutor-0_0: https://vnexpress.net/khong-khoi-to-them-dong-pham-trong-vu-nam-sinh-lop-8-bi-danh-chet-nao-4781623.html Find element by xpath: List element empty
+2024-08-15 15:21:57,112 - Crawl - WARNING - ThreadPoolExecutor-0_4: https://vnexpress.net/tac-gia/pham-tam-long-1930.html Find element by xpath: List element empty
+2024-08-15 15:21:57,166 - Crawl - ERROR - ThreadPoolExecutor-0_0: Detect result false
+2024-08-15 15:21:57,174 - Crawl - ERROR - ThreadPoolExecutor-0_4: Detect result false
+2024-08-15 15:21:57,204 - Crawl - WARNING - ThreadPoolExecutor-0_4: https://vnexpress.net/tac-gia/pham-tam-long-1930.html Find element by xpath: List element empty
+2024-08-15 15:21:57,217 - Crawl - ERROR - ThreadPoolExecutor-0_4: Detect result false
+2024-08-15 15:21:57,218 - Crawl - WARNING - ThreadPoolExecutor-0_4: https://vnexpress.net/tac-gia/pham-tam-long-1930.html Find element by xpath: List element empty
+2024-08-15 15:21:57,220 - Crawl - ERROR - ThreadPoolExecutor-0_4: Detect result false
+2024-08-15 15:21:57,237 - Crawl - WARNING - ThreadPoolExecutor-0_4: https://vnexpress.net/tac-gia/pham-tam-long-1930.html Find element by xpath: List element empty
+2024-08-15 15:21:57,238 - Crawl - ERROR - ThreadPoolExecutor-0_4: Detect result false
+2024-08-15 15:21:57,350 - Crawl - WARNING - ThreadPoolExecutor-0_1: https://vnexpress.net/hien-trang-hai-nut-giao-duoc-dong-nai-de-xuat-dau-tu-13-000-ty-dong-4781163.html Find element by xpath: List element empty
+2024-08-15 15:21:57,366 - Crawl - ERROR - ThreadPoolExecutor-0_1: Detect result false
+2024-08-15 15:21:57,387 - Crawl - WARNING - ThreadPoolExecutor-0_1: https://vnexpress.net/hien-trang-hai-nut-giao-duoc-dong-nai-de-xuat-dau-tu-13-000-ty-dong-4781163.html Find element by xpath: List element empty
+2024-08-15 15:21:57,395 - Crawl - ERROR - ThreadPoolExecutor-0_1: Detect result false
+2024-08-15 15:21:57,420 - Crawl - WARNING - ThreadPoolExecutor-0_3: https://vnexpress.net/tay-xanh-doanh-nghiep-4781672.html Find element by xpath: List element empty
+2024-08-15 15:21:57,426 - Crawl - ERROR - ThreadPoolExecutor-0_3: Detect result false
+2024-08-15 15:21:57,434 - Crawl - WARNING - ThreadPoolExecutor-0_1: https://vnexpress.net/hien-trang-hai-nut-giao-duoc-dong-nai-de-xuat-dau-tu-13-000-ty-dong-4781163.html Find element by xpath: List element empty
+2024-08-15 15:21:57,439 - Crawl - ERROR - ThreadPoolExecutor-0_1: Detect result false
+2024-08-15 15:21:57,571 - Crawl - WARNING - ThreadPoolExecutor-0_2: https://vnexpress.net/vu-kien-15-nam-vi-mot-buc-tuong-4781551.html Find element by xpath: List element empty
+2024-08-15 15:21:57,662 - Crawl - ERROR - ThreadPoolExecutor-0_2: Detect result false
+2024-08-15 15:21:57,728 - Crawl - WARNING - ThreadPoolExecutor-0_0: https://vnexpress.net/nhung-thay-doi-ve-luat-tai-ngoai-hang-anh-mua-2024-2025-4781722.html Find element by xpath: List element empty
+2024-08-15 15:21:57,743 - Crawl - ERROR - ThreadPoolExecutor-0_0: Detect result false
+2024-08-15 15:21:57,745 - Crawl - WARNING - ThreadPoolExecutor-0_0: https://vnexpress.net/nhung-thay-doi-ve-luat-tai-ngoai-hang-anh-mua-2024-2025-4781722.html Find element by xpath: List element empty
+2024-08-15 15:21:57,746 - Crawl - ERROR - ThreadPoolExecutor-0_0: Detect result false
+2024-08-15 15:21:57,749 - Crawl - WARNING - ThreadPoolExecutor-0_0: https://vnexpress.net/nhung-thay-doi-ve-luat-tai-ngoai-hang-anh-mua-2024-2025-4781722.html Find element by xpath: List element empty
+2024-08-15 15:21:57,812 - Crawl - ERROR - ThreadPoolExecutor-0_0: Detect result false
+2024-08-15 15:21:57,867 - Crawl - WARNING - ThreadPoolExecutor-0_2: https://vnexpress.net/ho-ve-ham-canada-tham-viet-nam-4781787.html Find element by xpath: List element empty
+2024-08-15 15:21:57,872 - Crawl - ERROR - ThreadPoolExecutor-0_2: Detect result false
+2024-08-15 15:21:57,874 - Crawl - WARNING - ThreadPoolExecutor-0_2: https://vnexpress.net/ho-ve-ham-canada-tham-viet-nam-4781787.html Find element by xpath: List element empty
+2024-08-15 15:21:57,875 - Crawl - ERROR - ThreadPoolExecutor-0_2: Detect result false
+2024-08-15 15:21:57,894 - Crawl - WARNING - ThreadPoolExecutor-0_2: https://vnexpress.net/ho-ve-ham-canada-tham-viet-nam-4781787.html Find element by xpath: List element empty
+2024-08-15 15:21:57,910 - Crawl - ERROR - ThreadPoolExecutor-0_2: Detect result false
+2024-08-15 15:21:57,986 - Crawl - WARNING - ThreadPoolExecutor-0_0: https://vnexpress.net/gia-xang-moi-nhat-hom-nay-15-8-4781803.html Find element by xpath: List element empty
+2024-08-15 15:21:57,989 - Crawl - ERROR - ThreadPoolExecutor-0_0: Detect result false
+2024-08-15 15:21:58,493 - Crawl - WARNING - ThreadPoolExecutor-0_2: https://vnexpress.net/tac-gia/pham-tam-long-1930.html Find element by xpath: List element empty
+2024-08-15 15:21:58,494 - Crawl - ERROR - ThreadPoolExecutor-0_2: Detect result false
+2024-08-15 15:21:58,499 - Crawl - WARNING - ThreadPoolExecutor-0_2: https://vnexpress.net/tac-gia/pham-tam-long-1930.html Find element by xpath: List element empty
+2024-08-15 15:21:58,504 - Crawl - WARNING - ThreadPoolExecutor-0_3: https://vnexpress.net/truc-thang-dien-tap-cuu-ho-cuu-nan-4781546.html Find element by xpath: List element empty
+2024-08-15 15:21:58,505 - Crawl - ERROR - ThreadPoolExecutor-0_2: Detect result false
+2024-08-15 15:21:58,505 - Crawl - ERROR - ThreadPoolExecutor-0_3: Detect result false
+2024-08-15 15:21:58,508 - Crawl - WARNING - ThreadPoolExecutor-0_2: https://vnexpress.net/tac-gia/pham-tam-long-1930.html Find element by xpath: List element empty
+2024-08-15 15:21:58,508 - Crawl - WARNING - ThreadPoolExecutor-0_3: https://vnexpress.net/truc-thang-dien-tap-cuu-ho-cuu-nan-4781546.html Find element by xpath: List element empty
+2024-08-15 15:21:58,510 - Crawl - ERROR - ThreadPoolExecutor-0_2: Detect result false
+2024-08-15 15:21:58,511 - Crawl - ERROR - ThreadPoolExecutor-0_3: Detect result false
+2024-08-15 15:21:58,516 - Crawl - WARNING - ThreadPoolExecutor-0_2: https://vnexpress.net/tac-gia/pham-tam-long-1930.html Find element by xpath: List element empty
+2024-08-15 15:21:58,526 - Crawl - WARNING - ThreadPoolExecutor-0_3: https://vnexpress.net/truc-thang-dien-tap-cuu-ho-cuu-nan-4781546.html Find element by xpath: List element empty
+2024-08-15 15:21:58,527 - Crawl - ERROR - ThreadPoolExecutor-0_2: Detect result false
+2024-08-15 15:21:58,528 - Crawl - ERROR - ThreadPoolExecutor-0_3: Detect result false
+2024-08-15 15:21:58,538 - Crawl - WARNING - ThreadPoolExecutor-0_2: https://vnexpress.net/tac-gia/pham-tam-long-1930.html Find element by xpath: List element empty
+2024-08-15 15:21:58,546 - Crawl - ERROR - ThreadPoolExecutor-0_2: Detect result false
+2024-08-15 15:21:58,585 - Crawl - WARNING - ThreadPoolExecutor-0_4: https://vnexpress.net/khong-khoi-to-them-dong-pham-trong-vu-nam-sinh-lop-8-bi-danh-chet-nao-4781623.html Find element by xpath: List element empty
+2024-08-15 15:21:58,589 - Crawl - ERROR - ThreadPoolExecutor-0_4: Detect result false
+2024-08-15 15:21:58,709 - Crawl - WARNING - ThreadPoolExecutor-0_2: https://vnexpress.net/tay-xanh-doanh-nghiep-4781672.html Find element by xpath: List element empty
+2024-08-15 15:21:58,722 - Crawl - ERROR - ThreadPoolExecutor-0_2: Detect result false
+2024-08-15 15:21:58,731 - Crawl - WARNING - ThreadPoolExecutor-0_3: https://vnexpress.net/hien-trang-hai-nut-giao-duoc-dong-nai-de-xuat-dau-tu-13-000-ty-dong-4781163.html Find element by xpath: List element empty
+2024-08-15 15:21:58,754 - Crawl - ERROR - ThreadPoolExecutor-0_3: Detect result false
+2024-08-15 15:21:58,783 - Crawl - WARNING - ThreadPoolExecutor-0_3: https://vnexpress.net/hien-trang-hai-nut-giao-duoc-dong-nai-de-xuat-dau-tu-13-000-ty-dong-4781163.html Find element by xpath: List element empty
+2024-08-15 15:21:58,791 - Crawl - ERROR - ThreadPoolExecutor-0_3: Detect result false
+2024-08-15 15:21:58,810 - Crawl - WARNING - ThreadPoolExecutor-0_3: https://vnexpress.net/hien-trang-hai-nut-giao-duoc-dong-nai-de-xuat-dau-tu-13-000-ty-dong-4781163.html Find element by xpath: List element empty
+2024-08-15 15:21:58,826 - Crawl - ERROR - ThreadPoolExecutor-0_3: Detect result false
+2024-08-15 15:22:00,439 - Crawl - WARNING - ThreadPoolExecutor-1_2: https://tuoitre.vn//tham-gia-pro-viet-nam-nhieu-ong-lon-cam-ket-xay-dung-viet-nam-xanh-20240813153207247.htm Find element by xpath: List element empty
+2024-08-15 15:22:00,457 - Crawl - ERROR - ThreadPoolExecutor-1_2: Detect result false
+2024-08-15 15:22:04,096 - Crawl - WARNING - ThreadPoolExecutor-1_0: https://tuoitre.vn//tong-bi-thu-chu-tich-nuoc-to-lam-chu-tri-gap-mat-cac-lanh-dao-nguyen-lanh-dao-dang-nha-nuoc-20240815120446883.htm Find element by xpath: List element empty
+2024-08-15 15:22:04,098 - Crawl - ERROR - ThreadPoolExecutor-1_0: Detect result false
+2024-08-15 15:22:04,944 - Crawl - WARNING - ThreadPoolExecutor-1_1: https://tuoitre.vn//tiep-suc-hang-viet-tren-san-online-phai-thu-thue-hang-nhap-khau-gia-tri-nho-20240814234251833.htm Find element by xpath: List element empty
+2024-08-15 15:22:04,947 - Crawl - ERROR - ThreadPoolExecutor-1_1: Detect result false
+2024-08-15 15:22:06,696 - Crawl - WARNING - ThreadPoolExecutor-1_1: https://tuoitre.vn//bao-gio-thoi-lay-cap-xai-chua-hinh-anh-nguoi-khac-20240815084910311.htm Find element by xpath: List element empty
+2024-08-15 15:22:06,703 - Crawl - ERROR - ThreadPoolExecutor-1_1: Detect result false
+2024-08-15 15:22:07,011 - Crawl - WARNING - ThreadPoolExecutor-1_3: https://tuoitre.vn//tham-gia-pro-viet-nam-nhieu-ong-lon-cam-ket-xay-dung-viet-nam-xanh-20240813153207247.htm Find element by xpath: List element empty
+2024-08-15 15:22:07,013 - Crawl - ERROR - ThreadPoolExecutor-1_3: Detect result false
+2024-08-15 15:22:09,909 - Crawl - WARNING - ThreadPoolExecutor-1_4: https://tuoitre.vn//tong-bi-thu-chu-tich-nuoc-to-lam-chu-tri-gap-mat-cac-lanh-dao-nguyen-lanh-dao-dang-nha-nuoc-20240815120446883.htm Find element by xpath: List element empty
+2024-08-15 15:22:09,910 - Crawl - ERROR - ThreadPoolExecutor-1_4: Detect result false
+2024-08-15 15:22:10,394 - Crawl - WARNING - ThreadPoolExecutor-1_2: https://tuoitre.vn//tiep-suc-hang-viet-tren-san-online-phai-thu-thue-hang-nhap-khau-gia-tri-nho-20240814234251833.htm Find element by xpath: List element empty
+2024-08-15 15:22:10,410 - Crawl - ERROR - ThreadPoolExecutor-1_2: Detect result false
+2024-08-15 15:22:12,095 - Crawl - WARNING - ThreadPoolExecutor-1_0: https://tuoitre.vn//bao-gio-thoi-lay-cap-xai-chua-hinh-anh-nguoi-khac-20240815084910311.htm Find element by xpath: List element empty
+2024-08-15 15:22:12,098 - Crawl - ERROR - ThreadPoolExecutor-1_0: Detect result false
+2024-08-15 15:22:13,194 - Crawl - ERROR - ThreadPoolExecutor-2_3: Request https://dantri.com.vn//xa-hoi/da-cho-thoi-chuc-nghi-cong-tac-5-uy-vien-bo-chinh-tri-4-uy-vien-trung-uong-20240814143245116.htm fail, status code: 429
+2024-08-15 15:22:13,197 - Crawl - WARNING - ThreadPoolExecutor-2_3: https://dantri.com.vn//xa-hoi/da-cho-thoi-chuc-nghi-cong-tac-5-uy-vien-bo-chinh-tri-4-uy-vien-trung-uong-20240814143245116.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:13,242 - Crawl - ERROR - ThreadPoolExecutor-2_4: Request https://dantri.com.vn//phap-luat/cong-an-vao-cuoc-vu-tai-xe-o-to-hanh-hung-lai-xe-om-tai-ben-xe-giap-bat-20240815141529099.htm fail, status code: 429
+2024-08-15 15:22:13,246 - Crawl - WARNING - ThreadPoolExecutor-2_4: https://dantri.com.vn//phap-luat/cong-an-vao-cuoc-vu-tai-xe-o-to-hanh-hung-lai-xe-om-tai-ben-xe-giap-bat-20240815141529099.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:13,402 - Crawl - ERROR - ThreadPoolExecutor-3_0: Request https://dantri.com.vn//kinh-doanh/doanh-thu-tmdt-co-the-chiem-10-tong-doanh-thu-ban-le-vao-nam-2025-20240814132841928.htm fail, status code: 429
+2024-08-15 15:22:13,410 - Crawl - WARNING - ThreadPoolExecutor-3_0: https://dantri.com.vn//kinh-doanh/doanh-thu-tmdt-co-the-chiem-10-tong-doanh-thu-ban-le-vao-nam-2025-20240814132841928.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:13,603 - Crawl - ERROR - ThreadPoolExecutor-3_0: Request https://dantri.com.vn//kinh-doanh/co-phieu-quoc-cuong-gia-lai-duoi-6000-dong-tien-vao-chung-khoan-mat-hut-20240815124240949.htm fail, status code: 429
+2024-08-15 15:22:13,626 - Crawl - WARNING - ThreadPoolExecutor-3_0: https://dantri.com.vn//kinh-doanh/co-phieu-quoc-cuong-gia-lai-duoi-6000-dong-tien-vao-chung-khoan-mat-hut-20240815124240949.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:13,627 - Crawl - WARNING - ThreadPoolExecutor-3_2: https://dantri.com.vn//kinh-doanh/phap-da-lam-gi-de-tiet-kiem-tien-to-chuc-olympic-va-duoc-nhung-gi-20240802162702412.htm Find element by xpath: List element empty
+2024-08-15 15:22:13,644 - Crawl - ERROR - ThreadPoolExecutor-3_2: Detect result false
+2024-08-15 15:22:13,634 - Crawl - ERROR - ThreadPoolExecutor-3_4: Request https://dantri.com.vn//kinh-doanh/nha-san-xuat-show-anh-trai-vuot-ngan-chong-gai-vua-di-vay-190-ty-dong-20240814154858664.htm fail, status code: 429
+2024-08-15 15:22:13,665 - Crawl - WARNING - ThreadPoolExecutor-3_4: https://dantri.com.vn//kinh-doanh/nha-san-xuat-show-anh-trai-vuot-ngan-chong-gai-vua-di-vay-190-ty-dong-20240814154858664.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:13,669 - Crawl - WARNING - ThreadPoolExecutor-3_2: https://dantri.com.vn//kinh-doanh/phap-da-lam-gi-de-tiet-kiem-tien-to-chuc-olympic-va-duoc-nhung-gi-20240802162702412.htm Find element by xpath: List element empty
+2024-08-15 15:22:13,675 - Crawl - ERROR - ThreadPoolExecutor-3_2: Detect result false
+2024-08-15 15:22:13,701 - Crawl - WARNING - ThreadPoolExecutor-3_2: https://dantri.com.vn//kinh-doanh/phap-da-lam-gi-de-tiet-kiem-tien-to-chuc-olympic-va-duoc-nhung-gi-20240802162702412.htm Find element by xpath: List element empty
+2024-08-15 15:22:13,712 - Crawl - ERROR - ThreadPoolExecutor-3_2: Detect result false
+2024-08-15 15:22:13,717 - Crawl - WARNING - ThreadPoolExecutor-3_2: https://dantri.com.vn//kinh-doanh/phap-da-lam-gi-de-tiet-kiem-tien-to-chuc-olympic-va-duoc-nhung-gi-20240802162702412.htm Find element by xpath: List element empty
+2024-08-15 15:22:13,719 - Crawl - ERROR - ThreadPoolExecutor-3_2: Detect result false
+2024-08-15 15:22:13,723 - Crawl - WARNING - ThreadPoolExecutor-3_2: https://dantri.com.vn//kinh-doanh/phap-da-lam-gi-de-tiet-kiem-tien-to-chuc-olympic-va-duoc-nhung-gi-20240802162702412.htm Find element by xpath: List element empty
+2024-08-15 15:22:13,725 - Crawl - ERROR - ThreadPoolExecutor-3_2: Detect result false
+2024-08-15 15:22:13,728 - Crawl - WARNING - ThreadPoolExecutor-3_2: https://dantri.com.vn//kinh-doanh/phap-da-lam-gi-de-tiet-kiem-tien-to-chuc-olympic-va-duoc-nhung-gi-20240802162702412.htm Find element by xpath: List element empty
+2024-08-15 15:22:13,747 - Crawl - ERROR - ThreadPoolExecutor-3_2: Detect result false
+2024-08-15 15:22:13,753 - Crawl - WARNING - ThreadPoolExecutor-3_1: https://dantri.com.vn//kinh-doanh/ban-hang-online-het-thoi-ngon-an-26000-cua-hang-e-don-trong-quy-ii-20240814111858694.htm Find element by xpath: List element empty
+2024-08-15 15:22:13,765 - Crawl - ERROR - ThreadPoolExecutor-3_1: Detect result false
+2024-08-15 15:22:13,815 - Crawl - WARNING - ThreadPoolExecutor-3_4: https://dantri.com.vn//kinh-doanh/gia-xang-ngay-mai-bat-tang-tro-lai-sau-5-phien-giam-lien-tiep-20240814072633535.htm Find element by xpath: List element empty
+2024-08-15 15:22:13,825 - Crawl - ERROR - ThreadPoolExecutor-3_2: Request https://dantri.com.vn//kinh-doanh/tin-chi-carbon-thu-tien-that-tu-viec-ban-khong-khi-20240804173542976.htm fail, status code: 429
+2024-08-15 15:22:13,929 - Crawl - WARNING - ThreadPoolExecutor-3_2: https://dantri.com.vn//kinh-doanh/tin-chi-carbon-thu-tien-that-tu-viec-ban-khong-khi-20240804173542976.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:13,926 - Crawl - ERROR - ThreadPoolExecutor-3_4: Detect result false
+2024-08-15 15:22:13,855 - Crawl - ERROR - ThreadPoolExecutor-3_0: Request https://dantri.com.vn//kinh-doanh/bat-kho-hang-tai-tphcm-nghi-gia-nhieu-thuong-hieu-lon-apple-chanel-lv-20240814172806646.htm fail, status code: 429
+2024-08-15 15:22:13,955 - Crawl - WARNING - ThreadPoolExecutor-3_0: https://dantri.com.vn//kinh-doanh/bat-kho-hang-tai-tphcm-nghi-gia-nhieu-thuong-hieu-lon-apple-chanel-lv-20240814172806646.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:14,240 - Crawl - ERROR - ThreadPoolExecutor-3_4: Request https://dantri.com.vn//kinh-doanh/ong-ho-duc-lam-qua-dot-ban-giai-chap-ky-luc-co-phieu-rang-dong-hoi-sinh-20240814133552650.htm fail, status code: 429
+2024-08-15 15:22:14,245 - Crawl - WARNING - ThreadPoolExecutor-3_4: https://dantri.com.vn//kinh-doanh/ong-ho-duc-lam-qua-dot-ban-giai-chap-ky-luc-co-phieu-rang-dong-hoi-sinh-20240814133552650.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:14,304 - Crawl - WARNING - ThreadPoolExecutor-3_3: https://dantri.com.vn//kinh-doanh/hon-123-trieu-ty-dong-chay-vao-30-ngan-hang-lai-suat-sap-toi-ra-sao-20240812004915448.htm Find element by xpath: List element empty
+2024-08-15 15:22:14,314 - Crawl - ERROR - ThreadPoolExecutor-3_4: Request https://dantri.com.vn//kinh-doanh/colin-huang-cuu-ky-su-google-tro-thanh-nguoi-giau-nhat-trung-quoc-20240813004355542.htm fail, status code: 429
+2024-08-15 15:22:14,335 - Crawl - ERROR - ThreadPoolExecutor-3_3: Detect result false
+2024-08-15 15:22:14,336 - Crawl - WARNING - ThreadPoolExecutor-3_4: https://dantri.com.vn//kinh-doanh/colin-huang-cuu-ky-su-google-tro-thanh-nguoi-giau-nhat-trung-quoc-20240813004355542.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:14,353 - Crawl - WARNING - ThreadPoolExecutor-3_3: https://dantri.com.vn//kinh-doanh/hon-123-trieu-ty-dong-chay-vao-30-ngan-hang-lai-suat-sap-toi-ra-sao-20240812004915448.htm Find element by xpath: List element empty
+2024-08-15 15:22:14,361 - Crawl - ERROR - ThreadPoolExecutor-3_3: Detect result false
+2024-08-15 15:22:14,394 - Crawl - WARNING - ThreadPoolExecutor-3_3: https://dantri.com.vn//kinh-doanh/hon-123-trieu-ty-dong-chay-vao-30-ngan-hang-lai-suat-sap-toi-ra-sao-20240812004915448.htm Find element by xpath: List element empty
+2024-08-15 15:22:14,418 - Crawl - ERROR - ThreadPoolExecutor-3_3: Detect result false
+2024-08-15 15:22:14,419 - Crawl - ERROR - ThreadPoolExecutor-3_1: Request https://dantri.com.vn//kinh-doanh/thanh-ly-vot-tien-trieu-sau-khi-choi-thu-pickleball-20240814180159469.htm fail, status code: 429
+2024-08-15 15:22:14,427 - Crawl - WARNING - ThreadPoolExecutor-3_3: https://dantri.com.vn//kinh-doanh/hon-123-trieu-ty-dong-chay-vao-30-ngan-hang-lai-suat-sap-toi-ra-sao-20240812004915448.htm Find element by xpath: List element empty
+2024-08-15 15:22:14,470 - Crawl - ERROR - ThreadPoolExecutor-3_3: Detect result false
+2024-08-15 15:22:14,486 - Crawl - WARNING - ThreadPoolExecutor-3_3: https://dantri.com.vn//kinh-doanh/hon-123-trieu-ty-dong-chay-vao-30-ngan-hang-lai-suat-sap-toi-ra-sao-20240812004915448.htm Find element by xpath: List element empty
+2024-08-15 15:22:14,463 - Crawl - WARNING - ThreadPoolExecutor-3_1: https://dantri.com.vn//kinh-doanh/thanh-ly-vot-tien-trieu-sau-khi-choi-thu-pickleball-20240814180159469.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:14,506 - Crawl - ERROR - ThreadPoolExecutor-3_3: Detect result false
+2024-08-15 15:22:14,546 - Crawl - WARNING - ThreadPoolExecutor-3_3: https://dantri.com.vn//kinh-doanh/hon-123-trieu-ty-dong-chay-vao-30-ngan-hang-lai-suat-sap-toi-ra-sao-20240812004915448.htm Find element by xpath: List element empty
+2024-08-15 15:22:14,559 - Crawl - ERROR - ThreadPoolExecutor-3_3: Detect result false
+2024-08-15 15:22:14,567 - Crawl - ERROR - ThreadPoolExecutor-3_2: Request https://dantri.com.vn//kinh-doanh/thi-truong-vang-nin-tho-cho-tin-tu-my-20240814020840157.htm fail, status code: 429
+2024-08-15 15:22:14,569 - Crawl - WARNING - ThreadPoolExecutor-3_2: https://dantri.com.vn//kinh-doanh/thi-truong-vang-nin-tho-cho-tin-tu-my-20240814020840157.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:14,613 - Crawl - ERROR - ThreadPoolExecutor-3_1: Request https://dantri.com.vn//kinh-doanh/gia-vang-mieng-sjc-cao-nhat-tu-dau-thang-20240815021048449.htm fail, status code: 429
+2024-08-15 15:22:14,622 - Crawl - WARNING - ThreadPoolExecutor-3_1: https://dantri.com.vn//kinh-doanh/gia-vang-mieng-sjc-cao-nhat-tu-dau-thang-20240815021048449.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:14,673 - Crawl - ERROR - ThreadPoolExecutor-3_3: Request https://dantri.com.vn//kinh-doanh/mo-room-cho-dien-mat-troi-mai-nha-nhat-la-o-mien-bac-20240813205108453.htm fail, status code: 429
+2024-08-15 15:22:14,689 - Crawl - WARNING - ThreadPoolExecutor-3_3: https://dantri.com.vn//kinh-doanh/mo-room-cho-dien-mat-troi-mai-nha-nhat-la-o-mien-bac-20240813205108453.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:14,764 - Crawl - ERROR - ThreadPoolExecutor-3_4: Request https://dantri.com.vn//kinh-doanh/co-phieu-quoc-cuong-gia-lai-bung-noc-cung-rang-dong-duc-long-gia-lai-20240813162856968.htm fail, status code: 429
+2024-08-15 15:22:14,768 - Crawl - WARNING - ThreadPoolExecutor-3_4: https://dantri.com.vn//kinh-doanh/co-phieu-quoc-cuong-gia-lai-bung-noc-cung-rang-dong-duc-long-gia-lai-20240813162856968.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:14,806 - Crawl - WARNING - ThreadPoolExecutor-3_1: https://dantri.com.vn//kinh-doanh/nha-san-xuat-show-anh-trai-vuot-ngan-chong-gai-vua-di-vay-190-ty-dong-20240814154858664.htm Find element by xpath: List element empty
+2024-08-15 15:22:14,808 - Crawl - ERROR - ThreadPoolExecutor-3_1: Detect result false
+2024-08-15 15:22:14,813 - Crawl - ERROR - ThreadPoolExecutor-3_0: Request https://dantri.com.vn//kinh-doanh/ban-hang-online-het-thoi-ngon-an-26000-cua-hang-e-don-trong-quy-ii-20240814111858694.htm fail, status code: 429
+2024-08-15 15:22:14,826 - Crawl - WARNING - ThreadPoolExecutor-3_0: https://dantri.com.vn//kinh-doanh/ban-hang-online-het-thoi-ngon-an-26000-cua-hang-e-don-trong-quy-ii-20240814111858694.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:14,825 - Crawl - WARNING - ThreadPoolExecutor-3_2: https://dantri.com.vn//kinh-doanh/phap-da-lam-gi-de-tiet-kiem-tien-to-chuc-olympic-va-duoc-nhung-gi-20240802162702412.htm Find element by xpath: List element empty
+2024-08-15 15:22:14,856 - Crawl - ERROR - ThreadPoolExecutor-3_2: Detect result false
+2024-08-15 15:22:14,866 - Crawl - WARNING - ThreadPoolExecutor-3_2: https://dantri.com.vn//kinh-doanh/phap-da-lam-gi-de-tiet-kiem-tien-to-chuc-olympic-va-duoc-nhung-gi-20240802162702412.htm Find element by xpath: List element empty
+2024-08-15 15:22:14,868 - Crawl - ERROR - ThreadPoolExecutor-3_2: Detect result false
+2024-08-15 15:22:14,879 - Crawl - WARNING - ThreadPoolExecutor-3_2: https://dantri.com.vn//kinh-doanh/phap-da-lam-gi-de-tiet-kiem-tien-to-chuc-olympic-va-duoc-nhung-gi-20240802162702412.htm Find element by xpath: List element empty
+2024-08-15 15:22:14,884 - Crawl - ERROR - ThreadPoolExecutor-3_2: Detect result false
+2024-08-15 15:22:14,900 - Crawl - WARNING - ThreadPoolExecutor-3_2: https://dantri.com.vn//kinh-doanh/phap-da-lam-gi-de-tiet-kiem-tien-to-chuc-olympic-va-duoc-nhung-gi-20240802162702412.htm Find element by xpath: List element empty
+2024-08-15 15:22:14,901 - Crawl - ERROR - ThreadPoolExecutor-3_2: Detect result false
+2024-08-15 15:22:14,888 - Crawl - ERROR - ThreadPoolExecutor-3_1: Request https://dantri.com.vn//kinh-doanh/gia-xang-ngay-mai-bat-tang-tro-lai-sau-5-phien-giam-lien-tiep-20240814072633535.htm fail, status code: 429
+2024-08-15 15:22:14,936 - Crawl - WARNING - ThreadPoolExecutor-3_1: https://dantri.com.vn//kinh-doanh/gia-xang-ngay-mai-bat-tang-tro-lai-sau-5-phien-giam-lien-tiep-20240814072633535.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:14,935 - Crawl - WARNING - ThreadPoolExecutor-3_2: https://dantri.com.vn//kinh-doanh/phap-da-lam-gi-de-tiet-kiem-tien-to-chuc-olympic-va-duoc-nhung-gi-20240802162702412.htm Find element by xpath: List element empty
+2024-08-15 15:22:14,951 - Crawl - ERROR - ThreadPoolExecutor-3_2: Detect result false
+2024-08-15 15:22:14,906 - Crawl - ERROR - ThreadPoolExecutor-3_0: Request https://dantri.com.vn//kinh-doanh/tap-doan-muong-thanh-tiep-quan-khach-san-hoang-anh-gia-lai-20240813164850208.htm fail, status code: 429
+2024-08-15 15:22:14,962 - Crawl - WARNING - ThreadPoolExecutor-3_0: https://dantri.com.vn//kinh-doanh/tap-doan-muong-thanh-tiep-quan-khach-san-hoang-anh-gia-lai-20240813164850208.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:14,967 - Crawl - WARNING - ThreadPoolExecutor-3_2: https://dantri.com.vn//kinh-doanh/phap-da-lam-gi-de-tiet-kiem-tien-to-chuc-olympic-va-duoc-nhung-gi-20240802162702412.htm Find element by xpath: List element empty
+2024-08-15 15:22:14,982 - Crawl - ERROR - ThreadPoolExecutor-3_2: Detect result false
+2024-08-15 15:22:15,053 - Crawl - ERROR - ThreadPoolExecutor-3_3: Request https://dantri.com.vn//kinh-doanh/tin-chi-carbon-thu-tien-that-tu-viec-ban-khong-khi-20240804173542976.htm fail, status code: 429
+2024-08-15 15:22:15,056 - Crawl - WARNING - ThreadPoolExecutor-3_3: https://dantri.com.vn//kinh-doanh/tin-chi-carbon-thu-tien-that-tu-viec-ban-khong-khi-20240804173542976.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:15,084 - Crawl - ERROR - ThreadPoolExecutor-3_0: Request https://dantri.com.vn//kinh-doanh/hon-123-trieu-ty-dong-chay-vao-30-ngan-hang-lai-suat-sap-toi-ra-sao-20240812004915448.htm fail, status code: 429
+2024-08-15 15:22:15,086 - Crawl - WARNING - ThreadPoolExecutor-3_0: https://dantri.com.vn//kinh-doanh/hon-123-trieu-ty-dong-chay-vao-30-ngan-hang-lai-suat-sap-toi-ra-sao-20240812004915448.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:15,167 - Crawl - ERROR - ThreadPoolExecutor-3_3: Request https://dantri.com.vn//kinh-doanh/nghien-cuu-goi-30000-ty-dong-cho-vay-mua-thue-xay-dung-va-cai-tao-nha-o-20240814202752684.htm fail, status code: 429
+2024-08-15 15:22:15,172 - Crawl - WARNING - ThreadPoolExecutor-3_3: https://dantri.com.vn//kinh-doanh/nghien-cuu-goi-30000-ty-dong-cho-vay-mua-thue-xay-dung-va-cai-tao-nha-o-20240814202752684.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:15,234 - Crawl - ERROR - ThreadPoolExecutor-3_4: Request https://dantri.com.vn//kinh-doanh/dai-loan-my-o-at-nhap-ot-tu-viet-nam-20240813175930255.htm fail, status code: 429
+2024-08-15 15:22:15,236 - Crawl - WARNING - ThreadPoolExecutor-3_4: https://dantri.com.vn//kinh-doanh/dai-loan-my-o-at-nhap-ot-tu-viet-nam-20240813175930255.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:15,246 - Crawl - ERROR - ThreadPoolExecutor-3_3: Request https://dantri.com.vn//kinh-doanh/thanh-ly-vot-tien-trieu-sau-khi-choi-thu-pickleball-20240814180159469.htm fail, status code: 429
+2024-08-15 15:22:15,259 - Crawl - WARNING - ThreadPoolExecutor-3_3: https://dantri.com.vn//kinh-doanh/thanh-ly-vot-tien-trieu-sau-khi-choi-thu-pickleball-20240814180159469.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:15,276 - Crawl - ERROR - ThreadPoolExecutor-3_1: Request https://dantri.com.vn//kinh-doanh/gia-vang-tang-vut-20240813002445234.htm fail, status code: 429
+2024-08-15 15:22:15,278 - Crawl - WARNING - ThreadPoolExecutor-3_1: https://dantri.com.vn//kinh-doanh/gia-vang-tang-vut-20240813002445234.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:15,290 - Crawl - ERROR - ThreadPoolExecutor-3_4: Request https://dantri.com.vn//kinh-doanh/ong-ho-duc-lam-qua-dot-ban-giai-chap-ky-luc-co-phieu-rang-dong-hoi-sinh-20240814133552650.htm fail, status code: 429
+2024-08-15 15:22:15,325 - Crawl - WARNING - ThreadPoolExecutor-3_4: https://dantri.com.vn//kinh-doanh/ong-ho-duc-lam-qua-dot-ban-giai-chap-ky-luc-co-phieu-rang-dong-hoi-sinh-20240814133552650.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:15,377 - Crawl - ERROR - ThreadPoolExecutor-3_1: Request https://dantri.com.vn//kinh-doanh/dong-ta-huynh-minh-tuan-cung-loat-sep-moi-cap-ben-apg-co-phieu-tang-manh-20240813130842517.htm fail, status code: 429
+2024-08-15 15:22:15,383 - Crawl - WARNING - ThreadPoolExecutor-3_1: https://dantri.com.vn//kinh-doanh/dong-ta-huynh-minh-tuan-cung-loat-sep-moi-cap-ben-apg-co-phieu-tang-manh-20240813130842517.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:15,381 - Crawl - ERROR - ThreadPoolExecutor-3_3: Request https://dantri.com.vn//kinh-doanh/colin-huang-cuu-ky-su-google-tro-thanh-nguoi-giau-nhat-trung-quoc-20240813004355542.htm fail, status code: 429
+2024-08-15 15:22:15,401 - Crawl - WARNING - ThreadPoolExecutor-3_3: https://dantri.com.vn//kinh-doanh/colin-huang-cuu-ky-su-google-tro-thanh-nguoi-giau-nhat-trung-quoc-20240813004355542.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:15,405 - Crawl - ERROR - ThreadPoolExecutor-3_4: Request https://dantri.com.vn//kinh-doanh/gia-vang-mieng-sjc-cao-nhat-tu-dau-thang-20240815021048449.htm fail, status code: 429
+2024-08-15 15:22:15,416 - Crawl - ERROR - ThreadPoolExecutor-3_0: Request https://dantri.com.vn//kinh-doanh/thi-truong-vang-nin-tho-cho-tin-tu-my-20240814020840157.htm fail, status code: 429
+2024-08-15 15:22:15,426 - Crawl - WARNING - ThreadPoolExecutor-3_0: https://dantri.com.vn//kinh-doanh/thi-truong-vang-nin-tho-cho-tin-tu-my-20240814020840157.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:15,422 - Crawl - WARNING - ThreadPoolExecutor-3_4: https://dantri.com.vn//kinh-doanh/gia-vang-mieng-sjc-cao-nhat-tu-dau-thang-20240815021048449.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:15,658 - Crawl - ERROR - ThreadPoolExecutor-4_0: Request https://dantri.com.vn//the-gioi/nghien-cuu-hon-47000-nguoi-tu-vong-vi-nang-nong-o-chau-au-nam-2023-20240814070936813.htm fail, status code: 429
+2024-08-15 15:22:15,660 - Crawl - WARNING - ThreadPoolExecutor-4_0: https://dantri.com.vn//the-gioi/nghien-cuu-hon-47000-nguoi-tu-vong-vi-nang-nong-o-chau-au-nam-2023-20240814070936813.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:15,712 - Crawl - ERROR - ThreadPoolExecutor-4_2: Request https://dantri.com.vn//the-gioi/nhung-dieu-dac-biet-va-thu-vi-tai-army-2024-20240814042244967.htm fail, status code: 429
+2024-08-15 15:22:15,725 - Crawl - WARNING - ThreadPoolExecutor-4_2: https://dantri.com.vn//the-gioi/nhung-dieu-dac-biet-va-thu-vi-tai-army-2024-20240814042244967.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:15,840 - Crawl - ERROR - ThreadPoolExecutor-4_0: Request https://dantri.com.vn//the-gioi/nguoi-giau-nhat-the-gioi-vao-cuoc-giup-ong-trump-tranh-cu-20240814123629520.htm fail, status code: 429
+2024-08-15 15:22:15,857 - Crawl - WARNING - ThreadPoolExecutor-4_0: https://dantri.com.vn//the-gioi/nguoi-giau-nhat-the-gioi-vao-cuoc-giup-ong-trump-tranh-cu-20240814123629520.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:16,089 - Crawl - WARNING - ThreadPoolExecutor-4_3: https://dantri.com.vn//the-gioi/so-tan-tay-nhieu-vu-khi-khung-vua-lo-dien-tai-army-2024-o-nga-20240813041232324.htm Find element by xpath: List element empty
+2024-08-15 15:22:16,103 - Crawl - ERROR - ThreadPoolExecutor-4_3: Detect result false
+2024-08-15 15:22:16,106 - Crawl - WARNING - ThreadPoolExecutor-4_3: https://dantri.com.vn//the-gioi/so-tan-tay-nhieu-vu-khi-khung-vua-lo-dien-tai-army-2024-o-nga-20240813041232324.htm Find element by xpath: List element empty
+2024-08-15 15:22:16,107 - Crawl - ERROR - ThreadPoolExecutor-4_3: Detect result false
+2024-08-15 15:22:16,121 - Crawl - WARNING - ThreadPoolExecutor-4_3: https://dantri.com.vn//the-gioi/so-tan-tay-nhieu-vu-khi-khung-vua-lo-dien-tai-army-2024-o-nga-20240813041232324.htm Find element by xpath: List element empty
+2024-08-15 15:22:16,123 - Crawl - ERROR - ThreadPoolExecutor-4_3: Detect result false
+2024-08-15 15:22:16,157 - Crawl - WARNING - ThreadPoolExecutor-4_3: https://dantri.com.vn//the-gioi/so-tan-tay-nhieu-vu-khi-khung-vua-lo-dien-tai-army-2024-o-nga-20240813041232324.htm Find element by xpath: List element empty
+2024-08-15 15:22:16,168 - Crawl - ERROR - ThreadPoolExecutor-4_3: Detect result false
+2024-08-15 15:22:16,179 - Crawl - WARNING - ThreadPoolExecutor-4_3: https://dantri.com.vn//the-gioi/so-tan-tay-nhieu-vu-khi-khung-vua-lo-dien-tai-army-2024-o-nga-20240813041232324.htm Find element by xpath: List element empty
+2024-08-15 15:22:16,200 - Crawl - ERROR - ThreadPoolExecutor-4_3: Detect result false
+2024-08-15 15:22:16,205 - Crawl - WARNING - ThreadPoolExecutor-4_3: https://dantri.com.vn//the-gioi/so-tan-tay-nhieu-vu-khi-khung-vua-lo-dien-tai-army-2024-o-nga-20240813041232324.htm Find element by xpath: List element empty
+2024-08-15 15:22:16,211 - Crawl - ERROR - ThreadPoolExecutor-4_3: Detect result false
+2024-08-15 15:22:16,359 - Crawl - ERROR - ThreadPoolExecutor-4_3: Request https://dantri.com.vn//the-gioi/ba-harris-dan-truoc-ong-trump-o-57-bang-chien-dia-20240815081236267.htm fail, status code: 429
+2024-08-15 15:22:16,382 - Crawl - WARNING - ThreadPoolExecutor-4_3: https://dantri.com.vn//the-gioi/ba-harris-dan-truoc-ong-trump-o-57-bang-chien-dia-20240815081236267.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:16,484 - Crawl - ERROR - ThreadPoolExecutor-4_3: Request https://dantri.com.vn//the-gioi/ukraine-tuyen-bo-dat-muc-tieu-chien-luoc-trong-cuoc-dot-kich-bien-gioi-nga-20240815061253457.htm fail, status code: 429
+2024-08-15 15:22:16,492 - Crawl - WARNING - ThreadPoolExecutor-4_3: https://dantri.com.vn//the-gioi/ukraine-tuyen-bo-dat-muc-tieu-chien-luoc-trong-cuoc-dot-kich-bien-gioi-nga-20240815061253457.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:16,515 - Crawl - ERROR - ThreadPoolExecutor-4_1: Request https://dantri.com.vn//the-gioi/set-danh-trung-tram-nghi-trong-cong-vien-trung-quoc-6-nguoi-chet-20240812163616135.htm fail, status code: 429
+2024-08-15 15:22:16,536 - Crawl - WARNING - ThreadPoolExecutor-4_1: https://dantri.com.vn//the-gioi/set-danh-trung-tram-nghi-trong-cong-vien-trung-quoc-6-nguoi-chet-20240812163616135.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:16,568 - Crawl - ERROR - ThreadPoolExecutor-4_4: Request https://dantri.com.vn//the-gioi/my-thanh-pho-oklahoma-den-bu-715-trieu-usd-cho-nguoi-ngoi-tu-oan-48-nam-20240815083146870.htm fail, status code: 429
+2024-08-15 15:22:16,642 - Crawl - WARNING - ThreadPoolExecutor-4_4: https://dantri.com.vn//the-gioi/my-thanh-pho-oklahoma-den-bu-715-trieu-usd-cho-nguoi-ngoi-tu-oan-48-nam-20240815083146870.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:16,734 - Crawl - ERROR - ThreadPoolExecutor-4_0: Request https://dantri.com.vn//the-gioi/dong-minh-nato-hoai-nghi-ve-cuoc-tan-cong-cua-ukraine-vao-kursk-20240814185034571.htm fail, status code: 429
+2024-08-15 15:22:16,769 - Crawl - WARNING - ThreadPoolExecutor-4_0: https://dantri.com.vn//the-gioi/dong-minh-nato-hoai-nghi-ve-cuoc-tan-cong-cua-ukraine-vao-kursk-20240814185034571.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:16,782 - Crawl - ERROR - ThreadPoolExecutor-4_2: Request https://dantri.com.vn//the-gioi/nghi-si-nga-tiet-lo-lo-hong-khien-ukraine-dua-quan-tien-sau-vao-lanh-tho-20240814185037953.htm fail, status code: 429
+2024-08-15 15:22:16,802 - Crawl - WARNING - ThreadPoolExecutor-4_2: https://dantri.com.vn//the-gioi/nghi-si-nga-tiet-lo-lo-hong-khien-ukraine-dua-quan-tien-sau-vao-lanh-tho-20240814185037953.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:16,906 - Crawl - ERROR - ThreadPoolExecutor-4_0: Request https://dantri.com.vn//the-gioi/duc-phat-lenh-bat-nghi-pham-ukraine-trong-vu-pha-hoai-nord-stream-20240814144556495.htm fail, status code: 429
+2024-08-15 15:22:16,910 - Crawl - WARNING - ThreadPoolExecutor-4_0: https://dantri.com.vn//the-gioi/duc-phat-lenh-bat-nghi-pham-ukraine-trong-vu-pha-hoai-nord-stream-20240814144556495.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:16,918 - Crawl - ERROR - ThreadPoolExecutor-4_2: Request https://dantri.com.vn//the-gioi/ukraine-tuyen-bo-ban-roi-may-bay-nem-bom-50-trieu-usd-cua-nga-tai-kursk-20240815064454992.htm fail, status code: 429
+2024-08-15 15:22:16,941 - Crawl - WARNING - ThreadPoolExecutor-4_2: https://dantri.com.vn//the-gioi/ukraine-tuyen-bo-ban-roi-may-bay-nem-bom-50-trieu-usd-cua-nga-tai-kursk-20240815064454992.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:16,946 - Crawl - ERROR - ThreadPoolExecutor-4_1: Request https://dantri.com.vn//the-gioi/ong-trump-bi-bac-kien-nghi-doi-tham-phan-vu-chi-tien-bit-mieng-20240814233500106.htm fail, status code: 429
+2024-08-15 15:22:16,977 - Crawl - WARNING - ThreadPoolExecutor-4_1: https://dantri.com.vn//the-gioi/ong-trump-bi-bac-kien-nghi-doi-tham-phan-vu-chi-tien-bit-mieng-20240814233500106.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:16,990 - Crawl - ERROR - ThreadPoolExecutor-4_0: Request https://dantri.com.vn//the-gioi/3-kich-ban-sau-chien-dich-dot-kich-kursk-cua-ukraine-20240815124724106.htm fail, status code: 429
+2024-08-15 15:22:17,006 - Crawl - WARNING - ThreadPoolExecutor-4_0: https://dantri.com.vn//the-gioi/3-kich-ban-sau-chien-dich-dot-kich-kursk-cua-ukraine-20240815124724106.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:17,119 - Crawl - ERROR - ThreadPoolExecutor-4_4: Request https://dantri.com.vn//the-gioi/ukraine-co-the-da-thu-duoc-mo-vang-tinh-bao-o-bien-gioi-nga-20240815085305108.htm fail, status code: 429
+2024-08-15 15:22:17,145 - Crawl - WARNING - ThreadPoolExecutor-4_4: https://dantri.com.vn//the-gioi/ukraine-co-the-da-thu-duoc-mo-vang-tinh-bao-o-bien-gioi-nga-20240815085305108.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:17,238 - Crawl - ERROR - ThreadPoolExecutor-4_2: Request https://dantri.com.vn//the-gioi/hai-may-bay-chien-dau-phap-va-cham-20240814211544184.htm fail, status code: 429
+2024-08-15 15:22:17,243 - Crawl - WARNING - ThreadPoolExecutor-4_2: https://dantri.com.vn//the-gioi/hai-may-bay-chien-dau-phap-va-cham-20240814211544184.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:17,374 - Crawl - ERROR - ThreadPoolExecutor-4_2: Request https://dantri.com.vn//the-gioi/nhung-dieu-dac-biet-va-thu-vi-tai-army-2024-20240814042244967.htm fail, status code: 429
+2024-08-15 15:22:17,379 - Crawl - WARNING - ThreadPoolExecutor-4_2: https://dantri.com.vn//the-gioi/nhung-dieu-dac-biet-va-thu-vi-tai-army-2024-20240814042244967.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:17,495 - Crawl - ERROR - ThreadPoolExecutor-4_2: Request https://dantri.com.vn//the-gioi/so-tan-tay-nhieu-vu-khi-khung-vua-lo-dien-tai-army-2024-o-nga-20240813041232324.htm fail, status code: 429
+2024-08-15 15:22:17,508 - Crawl - WARNING - ThreadPoolExecutor-4_2: https://dantri.com.vn//the-gioi/so-tan-tay-nhieu-vu-khi-khung-vua-lo-dien-tai-army-2024-o-nga-20240813041232324.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:17,557 - Crawl - ERROR - ThreadPoolExecutor-4_1: Request https://dantri.com.vn//the-gioi/tinh-bien-gioi-thu-hai-cua-nga-ban-bo-tinh-trang-khan-cap-20240814133237603.htm fail, status code: 429
+2024-08-15 15:22:17,565 - Crawl - WARNING - ThreadPoolExecutor-4_1: https://dantri.com.vn//the-gioi/tinh-bien-gioi-thu-hai-cua-nga-ban-bo-tinh-trang-khan-cap-20240814133237603.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:17,587 - Crawl - ERROR - ThreadPoolExecutor-4_2: Request https://dantri.com.vn//the-gioi/ty-phu-elon-musk-muon-phong-van-truc-tiep-ba-harris-20240814070750265.htm fail, status code: 429
+2024-08-15 15:22:17,589 - Crawl - WARNING - ThreadPoolExecutor-4_2: https://dantri.com.vn//the-gioi/ty-phu-elon-musk-muon-phong-van-truc-tiep-ba-harris-20240814070750265.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:17,606 - Crawl - ERROR - ThreadPoolExecutor-4_4: Request https://dantri.com.vn//the-gioi/vi-sao-ukraine-dua-quan-vao-lanh-tho-nga-o-thoi-diem-nay-20240814122610971.htm fail, status code: 429
+2024-08-15 15:22:17,612 - Crawl - WARNING - ThreadPoolExecutor-4_4: https://dantri.com.vn//the-gioi/vi-sao-ukraine-dua-quan-vao-lanh-tho-nga-o-thoi-diem-nay-20240814122610971.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:17,664 - Crawl - ERROR - ThreadPoolExecutor-4_2: Request https://dantri.com.vn//the-gioi/tuong-nga-neu-muc-tieu-bat-thanh-cua-ukraine-trong-vu-tan-cong-kursk-20240814172917411.htm fail, status code: 429
+2024-08-15 15:22:17,676 - Crawl - WARNING - ThreadPoolExecutor-4_2: https://dantri.com.vn//the-gioi/tuong-nga-neu-muc-tieu-bat-thanh-cua-ukraine-trong-vu-tan-cong-kursk-20240814172917411.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:17,756 - Crawl - ERROR - ThreadPoolExecutor-4_3: Request https://dantri.com.vn//the-gioi/set-danh-trung-tram-nghi-trong-cong-vien-trung-quoc-6-nguoi-chet-20240812163616135.htm fail, status code: 429
+2024-08-15 15:22:17,762 - Crawl - ERROR - ThreadPoolExecutor-4_2: Request https://dantri.com.vn//the-gioi/ukraine-tuyen-bo-dat-muc-tieu-chien-luoc-trong-cuoc-dot-kich-bien-gioi-nga-20240815061253457.htm fail, status code: 429
+2024-08-15 15:22:17,767 - Crawl - WARNING - ThreadPoolExecutor-4_3: https://dantri.com.vn//the-gioi/set-danh-trung-tram-nghi-trong-cong-vien-trung-quoc-6-nguoi-chet-20240812163616135.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:17,769 - Crawl - WARNING - ThreadPoolExecutor-4_2: https://dantri.com.vn//the-gioi/ukraine-tuyen-bo-dat-muc-tieu-chien-luoc-trong-cuoc-dot-kich-bien-gioi-nga-20240815061253457.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:17,931 - Crawl - ERROR - ThreadPoolExecutor-4_4: Request https://dantri.com.vn//the-gioi/ty-phu-elon-musk-muon-mot-ghe-trong-chinh-quyen-cua-ong-trump-20240813102142211.htm fail, status code: 429
+2024-08-15 15:22:18,022 - Crawl - WARNING - ThreadPoolExecutor-4_4: https://dantri.com.vn//the-gioi/ty-phu-elon-musk-muon-mot-ghe-trong-chinh-quyen-cua-ong-trump-20240813102142211.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:17,996 - Crawl - ERROR - ThreadPoolExecutor-4_0: Request https://dantri.com.vn//the-gioi/chien-su-ukraine-158-nga-nghi-kiev-muon-chiem-nha-may-dien-hat-nhan-kursk-20240815105610458.htm fail, status code: 429
+2024-08-15 15:22:17,967 - Crawl - ERROR - ThreadPoolExecutor-4_1: Request https://dantri.com.vn//the-gioi/nghi-si-nga-tiet-lo-lo-hong-khien-ukraine-dua-quan-tien-sau-vao-lanh-tho-20240814185037953.htm fail, status code: 429
+2024-08-15 15:22:18,074 - Crawl - WARNING - ThreadPoolExecutor-4_0: https://dantri.com.vn//the-gioi/chien-su-ukraine-158-nga-nghi-kiev-muon-chiem-nha-may-dien-hat-nhan-kursk-20240815105610458.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:18,105 - Crawl - WARNING - ThreadPoolExecutor-4_1: https://dantri.com.vn//the-gioi/nghi-si-nga-tiet-lo-lo-hong-khien-ukraine-dua-quan-tien-sau-vao-lanh-tho-20240814185037953.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:18,601 - Crawl - ERROR - ThreadPoolExecutor-4_2: Request https://dantri.com.vn//the-gioi/iran-khong-tu-bo-ke-hoach-tra-thu-israel-20240815070202893.htm fail, status code: 429
+2024-08-15 15:22:18,608 - Crawl - WARNING - ThreadPoolExecutor-4_2: https://dantri.com.vn//the-gioi/iran-khong-tu-bo-ke-hoach-tra-thu-israel-20240815070202893.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:18,702 - Crawl - ERROR - ThreadPoolExecutor-4_1: Request https://dantri.com.vn//the-gioi/hai-may-bay-chien-dau-phap-va-cham-20240814211544184.htm fail, status code: 429
+2024-08-15 15:22:18,704 - Crawl - WARNING - ThreadPoolExecutor-4_1: https://dantri.com.vn//the-gioi/hai-may-bay-chien-dau-phap-va-cham-20240814211544184.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:18,930 - Crawl - ERROR - ThreadPoolExecutor-5_1: Request https://dantri.com.vn//bat-dong-san/thu-tuong-yeu-cau-tap-trung-nguon-luc-trien-khai-3-luat-lien-quan-den-bds-20240814090927322.htm fail, status code: 429
+2024-08-15 15:22:18,941 - Crawl - WARNING - ThreadPoolExecutor-5_1: https://dantri.com.vn//bat-dong-san/thu-tuong-yeu-cau-tap-trung-nguon-luc-trien-khai-3-luat-lien-quan-den-bds-20240814090927322.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:19,063 - Crawl - ERROR - ThreadPoolExecutor-5_3: Request https://dantri.com.vn//bat-dong-san/gioi-tre-viet-nam-luoi-cuoi-ngai-de-vi-gia-nha-tang-chong-mat-20240813145522530.htm fail, status code: 429
+2024-08-15 15:22:19,077 - Crawl - WARNING - ThreadPoolExecutor-5_3: https://dantri.com.vn//bat-dong-san/gioi-tre-viet-nam-luoi-cuoi-ngai-de-vi-gia-nha-tang-chong-mat-20240813145522530.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:19,204 - Crawl - ERROR - ThreadPoolExecutor-5_3: Request https://dantri.com.vn//bat-dong-san/tiep-tuc-ap-dung-bang-gia-dat-den-het-nam-2025-20240812103343370.htm fail, status code: 429
+2024-08-15 15:22:19,212 - Crawl - WARNING - ThreadPoolExecutor-5_3: https://dantri.com.vn//bat-dong-san/tiep-tuc-ap-dung-bang-gia-dat-den-het-nam-2025-20240812103343370.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:19,282 - Crawl - WARNING - ThreadPoolExecutor-5_1: https://dantri.com.vn//bat-dong-san/du-thao-bang-gia-dat-moi-tphcm-can-day-manh-tuyen-truyen-20240814092410779.htm Find element by xpath: List element empty
+2024-08-15 15:22:19,301 - Crawl - ERROR - ThreadPoolExecutor-5_1: Detect result false
+2024-08-15 15:22:19,306 - Crawl - WARNING - ThreadPoolExecutor-5_1: https://dantri.com.vn//bat-dong-san/du-thao-bang-gia-dat-moi-tphcm-can-day-manh-tuyen-truyen-20240814092410779.htm Find element by xpath: List element empty
+2024-08-15 15:22:19,308 - Crawl - ERROR - ThreadPoolExecutor-5_1: Detect result false
+2024-08-15 15:22:19,310 - Crawl - WARNING - ThreadPoolExecutor-5_1: https://dantri.com.vn//bat-dong-san/du-thao-bang-gia-dat-moi-tphcm-can-day-manh-tuyen-truyen-20240814092410779.htm Find element by xpath: List element empty
+2024-08-15 15:22:19,314 - Crawl - ERROR - ThreadPoolExecutor-5_1: Detect result false
+2024-08-15 15:22:19,317 - Crawl - WARNING - ThreadPoolExecutor-5_1: https://dantri.com.vn//bat-dong-san/du-thao-bang-gia-dat-moi-tphcm-can-day-manh-tuyen-truyen-20240814092410779.htm Find element by xpath: List element empty
+2024-08-15 15:22:19,302 - Crawl - ERROR - ThreadPoolExecutor-5_3: Request https://dantri.com.vn//bat-dong-san/du-thao-bang-gia-dat-tphcm-co-noi-tang-51-lan-gioi-chuyen-gia-kien-nghi-20240812160235605.htm fail, status code: 429
+2024-08-15 15:22:19,337 - Crawl - ERROR - ThreadPoolExecutor-5_1: Detect result false
+2024-08-15 15:22:19,340 - Crawl - ERROR - ThreadPoolExecutor-5_2: Request https://dantri.com.vn//bat-dong-san/nguoi-nuoc-ngoai-duoc-so-huu-bao-nhieu-nha-o-chung-cu-tai-viet-nam-20240810160611372.htm fail, status code: 429
+2024-08-15 15:22:19,346 - Crawl - WARNING - ThreadPoolExecutor-5_2: https://dantri.com.vn//bat-dong-san/nguoi-nuoc-ngoai-duoc-so-huu-bao-nhieu-nha-o-chung-cu-tai-viet-nam-20240810160611372.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:19,342 - Crawl - WARNING - ThreadPoolExecutor-5_3: https://dantri.com.vn//bat-dong-san/du-thao-bang-gia-dat-tphcm-co-noi-tang-51-lan-gioi-chuyen-gia-kien-nghi-20240812160235605.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:19,341 - Crawl - ERROR - ThreadPoolExecutor-5_4: Request https://dantri.com.vn//bat-dong-san/dien-bien-gia-dat-thanh-oai-truoc-vu-dau-gia-100-trieu-dongm2-20240813170315452.htm fail, status code: 429
+2024-08-15 15:22:19,362 - Crawl - WARNING - ThreadPoolExecutor-5_4: https://dantri.com.vn//bat-dong-san/dien-bien-gia-dat-thanh-oai-truoc-vu-dau-gia-100-trieu-dongm2-20240813170315452.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:19,360 - Crawl - WARNING - ThreadPoolExecutor-5_1: https://dantri.com.vn//bat-dong-san/du-thao-bang-gia-dat-moi-tphcm-can-day-manh-tuyen-truyen-20240814092410779.htm Find element by xpath: List element empty
+2024-08-15 15:22:19,377 - Crawl - ERROR - ThreadPoolExecutor-5_1: Detect result false
+2024-08-15 15:22:19,381 - Crawl - WARNING - ThreadPoolExecutor-5_1: https://dantri.com.vn//bat-dong-san/du-thao-bang-gia-dat-moi-tphcm-can-day-manh-tuyen-truyen-20240814092410779.htm Find element by xpath: List element empty
+2024-08-15 15:22:19,407 - Crawl - ERROR - ThreadPoolExecutor-5_1: Detect result false
+2024-08-15 15:22:19,413 - Crawl - ERROR - ThreadPoolExecutor-5_0: Request https://dantri.com.vn//bat-dong-san/thu-tuong-yeu-cau-tap-trung-nguon-luc-trien-khai-3-luat-lien-quan-den-bds-20240814090927322.htm fail, status code: 429
+2024-08-15 15:22:19,444 - Crawl - WARNING - ThreadPoolExecutor-5_0: https://dantri.com.vn//bat-dong-san/thu-tuong-yeu-cau-tap-trung-nguon-luc-trien-khai-3-luat-lien-quan-den-bds-20240814090927322.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:19,498 - Crawl - ERROR - ThreadPoolExecutor-5_2: Request https://dantri.com.vn//bat-dong-san/khong-con-nguoi-su-dung-dat-la-ho-gia-dinh-so-do-da-cap-se-xu-ly-ra-sao-20240812134410907.htm fail, status code: 429
+2024-08-15 15:22:19,507 - Crawl - WARNING - ThreadPoolExecutor-5_2: https://dantri.com.vn//bat-dong-san/khong-con-nguoi-su-dung-dat-la-ho-gia-dinh-so-do-da-cap-se-xu-ly-ra-sao-20240812134410907.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:19,534 - Crawl - ERROR - ThreadPoolExecutor-5_1: Request https://dantri.com.vn//bat-dong-san/thong-tin-moi-ve-3-du-an-dang-do-tren-dat-kim-cuong-o-da-nang-20240806185654309.htm fail, status code: 429
+2024-08-15 15:22:19,539 - Crawl - WARNING - ThreadPoolExecutor-5_1: https://dantri.com.vn//bat-dong-san/thong-tin-moi-ve-3-du-an-dang-do-tren-dat-kim-cuong-o-da-nang-20240806185654309.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:19,536 - Crawl - ERROR - ThreadPoolExecutor-5_0: Request https://dantri.com.vn//bat-dong-san/nghi-chung-cu-ngao-gia-khach-ru-nhau-dung-mua-cho-gia-xuong-20240814184430041.htm fail, status code: 429
+2024-08-15 15:22:19,556 - Crawl - WARNING - ThreadPoolExecutor-5_0: https://dantri.com.vn//bat-dong-san/nghi-chung-cu-ngao-gia-khach-ru-nhau-dung-mua-cho-gia-xuong-20240814184430041.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:19,592 - Crawl - WARNING - ThreadPoolExecutor-5_4: https://dantri.com.vn//bat-dong-san/du-thao-bang-gia-dat-moi-tphcm-can-day-manh-tuyen-truyen-20240814092410779.htm Find element by xpath: List element empty
+2024-08-15 15:22:19,605 - Crawl - ERROR - ThreadPoolExecutor-5_4: Detect result false
+2024-08-15 15:22:19,607 - Crawl - WARNING - ThreadPoolExecutor-5_4: https://dantri.com.vn//bat-dong-san/du-thao-bang-gia-dat-moi-tphcm-can-day-manh-tuyen-truyen-20240814092410779.htm Find element by xpath: List element empty
+2024-08-15 15:22:19,609 - Crawl - ERROR - ThreadPoolExecutor-5_4: Detect result false
+2024-08-15 15:22:19,614 - Crawl - ERROR - ThreadPoolExecutor-5_0: Request https://dantri.com.vn//bat-dong-san/nguoi-nuoc-ngoai-duoc-so-huu-bao-nhieu-nha-o-chung-cu-tai-viet-nam-20240810160611372.htm fail, status code: 429
+2024-08-15 15:22:19,618 - Crawl - WARNING - ThreadPoolExecutor-5_0: https://dantri.com.vn//bat-dong-san/nguoi-nuoc-ngoai-duoc-so-huu-bao-nhieu-nha-o-chung-cu-tai-viet-nam-20240810160611372.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:19,620 - Crawl - WARNING - ThreadPoolExecutor-5_4: https://dantri.com.vn//bat-dong-san/du-thao-bang-gia-dat-moi-tphcm-can-day-manh-tuyen-truyen-20240814092410779.htm Find element by xpath: List element empty
+2024-08-15 15:22:19,631 - Crawl - ERROR - ThreadPoolExecutor-5_4: Detect result false
+2024-08-15 15:22:19,643 - Crawl - WARNING - ThreadPoolExecutor-5_4: https://dantri.com.vn//bat-dong-san/du-thao-bang-gia-dat-moi-tphcm-can-day-manh-tuyen-truyen-20240814092410779.htm Find element by xpath: List element empty
+2024-08-15 15:22:19,648 - Crawl - ERROR - ThreadPoolExecutor-5_4: Detect result false
+2024-08-15 15:22:19,651 - Crawl - WARNING - ThreadPoolExecutor-5_4: https://dantri.com.vn//bat-dong-san/du-thao-bang-gia-dat-moi-tphcm-can-day-manh-tuyen-truyen-20240814092410779.htm Find element by xpath: List element empty
+2024-08-15 15:22:19,652 - Crawl - ERROR - ThreadPoolExecutor-5_4: Detect result false
+2024-08-15 15:22:19,681 - Crawl - WARNING - ThreadPoolExecutor-5_4: https://dantri.com.vn//bat-dong-san/du-thao-bang-gia-dat-moi-tphcm-can-day-manh-tuyen-truyen-20240814092410779.htm Find element by xpath: List element empty
+2024-08-15 15:22:19,683 - Crawl - ERROR - ThreadPoolExecutor-5_4: Detect result false
+2024-08-15 15:22:19,864 - Crawl - ERROR - ThreadPoolExecutor-6_0: Request https://dantri.com.vn//the-thao/vi-tri-nao-cho-the-thao-viet-nam-o-mon-boi-va-dien-kinh-tai-olympic-20240815011440849.htm fail, status code: 429
+2024-08-15 15:22:19,881 - Crawl - WARNING - ThreadPoolExecutor-6_0: https://dantri.com.vn//the-thao/vi-tri-nao-cho-the-thao-viet-nam-o-mon-boi-va-dien-kinh-tai-olympic-20240815011440849.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:19,952 - Crawl - ERROR - ThreadPoolExecutor-6_3: Request https://dantri.com.vn//the-thao/doi-tuyen-nga-bi-chi-trich-khi-thi-dau-voi-doi-tuyen-viet-nam-20240813105831406.htm fail, status code: 429
+2024-08-15 15:22:19,961 - Crawl - WARNING - ThreadPoolExecutor-6_3: https://dantri.com.vn//the-thao/doi-tuyen-nga-bi-chi-trich-khi-thi-dau-voi-doi-tuyen-viet-nam-20240813105831406.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:20,009 - Crawl - ERROR - ThreadPoolExecutor-6_0: Request https://dantri.com.vn//the-thao/cuoc-song-xa-hoa-cua-vdv-bi-ghet-bo-vi-an-mac-ho-hang-20240814181342530.htm fail, status code: 429
+2024-08-15 15:22:20,016 - Crawl - WARNING - ThreadPoolExecutor-6_0: https://dantri.com.vn//the-thao/cuoc-song-xa-hoa-cua-vdv-bi-ghet-bo-vi-an-mac-ho-hang-20240814181342530.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:20,060 - Crawl - ERROR - ThreadPoolExecutor-6_3: Request https://dantri.com.vn//the-thao/hlv-gasperini-atalanta-da-bo-lo-co-hoi-danh-bai-real-madrid-20240815093803186.htm fail, status code: 429
+2024-08-15 15:22:20,076 - Crawl - WARNING - ThreadPoolExecutor-6_3: https://dantri.com.vn//the-thao/hlv-gasperini-atalanta-da-bo-lo-co-hoi-danh-bai-real-madrid-20240815093803186.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:20,113 - Crawl - ERROR - ThreadPoolExecutor-6_0: Request https://dantri.com.vn//the-thao/real-madrid-nhan-cu-soc-ngay-truoc-tran-chien-quan-trong-20240814141521978.htm fail, status code: 429
+2024-08-15 15:22:20,115 - Crawl - WARNING - ThreadPoolExecutor-6_0: https://dantri.com.vn//the-thao/real-madrid-nhan-cu-soc-ngay-truoc-tran-chien-quan-trong-20240814141521978.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:20,149 - Crawl - ERROR - ThreadPoolExecutor-6_3: Request https://dantri.com.vn//the-thao/vi-sao-indonesia-muon-vuot-qua-nhieu-cuong-quoc-lot-vao-top-5-olympic-20240814173958973.htm fail, status code: 429
+2024-08-15 15:22:20,152 - Crawl - WARNING - ThreadPoolExecutor-6_3: https://dantri.com.vn//the-thao/vi-sao-indonesia-muon-vuot-qua-nhieu-cuong-quoc-lot-vao-top-5-olympic-20240814173958973.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:20,167 - Crawl - ERROR - ThreadPoolExecutor-6_1: Request https://dantri.com.vn//the-thao/doi-thu-cua-doi-tuyen-viet-nam-thay-hlv-ngay-truoc-aff-cup-20240814115539756.htm fail, status code: 429
+2024-08-15 15:22:20,168 - Crawl - WARNING - ThreadPoolExecutor-6_1: https://dantri.com.vn//the-thao/doi-thu-cua-doi-tuyen-viet-nam-thay-hlv-ngay-truoc-aff-cup-20240814115539756.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:20,206 - Crawl - ERROR - ThreadPoolExecutor-6_0: Request https://dantri.com.vn//the-thao/vo-si-viet-nam-bi-dam-bat-tinh-o-su-kien-quoc-te-20240815134141988.htm fail, status code: 429
+2024-08-15 15:22:20,208 - Crawl - WARNING - ThreadPoolExecutor-6_0: https://dantri.com.vn//the-thao/vo-si-viet-nam-bi-dam-bat-tinh-o-su-kien-quoc-te-20240815134141988.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:20,233 - Crawl - ERROR - ThreadPoolExecutor-6_3: Request https://dantri.com.vn//the-thao/bruno-fernandes-gia-han-hop-dong-voi-man-utd-20240815075221452.htm fail, status code: 429
+2024-08-15 15:22:20,243 - Crawl - WARNING - ThreadPoolExecutor-6_3: https://dantri.com.vn//the-thao/bruno-fernandes-gia-han-hop-dong-voi-man-utd-20240815075221452.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:20,345 - Crawl - ERROR - ThreadPoolExecutor-6_4: Request https://dantri.com.vn//the-thao/man-utd-chinh-thuc-ky-hop-dong-voi-de-ligt-va-mazraoui-20240814090539006.htm fail, status code: 429
+2024-08-15 15:22:20,350 - Crawl - WARNING - ThreadPoolExecutor-6_4: https://dantri.com.vn//the-thao/man-utd-chinh-thuc-ky-hop-dong-voi-de-ligt-va-mazraoui-20240814090539006.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:20,510 - Crawl - ERROR - ThreadPoolExecutor-6_1: Request https://dantri.com.vn//the-thao/bo-cua-lamine-yamal-trong-thuong-sau-khi-bi-dam-nhieu-nhat-20240815091117302.htm fail, status code: 429
+2024-08-15 15:22:20,527 - Crawl - WARNING - ThreadPoolExecutor-6_1: https://dantri.com.vn//the-thao/bo-cua-lamine-yamal-trong-thuong-sau-khi-bi-dam-nhieu-nhat-20240815091117302.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:20,567 - Crawl - WARNING - ThreadPoolExecutor-6_2: https://dantri.com.vn//the-thao/nhan-sac-xinh-dep-cua-cap-chi-em-song-sinh-trung-quoc-gianh-hcv-olympic-20240814002136328.htm Find element by xpath: List element empty
+2024-08-15 15:22:20,582 - Crawl - ERROR - ThreadPoolExecutor-6_2: Detect result false
+2024-08-15 15:22:20,830 - Crawl - ERROR - ThreadPoolExecutor-6_1: Request https://dantri.com.vn//the-thao/clb-bong-da-khanh-hoa-nhan-lenh-cam-chuyen-nhuong-tu-fifa-20240813203253789.htm fail, status code: 429
+2024-08-15 15:22:20,836 - Crawl - WARNING - ThreadPoolExecutor-6_1: https://dantri.com.vn//the-thao/clb-bong-da-khanh-hoa-nhan-lenh-cam-chuyen-nhuong-tu-fifa-20240813203253789.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:20,886 - Crawl - ERROR - ThreadPoolExecutor-6_2: Request https://dantri.com.vn//the-thao/mbappe-ghi-ban-giup-real-madrid-doat-sieu-cup-chau-au-20240815054420938.htm fail, status code: 429
+2024-08-15 15:22:20,902 - Crawl - WARNING - ThreadPoolExecutor-6_2: https://dantri.com.vn//the-thao/mbappe-ghi-ban-giup-real-madrid-doat-sieu-cup-chau-au-20240815054420938.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:20,960 - Crawl - WARNING - ThreadPoolExecutor-6_3: https://dantri.com.vn//the-thao/man-utd-va-8-thang-cai-to-kieu-hoa-dau-cua-ty-phu-ratcliffe-20240814180441088.htm Find element by xpath: List element empty
+2024-08-15 15:22:20,973 - Crawl - ERROR - ThreadPoolExecutor-6_3: Detect result false
+2024-08-15 15:22:20,981 - Crawl - WARNING - ThreadPoolExecutor-6_3: https://dantri.com.vn//the-thao/man-utd-va-8-thang-cai-to-kieu-hoa-dau-cua-ty-phu-ratcliffe-20240814180441088.htm Find element by xpath: List element empty
+2024-08-15 15:22:21,015 - Crawl - ERROR - ThreadPoolExecutor-6_3: Detect result false
+2024-08-15 15:22:21,030 - Crawl - WARNING - ThreadPoolExecutor-6_3: https://dantri.com.vn//the-thao/man-utd-va-8-thang-cai-to-kieu-hoa-dau-cua-ty-phu-ratcliffe-20240814180441088.htm Find element by xpath: List element empty
+2024-08-15 15:22:21,040 - Crawl - ERROR - ThreadPoolExecutor-6_3: Detect result false
+2024-08-15 15:22:21,047 - Crawl - WARNING - ThreadPoolExecutor-6_3: https://dantri.com.vn//the-thao/man-utd-va-8-thang-cai-to-kieu-hoa-dau-cua-ty-phu-ratcliffe-20240814180441088.htm Find element by xpath: List element empty
+2024-08-15 15:22:21,060 - Crawl - ERROR - ThreadPoolExecutor-6_3: Detect result false
+2024-08-15 15:22:21,059 - Crawl - ERROR - ThreadPoolExecutor-6_0: Request https://dantri.com.vn//the-thao/no-luong-cau-thu-clb-khanh-hoa-co-the-phai-thi-dau-o-giai-hang-ba-20240814213219618.htm fail, status code: 429
+2024-08-15 15:22:21,074 - Crawl - WARNING - ThreadPoolExecutor-6_0: https://dantri.com.vn//the-thao/no-luong-cau-thu-clb-khanh-hoa-co-the-phai-thi-dau-o-giai-hang-ba-20240814213219618.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:21,118 - Crawl - WARNING - ThreadPoolExecutor-6_3: https://dantri.com.vn//the-thao/man-utd-va-8-thang-cai-to-kieu-hoa-dau-cua-ty-phu-ratcliffe-20240814180441088.htm Find element by xpath: List element empty
+2024-08-15 15:22:21,123 - Crawl - ERROR - ThreadPoolExecutor-6_3: Detect result false
+2024-08-15 15:22:21,128 - Crawl - WARNING - ThreadPoolExecutor-6_3: https://dantri.com.vn//the-thao/man-utd-va-8-thang-cai-to-kieu-hoa-dau-cua-ty-phu-ratcliffe-20240814180441088.htm Find element by xpath: List element empty
+2024-08-15 15:22:21,141 - Crawl - ERROR - ThreadPoolExecutor-6_3: Detect result false
+2024-08-15 15:22:21,227 - Crawl - ERROR - ThreadPoolExecutor-6_4: Request https://dantri.com.vn//the-thao/rublev-that-bai-o-tran-chung-ket-canadian-open-2024-20240813085632747.htm fail, status code: 429
+2024-08-15 15:22:21,229 - Crawl - WARNING - ThreadPoolExecutor-6_4: https://dantri.com.vn//the-thao/rublev-that-bai-o-tran-chung-ket-canadian-open-2024-20240813085632747.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:21,264 - Crawl - ERROR - ThreadPoolExecutor-6_2: Request https://dantri.com.vn//the-thao/vi-tri-nao-cho-the-thao-viet-nam-o-mon-boi-va-dien-kinh-tai-olympic-20240815011440849.htm fail, status code: 429
+2024-08-15 15:22:21,266 - Crawl - WARNING - ThreadPoolExecutor-6_2: https://dantri.com.vn//the-thao/vi-tri-nao-cho-the-thao-viet-nam-o-mon-boi-va-dien-kinh-tai-olympic-20240815011440849.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:21,368 - Crawl - ERROR - ThreadPoolExecutor-6_4: Request https://dantri.com.vn//the-thao/hlv-ancelotti-thua-nhan-real-madrid-thang-atalanta-khong-de-dang-20240815081206038.htm fail, status code: 429
+2024-08-15 15:22:21,372 - Crawl - WARNING - ThreadPoolExecutor-6_4: https://dantri.com.vn//the-thao/hlv-ancelotti-thua-nhan-real-madrid-thang-atalanta-khong-de-dang-20240815081206038.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:21,460 - Crawl - ERROR - ThreadPoolExecutor-6_4: Request https://dantri.com.vn//the-thao/them-doi-thu-cua-doi-tuyen-viet-nam-thay-hlv-truoc-aff-cup-20240814215908763.htm fail, status code: 429
+2024-08-15 15:22:21,494 - Crawl - WARNING - ThreadPoolExecutor-6_4: https://dantri.com.vn//the-thao/them-doi-thu-cua-doi-tuyen-viet-nam-thay-hlv-truoc-aff-cup-20240814215908763.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:21,538 - Crawl - ERROR - ThreadPoolExecutor-6_0: Request https://dantri.com.vn//the-thao/doi-tuyen-nga-bi-chi-trich-khi-thi-dau-voi-doi-tuyen-viet-nam-20240813105831406.htm fail, status code: 429
+2024-08-15 15:22:21,562 - Crawl - ERROR - ThreadPoolExecutor-6_1: Request https://dantri.com.vn//the-thao/cuoc-song-xa-hoa-cua-vdv-bi-ghet-bo-vi-an-mac-ho-hang-20240814181342530.htm fail, status code: 429
+2024-08-15 15:22:21,562 - Crawl - WARNING - ThreadPoolExecutor-6_0: https://dantri.com.vn//the-thao/doi-tuyen-nga-bi-chi-trich-khi-thi-dau-voi-doi-tuyen-viet-nam-20240813105831406.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:21,568 - Crawl - WARNING - ThreadPoolExecutor-6_1: https://dantri.com.vn//the-thao/cuoc-song-xa-hoa-cua-vdv-bi-ghet-bo-vi-an-mac-ho-hang-20240814181342530.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:22,476 - Crawl - ERROR - ThreadPoolExecutor-6_4: Request https://dantri.com.vn//the-thao/real-madrid-lap-ky-luc-vi-dai-sau-khi-gianh-sieu-cup-chau-au-20240815094014753.htm fail, status code: 429
+2024-08-15 15:22:22,492 - Crawl - WARNING - ThreadPoolExecutor-6_4: https://dantri.com.vn//the-thao/real-madrid-lap-ky-luc-vi-dai-sau-khi-gianh-sieu-cup-chau-au-20240815094014753.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:22,699 - Crawl - WARNING - ThreadPoolExecutor-6_2: https://dantri.com.vn//the-thao/nhan-sac-xinh-dep-cua-cap-chi-em-song-sinh-trung-quoc-gianh-hcv-olympic-20240814002136328.htm Find element by xpath: List element empty
+2024-08-15 15:22:22,720 - Crawl - ERROR - ThreadPoolExecutor-6_2: Detect result false
+2024-08-15 15:22:22,805 - Crawl - ERROR - ThreadPoolExecutor-6_1: Request https://dantri.com.vn//the-thao/man-utd-va-8-thang-cai-to-kieu-hoa-dau-cua-ty-phu-ratcliffe-20240814180441088.htm fail, status code: 429
+2024-08-15 15:22:22,807 - Crawl - WARNING - ThreadPoolExecutor-6_1: https://dantri.com.vn//the-thao/man-utd-va-8-thang-cai-to-kieu-hoa-dau-cua-ty-phu-ratcliffe-20240814180441088.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:22,875 - Crawl - ERROR - ThreadPoolExecutor-6_2: Request https://dantri.com.vn//the-thao/clb-bong-da-khanh-hoa-nhan-lenh-cam-chuyen-nhuong-tu-fifa-20240813203253789.htm fail, status code: 429
+2024-08-15 15:22:22,878 - Crawl - WARNING - ThreadPoolExecutor-6_2: https://dantri.com.vn//the-thao/clb-bong-da-khanh-hoa-nhan-lenh-cam-chuyen-nhuong-tu-fifa-20240813203253789.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:23,442 - Crawl - ERROR - ThreadPoolExecutor-6_2: Request https://dantri.com.vn//the-thao/hlv-mourinho-tuyen-bo-bat-ngo-khi-doi-nha-bi-loai-o-champions-league-20240814143459948.htm fail, status code: 429
+2024-08-15 15:22:23,445 - Crawl - WARNING - ThreadPoolExecutor-6_2: https://dantri.com.vn//the-thao/hlv-mourinho-tuyen-bo-bat-ngo-khi-doi-nha-bi-loai-o-champions-league-20240814143459948.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:23,543 - Crawl - ERROR - ThreadPoolExecutor-6_2: Request https://dantri.com.vn//the-thao/nhan-dinh-real-madrid-vs-atalanta-02h00-ngay-158-mbappe-phien-ban-moi-20240814105925905.htm fail, status code: 429
+2024-08-15 15:22:23,555 - Crawl - WARNING - ThreadPoolExecutor-6_2: https://dantri.com.vn//the-thao/nhan-dinh-real-madrid-vs-atalanta-02h00-ngay-158-mbappe-phien-ban-moi-20240814105925905.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:23,563 - Crawl - ERROR - ThreadPoolExecutor-6_4: Request https://dantri.com.vn//the-thao/thu-mon-dang-van-lam-co-the-dau-quan-cho-doi-bong-hang-nhat-20240813100337443.htm fail, status code: 429
+2024-08-15 15:22:23,566 - Crawl - WARNING - ThreadPoolExecutor-6_4: https://dantri.com.vn//the-thao/thu-mon-dang-van-lam-co-the-dau-quan-cho-doi-bong-hang-nhat-20240813100337443.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:23,804 - Crawl - ERROR - ThreadPoolExecutor-7_2: Request https://dantri.com.vn//tam-long-nhan-ai/xot-xa-uoc-mo-tu-tho-cua-nam-cong-nhan-co-5-dong-nghiep-qua-doi-vi-bui-phoi-20240803131407536.htm fail, status code: 429
+2024-08-15 15:22:23,809 - Crawl - WARNING - ThreadPoolExecutor-7_2: https://dantri.com.vn//tam-long-nhan-ai/xot-xa-uoc-mo-tu-tho-cua-nam-cong-nhan-co-5-dong-nghiep-qua-doi-vi-bui-phoi-20240803131407536.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:23,953 - Crawl - ERROR - ThreadPoolExecutor-7_2: Request https://dantri.com.vn//tam-long-nhan-ai/cong-trinh-dan-tri-o-bien-gioi-xu-nghe-da-xong-san-sang-cho-nam-hoc-moi-20240811224421881.htm fail, status code: 429
+2024-08-15 15:22:23,969 - Crawl - WARNING - ThreadPoolExecutor-7_2: https://dantri.com.vn//tam-long-nhan-ai/cong-trinh-dan-tri-o-bien-gioi-xu-nghe-da-xong-san-sang-cho-nam-hoc-moi-20240811224421881.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:24,175 - Crawl - ERROR - ThreadPoolExecutor-7_2: Request https://dantri.com.vn//tam-long-nhan-ai/uoc-muon-gian-di-cua-co-giao-mam-non-noi-mien-nui-20240812092720358.htm fail, status code: 429
+2024-08-15 15:22:24,194 - Crawl - WARNING - ThreadPoolExecutor-7_2: https://dantri.com.vn//tam-long-nhan-ai/uoc-muon-gian-di-cua-co-giao-mam-non-noi-mien-nui-20240812092720358.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:24,381 - Crawl - ERROR - ThreadPoolExecutor-7_2: Request https://dantri.com.vn//tam-long-nhan-ai/xot-xa-uoc-mo-tu-tho-cua-nam-cong-nhan-co-5-dong-nghiep-qua-doi-vi-bui-phoi-20240803131407536.htm fail, status code: 429
+2024-08-15 15:22:24,392 - Crawl - WARNING - ThreadPoolExecutor-7_2: https://dantri.com.vn//tam-long-nhan-ai/xot-xa-uoc-mo-tu-tho-cua-nam-cong-nhan-co-5-dong-nghiep-qua-doi-vi-bui-phoi-20240803131407536.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:24,428 - Crawl - ERROR - ThreadPoolExecutor-7_0: Request https://dantri.com.vn//tam-long-nhan-ai/vo-chong-ngheo-trong-choi-sap-sap-co-benh-cung-khong-dam-den-vien-20240806160459244.htm fail, status code: 429
+2024-08-15 15:22:24,439 - Crawl - WARNING - ThreadPoolExecutor-7_0: https://dantri.com.vn//tam-long-nhan-ai/vo-chong-ngheo-trong-choi-sap-sap-co-benh-cung-khong-dam-den-vien-20240806160459244.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:24,444 - Crawl - ERROR - ThreadPoolExecutor-7_1: Request https://dantri.com.vn//tam-long-nhan-ai/thong-bao-ket-chuyen-nhan-ai-tuan-1-thang-82024-20240815051314637.htm fail, status code: 429
+2024-08-15 15:22:24,472 - Crawl - WARNING - ThreadPoolExecutor-7_1: https://dantri.com.vn//tam-long-nhan-ai/thong-bao-ket-chuyen-nhan-ai-tuan-1-thang-82024-20240815051314637.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:24,523 - Crawl - ERROR - ThreadPoolExecutor-7_2: Request https://dantri.com.vn//tam-long-nhan-ai/bo-khiem-thi-me-co-cuc-cau-be-10-tuoi-lam-cong-nhan-may-20240810225713927.htm fail, status code: 429
+2024-08-15 15:22:24,527 - Crawl - WARNING - ThreadPoolExecutor-7_2: https://dantri.com.vn//tam-long-nhan-ai/bo-khiem-thi-me-co-cuc-cau-be-10-tuoi-lam-cong-nhan-may-20240810225713927.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:24,961 - Crawl - ERROR - ThreadPoolExecutor-8_0: Request https://dantri.com.vn//suc-khoe/hit-15-qua-bong-cuoi-nu-sinh-bi-liet-2-chan-20240815082624761.htm fail, status code: 429
+2024-08-15 15:22:25,025 - Crawl - WARNING - ThreadPoolExecutor-8_0: https://dantri.com.vn//suc-khoe/hit-15-qua-bong-cuoi-nu-sinh-bi-liet-2-chan-20240815082624761.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:25,186 - Crawl - ERROR - ThreadPoolExecutor-8_0: Request https://dantri.com.vn//suc-khoe/loai-cay-duoc-vi-nhu-nhan-sam-danh-cho-nguoi-ngheo-20240812152657270.htm fail, status code: 429
+2024-08-15 15:22:25,191 - Crawl - WARNING - ThreadPoolExecutor-8_2: https://dantri.com.vn//suc-khoe/nhung-em-be-vua-sinh-da-tu-vong-va-chuyen-ba-me-tu-mua-ve-so-tu-than-20240805162931147.htm Find element by xpath: List element empty
+2024-08-15 15:22:25,197 - Crawl - WARNING - ThreadPoolExecutor-8_0: https://dantri.com.vn//suc-khoe/loai-cay-duoc-vi-nhu-nhan-sam-danh-cho-nguoi-ngheo-20240812152657270.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:25,245 - Crawl - ERROR - ThreadPoolExecutor-8_2: Detect result false
+2024-08-15 15:22:25,252 - Crawl - WARNING - ThreadPoolExecutor-8_2: https://dantri.com.vn//suc-khoe/nhung-em-be-vua-sinh-da-tu-vong-va-chuyen-ba-me-tu-mua-ve-so-tu-than-20240805162931147.htm Find element by xpath: List element empty
+2024-08-15 15:22:25,263 - Crawl - ERROR - ThreadPoolExecutor-8_2: Detect result false
+2024-08-15 15:22:25,276 - Crawl - WARNING - ThreadPoolExecutor-8_2: https://dantri.com.vn//suc-khoe/nhung-em-be-vua-sinh-da-tu-vong-va-chuyen-ba-me-tu-mua-ve-so-tu-than-20240805162931147.htm Find element by xpath: List element empty
+2024-08-15 15:22:25,288 - Crawl - ERROR - ThreadPoolExecutor-8_2: Detect result false
+2024-08-15 15:22:25,296 - Crawl - WARNING - ThreadPoolExecutor-8_2: https://dantri.com.vn//suc-khoe/nhung-em-be-vua-sinh-da-tu-vong-va-chuyen-ba-me-tu-mua-ve-so-tu-than-20240805162931147.htm Find element by xpath: List element empty
+2024-08-15 15:22:25,298 - Crawl - ERROR - ThreadPoolExecutor-8_2: Detect result false
+2024-08-15 15:22:25,302 - Crawl - ERROR - ThreadPoolExecutor-8_4: Request https://dantri.com.vn//suc-khoe/nguoi-dan-ong-34-tuoi-bat-ngo-phat-hien-than-hong-nghiem-trong-20240814150628526.htm fail, status code: 429
+2024-08-15 15:22:25,316 - Crawl - WARNING - ThreadPoolExecutor-8_4: https://dantri.com.vn//suc-khoe/nguoi-dan-ong-34-tuoi-bat-ngo-phat-hien-than-hong-nghiem-trong-20240814150628526.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:25,337 - Crawl - WARNING - ThreadPoolExecutor-8_2: https://dantri.com.vn//suc-khoe/nhung-em-be-vua-sinh-da-tu-vong-va-chuyen-ba-me-tu-mua-ve-so-tu-than-20240805162931147.htm Find element by xpath: List element empty
+2024-08-15 15:22:25,353 - Crawl - ERROR - ThreadPoolExecutor-8_3: Request https://dantri.com.vn//suc-khoe/ket-luan-nguyen-nhan-be-2-ngay-tuoi-tu-vong-tai-benh-vien-sau-tiem-vaccine-20240814153441345.htm fail, status code: 429
+2024-08-15 15:22:25,356 - Crawl - ERROR - ThreadPoolExecutor-8_2: Detect result false
+2024-08-15 15:22:25,359 - Crawl - ERROR - ThreadPoolExecutor-8_1: Request https://dantri.com.vn//suc-khoe/ha-noi-benh-nhan-nhap-vien-cap-cuu-vi-tai-nan-khong-ngo-khi-uong-thuoc-20240815075440754.htm fail, status code: 429
+2024-08-15 15:22:25,361 - Crawl - WARNING - ThreadPoolExecutor-8_3: https://dantri.com.vn//suc-khoe/ket-luan-nguyen-nhan-be-2-ngay-tuoi-tu-vong-tai-benh-vien-sau-tiem-vaccine-20240814153441345.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:25,365 - Crawl - WARNING - ThreadPoolExecutor-8_2: https://dantri.com.vn//suc-khoe/nhung-em-be-vua-sinh-da-tu-vong-va-chuyen-ba-me-tu-mua-ve-so-tu-than-20240805162931147.htm Find element by xpath: List element empty
+2024-08-15 15:22:25,381 - Crawl - WARNING - ThreadPoolExecutor-8_1: https://dantri.com.vn//suc-khoe/ha-noi-benh-nhan-nhap-vien-cap-cuu-vi-tai-nan-khong-ngo-khi-uong-thuoc-20240815075440754.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:25,392 - Crawl - ERROR - ThreadPoolExecutor-8_2: Detect result false
+2024-08-15 15:22:25,638 - Crawl - WARNING - ThreadPoolExecutor-8_4: https://dantri.com.vn//suc-khoe/xem-bac-si-dung-laser-hoa-hoi-tuyen-tien-liet-cu-ong-90-tuoi-20240806132427918.htm Find element by xpath: List element empty
+2024-08-15 15:22:25,655 - Crawl - ERROR - ThreadPoolExecutor-8_4: Detect result false
+2024-08-15 15:22:25,678 - Crawl - WARNING - ThreadPoolExecutor-8_4: https://dantri.com.vn//suc-khoe/xem-bac-si-dung-laser-hoa-hoi-tuyen-tien-liet-cu-ong-90-tuoi-20240806132427918.htm Find element by xpath: List element empty
+2024-08-15 15:22:25,728 - Crawl - ERROR - ThreadPoolExecutor-8_4: Detect result false
+2024-08-15 15:22:25,743 - Crawl - WARNING - ThreadPoolExecutor-8_4: https://dantri.com.vn//suc-khoe/xem-bac-si-dung-laser-hoa-hoi-tuyen-tien-liet-cu-ong-90-tuoi-20240806132427918.htm Find element by xpath: List element empty
+2024-08-15 15:22:25,745 - Crawl - ERROR - ThreadPoolExecutor-8_4: Detect result false
+2024-08-15 15:22:25,747 - Crawl - WARNING - ThreadPoolExecutor-8_4: https://dantri.com.vn//suc-khoe/xem-bac-si-dung-laser-hoa-hoi-tuyen-tien-liet-cu-ong-90-tuoi-20240806132427918.htm Find element by xpath: List element empty
+2024-08-15 15:22:25,749 - Crawl - ERROR - ThreadPoolExecutor-8_4: Detect result false
+2024-08-15 15:22:25,764 - Crawl - WARNING - ThreadPoolExecutor-8_4: https://dantri.com.vn//suc-khoe/xem-bac-si-dung-laser-hoa-hoi-tuyen-tien-liet-cu-ong-90-tuoi-20240806132427918.htm Find element by xpath: List element empty
+2024-08-15 15:22:25,765 - Crawl - ERROR - ThreadPoolExecutor-8_4: Detect result false
+2024-08-15 15:22:25,768 - Crawl - WARNING - ThreadPoolExecutor-8_4: https://dantri.com.vn//suc-khoe/xem-bac-si-dung-laser-hoa-hoi-tuyen-tien-liet-cu-ong-90-tuoi-20240806132427918.htm Find element by xpath: List element empty
+2024-08-15 15:22:25,777 - Crawl - ERROR - ThreadPoolExecutor-8_4: Detect result false
+2024-08-15 15:22:25,905 - Crawl - ERROR - ThreadPoolExecutor-8_2: Request https://dantri.com.vn//suc-khoe/loai-rau-xanh-la-bac-thay-ha-huyet-ap-ngua-ung-thu-20240812072351861.htm fail, status code: 429
+2024-08-15 15:22:25,917 - Crawl - WARNING - ThreadPoolExecutor-8_2: https://dantri.com.vn//suc-khoe/loai-rau-xanh-la-bac-thay-ha-huyet-ap-ngua-ung-thu-20240812072351861.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:25,990 - Crawl - ERROR - ThreadPoolExecutor-8_2: Request https://dantri.com.vn//suc-khoe/nan-nhan-bong-khap-co-the-vi-tai-nan-may-nen-khi-gas-bi-kich-sau-tieng-no-20240814004123609.htm fail, status code: 429
+2024-08-15 15:22:26,001 - Crawl - WARNING - ThreadPoolExecutor-8_2: https://dantri.com.vn//suc-khoe/nan-nhan-bong-khap-co-the-vi-tai-nan-may-nen-khi-gas-bi-kich-sau-tieng-no-20240814004123609.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:26,014 - Crawl - ERROR - ThreadPoolExecutor-8_1: Request https://dantri.com.vn//suc-khoe/uong-nuoc-dua-nhu-the-nao-de-khong-gay-hai-20240812160339864.htm fail, status code: 429
+2024-08-15 15:22:26,021 - Crawl - WARNING - ThreadPoolExecutor-8_1: https://dantri.com.vn//suc-khoe/uong-nuoc-dua-nhu-the-nao-de-khong-gay-hai-20240812160339864.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:26,049 - Crawl - WARNING - ThreadPoolExecutor-8_0: https://dantri.com.vn//suc-khoe/nhung-em-be-vua-sinh-da-tu-vong-va-chuyen-ba-me-tu-mua-ve-so-tu-than-20240805162931147.htm Find element by xpath: List element empty
+2024-08-15 15:22:26,063 - Crawl - ERROR - ThreadPoolExecutor-8_2: Request https://dantri.com.vn//suc-khoe/sap-dien-ra-giao-luu-truc-tuyen-ung-pho-voi-dich-soi-20240815084429193.htm fail, status code: 429
+2024-08-15 15:22:26,063 - Crawl - ERROR - ThreadPoolExecutor-8_0: Detect result false
+2024-08-15 15:22:26,093 - Crawl - ERROR - ThreadPoolExecutor-8_1: Request https://dantri.com.vn//suc-khoe/cho-dai-can-11-nguoi-dang-tap-the-duc-buoi-sang-o-dong-nai-20240814184209647.htm fail, status code: 429
+2024-08-15 15:22:26,118 - Crawl - WARNING - ThreadPoolExecutor-8_2: https://dantri.com.vn//suc-khoe/sap-dien-ra-giao-luu-truc-tuyen-ung-pho-voi-dich-soi-20240815084429193.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:26,148 - Crawl - WARNING - ThreadPoolExecutor-8_0: https://dantri.com.vn//suc-khoe/nhung-em-be-vua-sinh-da-tu-vong-va-chuyen-ba-me-tu-mua-ve-so-tu-than-20240805162931147.htm Find element by xpath: List element empty
+2024-08-15 15:22:26,153 - Crawl - ERROR - ThreadPoolExecutor-8_4: Request https://dantri.com.vn//suc-khoe/nguoi-dan-ong-34-tuoi-bat-ngo-phat-hien-than-hong-nghiem-trong-20240814150628526.htm fail, status code: 429
+2024-08-15 15:22:26,164 - Crawl - ERROR - ThreadPoolExecutor-8_3: Request https://dantri.com.vn//suc-khoe/ket-luan-nguyen-nhan-be-2-ngay-tuoi-tu-vong-tai-benh-vien-sau-tiem-vaccine-20240814153441345.htm fail, status code: 429
+2024-08-15 15:22:26,218 - Crawl - WARNING - ThreadPoolExecutor-8_1: https://dantri.com.vn//suc-khoe/cho-dai-can-11-nguoi-dang-tap-the-duc-buoi-sang-o-dong-nai-20240814184209647.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:26,227 - Crawl - ERROR - ThreadPoolExecutor-8_0: Detect result false
+2024-08-15 15:22:26,237 - Crawl - WARNING - ThreadPoolExecutor-8_3: https://dantri.com.vn//suc-khoe/ket-luan-nguyen-nhan-be-2-ngay-tuoi-tu-vong-tai-benh-vien-sau-tiem-vaccine-20240814153441345.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:26,235 - Crawl - WARNING - ThreadPoolExecutor-8_4: https://dantri.com.vn//suc-khoe/nguoi-dan-ong-34-tuoi-bat-ngo-phat-hien-than-hong-nghiem-trong-20240814150628526.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:26,251 - Crawl - WARNING - ThreadPoolExecutor-8_0: https://dantri.com.vn//suc-khoe/nhung-em-be-vua-sinh-da-tu-vong-va-chuyen-ba-me-tu-mua-ve-so-tu-than-20240805162931147.htm Find element by xpath: List element empty
+2024-08-15 15:22:26,258 - Crawl - ERROR - ThreadPoolExecutor-8_0: Detect result false
+2024-08-15 15:22:26,261 - Crawl - WARNING - ThreadPoolExecutor-8_0: https://dantri.com.vn//suc-khoe/nhung-em-be-vua-sinh-da-tu-vong-va-chuyen-ba-me-tu-mua-ve-so-tu-than-20240805162931147.htm Find element by xpath: List element empty
+2024-08-15 15:22:26,265 - Crawl - ERROR - ThreadPoolExecutor-8_0: Detect result false
+2024-08-15 15:22:26,276 - Crawl - WARNING - ThreadPoolExecutor-8_0: https://dantri.com.vn//suc-khoe/nhung-em-be-vua-sinh-da-tu-vong-va-chuyen-ba-me-tu-mua-ve-so-tu-than-20240805162931147.htm Find element by xpath: List element empty
+2024-08-15 15:22:26,277 - Crawl - ERROR - ThreadPoolExecutor-8_0: Detect result false
+2024-08-15 15:22:26,279 - Crawl - WARNING - ThreadPoolExecutor-8_0: https://dantri.com.vn//suc-khoe/nhung-em-be-vua-sinh-da-tu-vong-va-chuyen-ba-me-tu-mua-ve-so-tu-than-20240805162931147.htm Find element by xpath: List element empty
+2024-08-15 15:22:26,282 - Crawl - ERROR - ThreadPoolExecutor-8_0: Detect result false
+2024-08-15 15:22:26,317 - Crawl - ERROR - ThreadPoolExecutor-8_4: Request https://dantri.com.vn//suc-khoe/nguoi-viet-me-pho-an-bao-nhieu-la-phu-hop-20240815080344013.htm fail, status code: 429
+2024-08-15 15:22:26,319 - Crawl - ERROR - ThreadPoolExecutor-8_1: Request https://dantri.com.vn//suc-khoe/xem-bac-si-dung-laser-hoa-hoi-tuyen-tien-liet-cu-ong-90-tuoi-20240806132427918.htm fail, status code: 429
+2024-08-15 15:22:26,322 - Crawl - WARNING - ThreadPoolExecutor-8_4: https://dantri.com.vn//suc-khoe/nguoi-viet-me-pho-an-bao-nhieu-la-phu-hop-20240815080344013.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:26,328 - Crawl - WARNING - ThreadPoolExecutor-8_1: https://dantri.com.vn//suc-khoe/xem-bac-si-dung-laser-hoa-hoi-tuyen-tien-liet-cu-ong-90-tuoi-20240806132427918.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:26,333 - Crawl - ERROR - ThreadPoolExecutor-8_3: Request https://dantri.com.vn//suc-khoe/thuc-pham-tai-cho-dau-moi-thu-duc-bi-anh-huong-chat-luong-vi-cong-nghet-20240815133642202.htm fail, status code: 429
+2024-08-15 15:22:26,351 - Crawl - WARNING - ThreadPoolExecutor-8_3: https://dantri.com.vn//suc-khoe/thuc-pham-tai-cho-dau-moi-thu-duc-bi-anh-huong-chat-luong-vi-cong-nghet-20240815133642202.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:26,365 - Crawl - ERROR - ThreadPoolExecutor-8_0: Request https://dantri.com.vn//suc-khoe/uong-nuoc-dua-nhu-the-nao-de-khong-gay-hai-20240812160339864.htm fail, status code: 429
+2024-08-15 15:22:26,369 - Crawl - WARNING - ThreadPoolExecutor-8_0: https://dantri.com.vn//suc-khoe/uong-nuoc-dua-nhu-the-nao-de-khong-gay-hai-20240812160339864.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:26,391 - Crawl - ERROR - ThreadPoolExecutor-8_4: Request https://dantri.com.vn//suc-khoe/chu-quan-voi-not-vay-nho-nu-benh-nhan-phai-tai-tao-vung-mat-20240812081304778.htm fail, status code: 429
+2024-08-15 15:22:26,393 - Crawl - ERROR - ThreadPoolExecutor-8_1: Request https://dantri.com.vn//suc-khoe/lam-gi-de-loai-bo-du-luong-thuoc-bao-ve-thuc-vat-o-rau-qua-20240811213752698.htm fail, status code: 429
+2024-08-15 15:22:26,397 - Crawl - WARNING - ThreadPoolExecutor-8_1: https://dantri.com.vn//suc-khoe/lam-gi-de-loai-bo-du-luong-thuoc-bao-ve-thuc-vat-o-rau-qua-20240811213752698.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:26,396 - Crawl - WARNING - ThreadPoolExecutor-8_4: https://dantri.com.vn//suc-khoe/chu-quan-voi-not-vay-nho-nu-benh-nhan-phai-tai-tao-vung-mat-20240812081304778.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:26,662 - Crawl - WARNING - ThreadPoolExecutor-9_1: https://dantri.com.vn//o-to-xe-may/o-to-di-nguoc-chieu-con-ep-xe-di-dung-phai-lui-lai-nhuong-duong-20240814172137937.htm Find element by xpath: List element empty
+2024-08-15 15:22:26,718 - Crawl - ERROR - ThreadPoolExecutor-9_1: Detect result false
+2024-08-15 15:22:26,759 - Crawl - WARNING - ThreadPoolExecutor-9_0: https://dantri.com.vn//o-to-xe-may/xe-rolls-royce-bat-xi-nhan-trai-nhung-di-thang-xe-may-di-sau-truot-nga-20240812103325139.htm Find element by xpath: List element empty
+2024-08-15 15:22:26,777 - Crawl - ERROR - ThreadPoolExecutor-9_0: Detect result false
+2024-08-15 15:22:26,799 - Crawl - WARNING - ThreadPoolExecutor-9_3: https://dantri.com.vn//o-to-xe-may/loat-xe-ban-chay-nhat-thang-7-vinfast-vf-5-dan-dau-vios-bo-xa-accent-20240812234006980.htm Find element by xpath: List element empty
+2024-08-15 15:22:26,804 - Crawl - ERROR - ThreadPoolExecutor-9_3: Detect result false
+2024-08-15 15:22:26,807 - Crawl - WARNING - ThreadPoolExecutor-9_3: https://dantri.com.vn//o-to-xe-may/loat-xe-ban-chay-nhat-thang-7-vinfast-vf-5-dan-dau-vios-bo-xa-accent-20240812234006980.htm Find element by xpath: List element empty
+2024-08-15 15:22:26,832 - Crawl - ERROR - ThreadPoolExecutor-9_3: Detect result false
+2024-08-15 15:22:26,835 - Crawl - WARNING - ThreadPoolExecutor-9_3: https://dantri.com.vn//o-to-xe-may/loat-xe-ban-chay-nhat-thang-7-vinfast-vf-5-dan-dau-vios-bo-xa-accent-20240812234006980.htm Find element by xpath: List element empty
+2024-08-15 15:22:26,856 - Crawl - ERROR - ThreadPoolExecutor-9_3: Detect result false
+2024-08-15 15:22:26,872 - Crawl - WARNING - ThreadPoolExecutor-9_3: https://dantri.com.vn//o-to-xe-may/loat-xe-ban-chay-nhat-thang-7-vinfast-vf-5-dan-dau-vios-bo-xa-accent-20240812234006980.htm Find element by xpath: List element empty
+2024-08-15 15:22:26,876 - Crawl - ERROR - ThreadPoolExecutor-9_3: Detect result false
+2024-08-15 15:22:26,910 - Crawl - WARNING - ThreadPoolExecutor-9_3: https://dantri.com.vn//o-to-xe-may/loat-xe-ban-chay-nhat-thang-7-vinfast-vf-5-dan-dau-vios-bo-xa-accent-20240812234006980.htm Find element by xpath: List element empty
+2024-08-15 15:22:26,937 - Crawl - ERROR - ThreadPoolExecutor-9_3: Detect result false
+2024-08-15 15:22:27,009 - Crawl - WARNING - ThreadPoolExecutor-9_3: https://dantri.com.vn//o-to-xe-may/loat-xe-ban-chay-nhat-thang-7-vinfast-vf-5-dan-dau-vios-bo-xa-accent-20240812234006980.htm Find element by xpath: List element empty
+2024-08-15 15:22:27,022 - Crawl - ERROR - ThreadPoolExecutor-9_3: Detect result false
+2024-08-15 15:22:27,141 - Crawl - WARNING - ThreadPoolExecutor-9_0: https://dantri.com.vn//o-to-xe-may/10-o-to-ban-cham-thang-7-xe-suzuki-chiem-gan-nua-danh-sach-20240814120606916.htm Find element by xpath: List element empty
+2024-08-15 15:22:27,162 - Crawl - ERROR - ThreadPoolExecutor-9_0: Detect result false
+2024-08-15 15:22:27,169 - Crawl - WARNING - ThreadPoolExecutor-9_0: https://dantri.com.vn//o-to-xe-may/10-o-to-ban-cham-thang-7-xe-suzuki-chiem-gan-nua-danh-sach-20240814120606916.htm Find element by xpath: List element empty
+2024-08-15 15:22:27,170 - Crawl - ERROR - ThreadPoolExecutor-9_0: Detect result false
+2024-08-15 15:22:27,182 - Crawl - WARNING - ThreadPoolExecutor-9_0: https://dantri.com.vn//o-to-xe-may/10-o-to-ban-cham-thang-7-xe-suzuki-chiem-gan-nua-danh-sach-20240814120606916.htm Find element by xpath: List element empty
+2024-08-15 15:22:27,184 - Crawl - ERROR - ThreadPoolExecutor-9_0: Detect result false
+2024-08-15 15:22:27,193 - Crawl - WARNING - ThreadPoolExecutor-9_0: https://dantri.com.vn//o-to-xe-may/10-o-to-ban-cham-thang-7-xe-suzuki-chiem-gan-nua-danh-sach-20240814120606916.htm Find element by xpath: List element empty
+2024-08-15 15:22:27,201 - Crawl - ERROR - ThreadPoolExecutor-9_0: Detect result false
+2024-08-15 15:22:27,214 - Crawl - WARNING - ThreadPoolExecutor-9_0: https://dantri.com.vn//o-to-xe-may/10-o-to-ban-cham-thang-7-xe-suzuki-chiem-gan-nua-danh-sach-20240814120606916.htm Find element by xpath: List element empty
+2024-08-15 15:22:27,228 - Crawl - ERROR - ThreadPoolExecutor-9_0: Detect result false
+2024-08-15 15:22:27,232 - Crawl - WARNING - ThreadPoolExecutor-9_0: https://dantri.com.vn//o-to-xe-may/10-o-to-ban-cham-thang-7-xe-suzuki-chiem-gan-nua-danh-sach-20240814120606916.htm Find element by xpath: List element empty
+2024-08-15 15:22:27,230 - Crawl - ERROR - ThreadPoolExecutor-9_1: Request https://dantri.com.vn//o-to-xe-may/porsche-taycan-bi-trieu-hoi-tai-viet-nam-do-gap-nguy-co-mat-phanh-20240815130615109.htm fail, status code: 429
+2024-08-15 15:22:27,260 - Crawl - WARNING - ThreadPoolExecutor-9_1: https://dantri.com.vn//o-to-xe-may/porsche-taycan-bi-trieu-hoi-tai-viet-nam-do-gap-nguy-co-mat-phanh-20240815130615109.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:27,243 - Crawl - ERROR - ThreadPoolExecutor-9_0: Detect result false
+2024-08-15 15:22:27,385 - Crawl - ERROR - ThreadPoolExecutor-9_2: Request https://dantri.com.vn//o-to-xe-may/ford-territory-sap-them-phien-ban-the-thao-no-luc-bam-duoi-mazda-cx-5-20240811232537655.htm fail, status code: 429
+2024-08-15 15:22:27,387 - Crawl - WARNING - ThreadPoolExecutor-9_2: https://dantri.com.vn//o-to-xe-may/ford-territory-sap-them-phien-ban-the-thao-no-luc-bam-duoi-mazda-cx-5-20240811232537655.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:27,451 - Crawl - ERROR - ThreadPoolExecutor-9_3: Request https://dantri.com.vn//o-to-xe-may/nguoi-nhan-som-vinfast-vf-3-rao-ban-lai-voi-gia-chenh-them-50-trieu-dong-20240812152757358.htm fail, status code: 429
+2024-08-15 15:22:27,457 - Crawl - WARNING - ThreadPoolExecutor-9_3: https://dantri.com.vn//o-to-xe-may/nguoi-nhan-som-vinfast-vf-3-rao-ban-lai-voi-gia-chenh-them-50-trieu-dong-20240812152757358.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:27,475 - Crawl - WARNING - ThreadPoolExecutor-9_0: https://dantri.com.vn//o-to-xe-may/mua-mercedes-hon-5-ty-chu-xe-do-brabus-ma-rieng-bo-mam-da-500-trieu-dong-20240813215032476.htm Find element by xpath: List element empty
+2024-08-15 15:22:27,477 - Crawl - ERROR - ThreadPoolExecutor-9_0: Detect result false
+2024-08-15 15:22:27,529 - Crawl - ERROR - ThreadPoolExecutor-9_4: Request https://dantri.com.vn//o-to-xe-may/seoul-de-xuat-cam-xe-dien-sac-pin-hon-90-vao-bai-do-duoi-ham-chung-cu-20240814143950981.htm fail, status code: 429
+2024-08-15 15:22:27,530 - Crawl - WARNING - ThreadPoolExecutor-9_4: https://dantri.com.vn//o-to-xe-may/seoul-de-xuat-cam-xe-dien-sac-pin-hon-90-vao-bai-do-duoi-ham-chung-cu-20240814143950981.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:27,603 - Crawl - ERROR - ThreadPoolExecutor-9_3: Request https://dantri.com.vn//o-to-xe-may/xe-hyundai-va-kia-van-de-bi-trom-du-da-nang-cap-phan-mem-20240815112428670.htm fail, status code: 429
+2024-08-15 15:22:27,627 - Crawl - WARNING - ThreadPoolExecutor-9_3: https://dantri.com.vn//o-to-xe-may/xe-hyundai-va-kia-van-de-bi-trom-du-da-nang-cap-phan-mem-20240815112428670.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:27,628 - Crawl - ERROR - ThreadPoolExecutor-9_0: Request https://dantri.com.vn//o-to-xe-may/mercedes-benz-bi-chi-trich-co-thai-do-tho-o-sau-vu-chay-xe-dien-o-han-quoc-20240813125501461.htm fail, status code: 429
+2024-08-15 15:22:27,645 - Crawl - WARNING - ThreadPoolExecutor-9_0: https://dantri.com.vn//o-to-xe-may/mercedes-benz-bi-chi-trich-co-thai-do-tho-o-sau-vu-chay-xe-dien-o-han-quoc-20240813125501461.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:27,651 - Crawl - ERROR - ThreadPoolExecutor-9_4: Request https://dantri.com.vn//xa-hoi/xu-phat-nu-tai-xe-lai-o-to-chay-nguoc-chieu-tren-quoc-lo-13-qua-binh-duong-20240812172334848.htm fail, status code: 429
+2024-08-15 15:22:27,656 - Crawl - WARNING - ThreadPoolExecutor-9_4: https://dantri.com.vn//xa-hoi/xu-phat-nu-tai-xe-lai-o-to-chay-nguoc-chieu-tren-quoc-lo-13-qua-binh-duong-20240812172334848.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:27,712 - Crawl - ERROR - ThreadPoolExecutor-9_0: Request https://dantri.com.vn//o-to-xe-may/xe-con-roi-lop-khi-dang-chay-tren-duong-cao-toc-20240813140630394.htm fail, status code: 429
+2024-08-15 15:22:27,725 - Crawl - WARNING - ThreadPoolExecutor-9_0: https://dantri.com.vn//o-to-xe-may/xe-con-roi-lop-khi-dang-chay-tren-duong-cao-toc-20240813140630394.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:27,744 - Crawl - ERROR - ThreadPoolExecutor-9_1: Request https://dantri.com.vn//o-to-xe-may/xe-rolls-royce-bat-xi-nhan-trai-nhung-di-thang-xe-may-di-sau-truot-nga-20240812103325139.htm fail, status code: 429
+2024-08-15 15:22:27,746 - Crawl - WARNING - ThreadPoolExecutor-9_1: https://dantri.com.vn//o-to-xe-may/xe-rolls-royce-bat-xi-nhan-trai-nhung-di-thang-xe-may-di-sau-truot-nga-20240812103325139.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:27,808 - Crawl - ERROR - ThreadPoolExecutor-9_2: Request https://dantri.com.vn//o-to-xe-may/vios-ban-gan-gap-doi-accent-trong-thang-7-rut-ngan-khoang-cach-voi-doi-thu-20240814140456119.htm fail, status code: 429
+2024-08-15 15:22:27,851 - Crawl - WARNING - ThreadPoolExecutor-9_2: https://dantri.com.vn//o-to-xe-may/vios-ban-gan-gap-doi-accent-trong-thang-7-rut-ngan-khoang-cach-voi-doi-thu-20240814140456119.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:27,854 - Crawl - ERROR - ThreadPoolExecutor-9_1: Request https://dantri.com.vn//o-to-xe-may/loat-xe-ban-chay-nhat-thang-7-vinfast-vf-5-dan-dau-vios-bo-xa-accent-20240812234006980.htm fail, status code: 429
+2024-08-15 15:22:27,888 - Crawl - WARNING - ThreadPoolExecutor-9_1: https://dantri.com.vn//o-to-xe-may/loat-xe-ban-chay-nhat-thang-7-vinfast-vf-5-dan-dau-vios-bo-xa-accent-20240812234006980.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:28,013 - Crawl - WARNING - ThreadPoolExecutor-9_0: https://dantri.com.vn//o-to-xe-may/o-to-di-nguoc-chieu-con-ep-xe-di-dung-phai-lui-lai-nhuong-duong-20240814172137937.htm Find element by xpath: List element empty
+2024-08-15 15:22:28,025 - Crawl - ERROR - ThreadPoolExecutor-9_0: Detect result false
+2024-08-15 15:22:28,085 - Crawl - ERROR - ThreadPoolExecutor-9_1: Request https://dantri.com.vn//o-to-xe-may/10-o-to-ban-cham-thang-7-xe-suzuki-chiem-gan-nua-danh-sach-20240814120606916.htm fail, status code: 429
+2024-08-15 15:22:28,097 - Crawl - WARNING - ThreadPoolExecutor-9_1: https://dantri.com.vn//o-to-xe-may/10-o-to-ban-cham-thang-7-xe-suzuki-chiem-gan-nua-danh-sach-20240814120606916.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:28,171 - Crawl - ERROR - ThreadPoolExecutor-9_0: Request https://dantri.com.vn//o-to-xe-may/han-quoc-hop-khan-ve-van-de-chay-xe-dien-xoay-sau-vao-nguon-goc-pin-20240813003700063.htm fail, status code: 429
+2024-08-15 15:22:28,174 - Crawl - WARNING - ThreadPoolExecutor-9_0: https://dantri.com.vn//o-to-xe-may/han-quoc-hop-khan-ve-van-de-chay-xe-dien-xoay-sau-vao-nguon-goc-pin-20240813003700063.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:28,200 - Crawl - ERROR - ThreadPoolExecutor-9_1: Request https://dantri.com.vn//o-to-xe-may/porsche-taycan-bi-trieu-hoi-tai-viet-nam-do-gap-nguy-co-mat-phanh-20240815130615109.htm fail, status code: 429
+2024-08-15 15:22:28,223 - Crawl - WARNING - ThreadPoolExecutor-9_1: https://dantri.com.vn//o-to-xe-may/porsche-taycan-bi-trieu-hoi-tai-viet-nam-do-gap-nguy-co-mat-phanh-20240815130615109.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:28,394 - Crawl - ERROR - ThreadPoolExecutor-9_2: Request https://dantri.com.vn//o-to-xe-may/mua-mercedes-hon-5-ty-chu-xe-do-brabus-ma-rieng-bo-mam-da-500-trieu-dong-20240813215032476.htm fail, status code: 429
+2024-08-15 15:22:28,397 - Crawl - WARNING - ThreadPoolExecutor-9_2: https://dantri.com.vn//o-to-xe-may/mua-mercedes-hon-5-ty-chu-xe-do-brabus-ma-rieng-bo-mam-da-500-trieu-dong-20240813215032476.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:28,512 - Crawl - ERROR - ThreadPoolExecutor-9_2: Request https://dantri.com.vn//o-to-xe-may/mazada-cx-5-va-territory-giam-suc-tieu-thu-honda-cr-v-tang-doanh-so-20240815115811247.htm fail, status code: 429
+2024-08-15 15:22:28,521 - Crawl - WARNING - ThreadPoolExecutor-9_2: https://dantri.com.vn//o-to-xe-may/mazada-cx-5-va-territory-giam-suc-tieu-thu-honda-cr-v-tang-doanh-so-20240815115811247.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:28,557 - Crawl - ERROR - ThreadPoolExecutor-9_0: Request https://dantri.com.vn//o-to-xe-may/xe-hyundai-va-kia-van-de-bi-trom-du-da-nang-cap-phan-mem-20240815112428670.htm fail, status code: 429
+2024-08-15 15:22:28,561 - Crawl - ERROR - ThreadPoolExecutor-9_1: Request https://dantri.com.vn//o-to-xe-may/mercedes-benz-bi-chi-trich-co-thai-do-tho-o-sau-vu-chay-xe-dien-o-han-quoc-20240813125501461.htm fail, status code: 429
+2024-08-15 15:22:28,566 - Crawl - WARNING - ThreadPoolExecutor-9_0: https://dantri.com.vn//o-to-xe-may/xe-hyundai-va-kia-van-de-bi-trom-du-da-nang-cap-phan-mem-20240815112428670.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:28,571 - Crawl - WARNING - ThreadPoolExecutor-9_1: https://dantri.com.vn//o-to-xe-may/mercedes-benz-bi-chi-trich-co-thai-do-tho-o-sau-vu-chay-xe-dien-o-han-quoc-20240813125501461.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:28,580 - Crawl - ERROR - ThreadPoolExecutor-9_2: Request https://dantri.com.vn//o-to-xe-may/gia-pin-o-to-dien-hien-chi-bang-110-so-voi-cach-day-15-nam-20240813224431968.htm fail, status code: 429
+2024-08-15 15:22:28,590 - Crawl - WARNING - ThreadPoolExecutor-9_2: https://dantri.com.vn//o-to-xe-may/gia-pin-o-to-dien-hien-chi-bang-110-so-voi-cach-day-15-nam-20240813224431968.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:28,642 - Crawl - ERROR - ThreadPoolExecutor-9_1: Request https://dantri.com.vn//o-to-xe-may/vinfast-vf-3-muon-sac-duoc-tai-nha-can-mua-them-phu-kien-gia-4-6-trieu-dong-20240815111510924.htm fail, status code: 429
+2024-08-15 15:22:28,644 - Crawl - WARNING - ThreadPoolExecutor-9_1: https://dantri.com.vn//o-to-xe-may/vinfast-vf-3-muon-sac-duoc-tai-nha-can-mua-them-phu-kien-gia-4-6-trieu-dong-20240815111510924.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:28,645 - Crawl - ERROR - ThreadPoolExecutor-9_0: Request https://dantri.com.vn//o-to-xe-may/xe-con-roi-lop-khi-dang-chay-tren-duong-cao-toc-20240813140630394.htm fail, status code: 429
+2024-08-15 15:22:28,649 - Crawl - WARNING - ThreadPoolExecutor-9_0: https://dantri.com.vn//o-to-xe-may/xe-con-roi-lop-khi-dang-chay-tren-duong-cao-toc-20240813140630394.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:28,755 - Crawl - ERROR - ThreadPoolExecutor-10_0: Request https://dantri.com.vn//giao-duc/hoa-khoi-vung-cao-nghe-an-so-huu-bang-thanh-tich-dang-ne-20240813155807742.htm fail, status code: 429
+2024-08-15 15:22:28,759 - Crawl - WARNING - ThreadPoolExecutor-10_0: https://dantri.com.vn//giao-duc/hoa-khoi-vung-cao-nghe-an-so-huu-bang-thanh-tich-dang-ne-20240813155807742.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:28,812 - Crawl - ERROR - ThreadPoolExecutor-10_1: Request https://dantri.com.vn//giao-duc/chi-nguoi-iq-cao-moi-co-the-xu-ly-chinh-xac-tinh-huong-nay-trong-7-giay-20240808095801844.htm fail, status code: 429
+2024-08-15 15:22:28,840 - Crawl - WARNING - ThreadPoolExecutor-10_1: https://dantri.com.vn//giao-duc/chi-nguoi-iq-cao-moi-co-the-xu-ly-chinh-xac-tinh-huong-nay-trong-7-giay-20240808095801844.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:28,841 - Crawl - ERROR - ThreadPoolExecutor-10_0: Request https://dantri.com.vn//giao-duc/truong-thpt-chu-van-an-tuyen-bo-sung-chi-tieu-vao-lop-11-chuyen-20240815124103698.htm fail, status code: 429
+2024-08-15 15:22:28,894 - Crawl - WARNING - ThreadPoolExecutor-10_0: https://dantri.com.vn//giao-duc/truong-thpt-chu-van-an-tuyen-bo-sung-chi-tieu-vao-lop-11-chuyen-20240815124103698.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:28,968 - Crawl - ERROR - ThreadPoolExecutor-10_4: Request https://dantri.com.vn//giao-duc/bo-gddt-co-can-cu-nghi-van-bang-tot-nghiep-cap-ba-cua-ong-vuong-tan-viet-20240813124923171.htm fail, status code: 429
+2024-08-15 15:22:29,000 - Crawl - ERROR - ThreadPoolExecutor-10_0: Request https://dantri.com.vn//giao-duc/len-dai-hoc-con-ngoan-tro-gioi-lao-luon-vao-mai-dam-co-bac-20240815112451675.htm fail, status code: 429
+2024-08-15 15:22:29,023 - Crawl - WARNING - ThreadPoolExecutor-10_0: https://dantri.com.vn//giao-duc/len-dai-hoc-con-ngoan-tro-gioi-lao-luon-vao-mai-dam-co-bac-20240815112451675.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:29,023 - Crawl - WARNING - ThreadPoolExecutor-10_4: https://dantri.com.vn//giao-duc/bo-gddt-co-can-cu-nghi-van-bang-tot-nghiep-cap-ba-cua-ong-vuong-tan-viet-20240813124923171.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:29,090 - Crawl - ERROR - ThreadPoolExecutor-10_2: Request https://dantri.com.vn//giao-duc/ha-noi-xay-them-truong-cap-3-cong-lap-tai-noi-thanh-20240814114730691.htm fail, status code: 429
+2024-08-15 15:22:29,099 - Crawl - WARNING - ThreadPoolExecutor-10_2: https://dantri.com.vn//giao-duc/ha-noi-xay-them-truong-cap-3-cong-lap-tai-noi-thanh-20240814114730691.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:29,139 - Crawl - ERROR - ThreadPoolExecutor-10_4: Request https://dantri.com.vn//giao-duc/hai-truong-len-tieng-ve-bang-dai-hoc-cua-ong-vuong-tan-viet-20240813123153080.htm fail, status code: 429
+2024-08-15 15:22:29,148 - Crawl - ERROR - ThreadPoolExecutor-10_0: Request https://dantri.com.vn//giao-duc/99-sinh-vien-tot-nghiep-khong-duoc-cap-bang-lanh-dao-xin-rut-kinh-nghiem-20240815102337104.htm fail, status code: 429
+2024-08-15 15:22:29,177 - Crawl - WARNING - ThreadPoolExecutor-10_0: https://dantri.com.vn//giao-duc/99-sinh-vien-tot-nghiep-khong-duoc-cap-bang-lanh-dao-xin-rut-kinh-nghiem-20240815102337104.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:29,164 - Crawl - WARNING - ThreadPoolExecutor-10_4: https://dantri.com.vn//giao-duc/hai-truong-len-tieng-ve-bang-dai-hoc-cua-ong-vuong-tan-viet-20240813123153080.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:29,241 - Crawl - ERROR - ThreadPoolExecutor-10_2: Request https://dantri.com.vn//giao-duc/sinh-vien-con-nha-khong-co-dieu-kien-vay-tien-o-dau-de-hoc-dai-hoc-20240813231328545.htm fail, status code: 429
+2024-08-15 15:22:29,256 - Crawl - WARNING - ThreadPoolExecutor-10_2: https://dantri.com.vn//giao-duc/sinh-vien-con-nha-khong-co-dieu-kien-vay-tien-o-dau-de-hoc-dai-hoc-20240813231328545.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:29,302 - Crawl - ERROR - ThreadPoolExecutor-10_4: Request https://dantri.com.vn//giao-duc/truong-dai-hoc-ha-noi-khong-con-luu-bang-cap-3-cua-ong-vuong-tan-viet-20240815091202516.htm fail, status code: 429
+2024-08-15 15:22:29,310 - Crawl - ERROR - ThreadPoolExecutor-10_1: Request https://dantri.com.vn//giao-duc/sinh-vien-dai-hoc-o-tphcm-mot-thang-can-bao-nhieu-tien-20240813091837422.htm fail, status code: 429
+2024-08-15 15:22:29,337 - Crawl - WARNING - ThreadPoolExecutor-10_4: https://dantri.com.vn//giao-duc/truong-dai-hoc-ha-noi-khong-con-luu-bang-cap-3-cua-ong-vuong-tan-viet-20240815091202516.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:29,356 - Crawl - WARNING - ThreadPoolExecutor-10_1: https://dantri.com.vn//giao-duc/sinh-vien-dai-hoc-o-tphcm-mot-thang-can-bao-nhieu-tien-20240813091837422.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:29,367 - Crawl - ERROR - ThreadPoolExecutor-10_2: Request https://dantri.com.vn//giao-duc/cha-me-tiet-lo-cach-nuoi-duong-than-dong-hoc-dai-hoc-o-tuoi-12-20240812225359528.htm fail, status code: 429
+2024-08-15 15:22:29,378 - Crawl - WARNING - ThreadPoolExecutor-10_2: https://dantri.com.vn//giao-duc/cha-me-tiet-lo-cach-nuoi-duong-than-dong-hoc-dai-hoc-o-tuoi-12-20240812225359528.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:29,451 - Crawl - ERROR - ThreadPoolExecutor-10_1: Request https://dantri.com.vn//giao-duc/cong-chua-ha-lan-dau-dau-chon-nganh-hoc-hop-bao-de-tuyen-bo-quyet-dinh-20240813101226170.htm fail, status code: 429
+2024-08-15 15:22:29,473 - Crawl - WARNING - ThreadPoolExecutor-10_1: https://dantri.com.vn//giao-duc/cong-chua-ha-lan-dau-dau-chon-nganh-hoc-hop-bao-de-tuyen-bo-quyet-dinh-20240813101226170.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:29,547 - Crawl - ERROR - ThreadPoolExecutor-10_3: Request https://dantri.com.vn//giao-duc/tre-mam-non-an-mi-khong-nguoi-lai-va-luong-tri-nguoi-lam-giao-duc-20240814120159203.htm fail, status code: 429
+2024-08-15 15:22:29,564 - Crawl - ERROR - ThreadPoolExecutor-10_1: Request https://dantri.com.vn//giao-duc/truong-thpt-chu-van-an-tuyen-bo-sung-chi-tieu-vao-lop-11-chuyen-20240815124103698.htm fail, status code: 429
+2024-08-15 15:22:29,571 - Crawl - WARNING - ThreadPoolExecutor-10_3: https://dantri.com.vn//giao-duc/tre-mam-non-an-mi-khong-nguoi-lai-va-luong-tri-nguoi-lam-giao-duc-20240814120159203.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:29,572 - Crawl - WARNING - ThreadPoolExecutor-10_1: https://dantri.com.vn//giao-duc/truong-thpt-chu-van-an-tuyen-bo-sung-chi-tieu-vao-lop-11-chuyen-20240815124103698.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:29,688 - Crawl - ERROR - ThreadPoolExecutor-10_3: Request https://dantri.com.vn//giao-duc/gia-thue-ky-tuc-xa-sinh-vien-2024-noi-34-trieu-dongthang-noi-mien-phi-20240811162442400.htm fail, status code: 429
+2024-08-15 15:22:29,694 - Crawl - WARNING - ThreadPoolExecutor-10_3: https://dantri.com.vn//giao-duc/gia-thue-ky-tuc-xa-sinh-vien-2024-noi-34-trieu-dongthang-noi-mien-phi-20240811162442400.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:29,743 - Crawl - ERROR - ThreadPoolExecutor-10_2: Request https://dantri.com.vn//giao-duc/len-dai-hoc-con-ngoan-tro-gioi-lao-luon-vao-mai-dam-co-bac-20240815112451675.htm fail, status code: 429
+2024-08-15 15:22:29,746 - Crawl - WARNING - ThreadPoolExecutor-10_2: https://dantri.com.vn//giao-duc/len-dai-hoc-con-ngoan-tro-gioi-lao-luon-vao-mai-dam-co-bac-20240815112451675.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:29,803 - Crawl - ERROR - ThreadPoolExecutor-10_3: Request https://dantri.com.vn//giao-duc/99-sinh-vien-tot-nghiep-khong-duoc-cap-bang-lanh-dao-xin-rut-kinh-nghiem-20240815102337104.htm fail, status code: 429
+2024-08-15 15:22:29,813 - Crawl - WARNING - ThreadPoolExecutor-10_3: https://dantri.com.vn//giao-duc/99-sinh-vien-tot-nghiep-khong-duoc-cap-bang-lanh-dao-xin-rut-kinh-nghiem-20240815102337104.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:29,907 - Crawl - ERROR - ThreadPoolExecutor-10_2: Request https://dantri.com.vn//giao-duc/hai-truong-len-tieng-ve-bang-dai-hoc-cua-ong-vuong-tan-viet-20240813123153080.htm fail, status code: 429
+2024-08-15 15:22:29,915 - Crawl - WARNING - ThreadPoolExecutor-10_2: https://dantri.com.vn//giao-duc/hai-truong-len-tieng-ve-bang-dai-hoc-cua-ong-vuong-tan-viet-20240813123153080.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:29,968 - Crawl - ERROR - ThreadPoolExecutor-10_1: Request https://dantri.com.vn//giao-duc/ai-thay-giao-vien-giang-bai-chuyen-gia-lo-hoc-sinh-tro-nen-vo-cam-20240814104836197.htm fail, status code: 429
+2024-08-15 15:22:29,970 - Crawl - WARNING - ThreadPoolExecutor-10_1: https://dantri.com.vn//giao-duc/ai-thay-giao-vien-giang-bai-chuyen-gia-lo-hoc-sinh-tro-nen-vo-cam-20240814104836197.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:29,969 - Crawl - ERROR - ThreadPoolExecutor-10_3: Request https://dantri.com.vn//giao-duc/sinh-vien-con-nha-khong-co-dieu-kien-vay-tien-o-dau-de-hoc-dai-hoc-20240813231328545.htm fail, status code: 429
+2024-08-15 15:22:30,019 - Crawl - ERROR - ThreadPoolExecutor-10_2: Request https://dantri.com.vn//giao-duc/truong-dai-hoc-ha-noi-khong-con-luu-bang-cap-3-cua-ong-vuong-tan-viet-20240815091202516.htm fail, status code: 429
+2024-08-15 15:22:30,030 - Crawl - WARNING - ThreadPoolExecutor-10_3: https://dantri.com.vn//giao-duc/sinh-vien-con-nha-khong-co-dieu-kien-vay-tien-o-dau-de-hoc-dai-hoc-20240813231328545.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:30,034 - Crawl - WARNING - ThreadPoolExecutor-10_2: https://dantri.com.vn//giao-duc/truong-dai-hoc-ha-noi-khong-con-luu-bang-cap-3-cua-ong-vuong-tan-viet-20240815091202516.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:30,088 - Crawl - ERROR - ThreadPoolExecutor-10_1: Request https://dantri.com.vn//giao-duc/sinh-vien-dai-hoc-o-tphcm-mot-thang-can-bao-nhieu-tien-20240813091837422.htm fail, status code: 429
+2024-08-15 15:22:30,112 - Crawl - ERROR - ThreadPoolExecutor-10_4: Request https://dantri.com.vn//giao-duc/cha-me-tiet-lo-cach-nuoi-duong-than-dong-hoc-dai-hoc-o-tuoi-12-20240812225359528.htm fail, status code: 429
+2024-08-15 15:22:30,133 - Crawl - WARNING - ThreadPoolExecutor-10_4: https://dantri.com.vn//giao-duc/cha-me-tiet-lo-cach-nuoi-duong-than-dong-hoc-dai-hoc-o-tuoi-12-20240812225359528.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:30,129 - Crawl - WARNING - ThreadPoolExecutor-10_1: https://dantri.com.vn//giao-duc/sinh-vien-dai-hoc-o-tphcm-mot-thang-can-bao-nhieu-tien-20240813091837422.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:30,149 - Crawl - ERROR - ThreadPoolExecutor-10_3: Request https://dantri.com.vn//giao-duc/gan-20-tinh-thanh-cong-bo-lich-tuu-truong-nghi-tet-thi-lop-10-nam-2025-20240813131806225.htm fail, status code: 429
+2024-08-15 15:22:30,165 - Crawl - WARNING - ThreadPoolExecutor-10_3: https://dantri.com.vn//giao-duc/gan-20-tinh-thanh-cong-bo-lich-tuu-truong-nghi-tet-thi-lop-10-nam-2025-20240813131806225.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:30,565 - Crawl - ERROR - ThreadPoolExecutor-11_1: Request https://dantri.com.vn//phap-luat/nu-quai-gia-danh-cong-an-de-lua-tien-chay-an-20240814191832698.htm fail, status code: 429
+2024-08-15 15:22:30,566 - Crawl - WARNING - ThreadPoolExecutor-11_1: https://dantri.com.vn//phap-luat/nu-quai-gia-danh-cong-an-de-lua-tien-chay-an-20240814191832698.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:30,574 - Crawl - ERROR - ThreadPoolExecutor-11_2: Request https://dantri.com.vn//phap-luat/dang-kiem-vien-cau-ket-giam-doc-hop-tac-xa-van-tai-nhan-hoi-lo-20240814125914719.htm fail, status code: 429
+2024-08-15 15:22:30,594 - Crawl - WARNING - ThreadPoolExecutor-11_2: https://dantri.com.vn//phap-luat/dang-kiem-vien-cau-ket-giam-doc-hop-tac-xa-van-tai-nhan-hoi-lo-20240814125914719.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:30,648 - Crawl - ERROR - ThreadPoolExecutor-11_1: Request https://dantri.com.vn//phap-luat/lao-cai-chong-chem-vo-trong-thuong-roi-bo-tron-20240814172939867.htm fail, status code: 429
+2024-08-15 15:22:30,657 - Crawl - ERROR - ThreadPoolExecutor-11_3: Request https://dantri.com.vn//phap-luat/khoi-to-2-nguoi-dan-ong-san-xuat-tieu-thu-thuoc-diet-co-gia-20240814181916331.htm fail, status code: 429
+2024-08-15 15:22:30,669 - Crawl - WARNING - ThreadPoolExecutor-11_1: https://dantri.com.vn//phap-luat/lao-cai-chong-chem-vo-trong-thuong-roi-bo-tron-20240814172939867.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:30,672 - Crawl - WARNING - ThreadPoolExecutor-11_3: https://dantri.com.vn//phap-luat/khoi-to-2-nguoi-dan-ong-san-xuat-tieu-thu-thuoc-diet-co-gia-20240814181916331.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:30,683 - Crawl - ERROR - ThreadPoolExecutor-11_2: Request https://dantri.com.vn//phap-luat/gia-can-bo-cong-an-nhan-gan-3-ty-dong-de-chay-an-20240814140914045.htm fail, status code: 429
+2024-08-15 15:22:30,687 - Crawl - WARNING - ThreadPoolExecutor-11_2: https://dantri.com.vn//phap-luat/gia-can-bo-cong-an-nhan-gan-3-ty-dong-de-chay-an-20240814140914045.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:30,694 - Crawl - ERROR - ThreadPoolExecutor-11_0: Request https://dantri.com.vn//phap-luat/nghi-an-chong-giet-vo-roi-vut-xac-xuong-song-chay-o-lao-cai-20240814174300323.htm fail, status code: 429
+2024-08-15 15:22:30,696 - Crawl - WARNING - ThreadPoolExecutor-11_0: https://dantri.com.vn//phap-luat/nghi-an-chong-giet-vo-roi-vut-xac-xuong-song-chay-o-lao-cai-20240814174300323.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:30,727 - Crawl - ERROR - ThreadPoolExecutor-11_4: Request https://dantri.com.vn//phap-luat/bat-tam-giam-nu-giam-doc-lua-dua-nguoi-di-lam-viec-o-han-quoc-20240814161031164.htm fail, status code: 429
+2024-08-15 15:22:30,745 - Crawl - WARNING - ThreadPoolExecutor-11_4: https://dantri.com.vn//phap-luat/bat-tam-giam-nu-giam-doc-lua-dua-nguoi-di-lam-viec-o-han-quoc-20240814161031164.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:30,764 - Crawl - ERROR - ThreadPoolExecutor-11_1: Request https://dantri.com.vn//phap-luat/mot-nu-can-bo-do-thi-o-tp-vung-tau-bi-bat-20240814190651862.htm fail, status code: 429
+2024-08-15 15:22:30,784 - Crawl - WARNING - ThreadPoolExecutor-11_1: https://dantri.com.vn//phap-luat/mot-nu-can-bo-do-thi-o-tp-vung-tau-bi-bat-20240814190651862.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:30,805 - Crawl - ERROR - ThreadPoolExecutor-11_3: Request https://dantri.com.vn//phap-luat/khoi-to-tai-xe-xe-tai-tong-lien-hoan-8-o-to-o-cau-phu-my-20240814211241759.htm fail, status code: 429
+2024-08-15 15:22:30,816 - Crawl - ERROR - ThreadPoolExecutor-11_0: Request https://dantri.com.vn//phap-luat/nhom-cuu-nhan-vien-san-bay-noi-bai-tiep-tay-buon-lau-nga-voi-sung-te-giac-20240813144227217.htm fail, status code: 429
+2024-08-15 15:22:30,817 - Crawl - ERROR - ThreadPoolExecutor-11_2: Request https://dantri.com.vn//phap-luat/kich-tinh-hanh-trinh-vay-bat-di-ly-154-nghi-pham-tai-tam-giac-vang-20240814105700626.htm fail, status code: 429
+2024-08-15 15:22:30,824 - Crawl - WARNING - ThreadPoolExecutor-11_3: https://dantri.com.vn//phap-luat/khoi-to-tai-xe-xe-tai-tong-lien-hoan-8-o-to-o-cau-phu-my-20240814211241759.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:30,827 - Crawl - WARNING - ThreadPoolExecutor-11_0: https://dantri.com.vn//phap-luat/nhom-cuu-nhan-vien-san-bay-noi-bai-tiep-tay-buon-lau-nga-voi-sung-te-giac-20240813144227217.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:30,833 - Crawl - WARNING - ThreadPoolExecutor-11_2: https://dantri.com.vn//phap-luat/kich-tinh-hanh-trinh-vay-bat-di-ly-154-nghi-pham-tai-tam-giac-vang-20240814105700626.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:30,857 - Crawl - ERROR - ThreadPoolExecutor-11_4: Request https://dantri.com.vn//phap-luat/vu-nam-sinh-lop-8-bi-danh-chet-nao-ket-luan-vai-tro-cua-bo-bi-can-20240814162014294.htm fail, status code: 429
+2024-08-15 15:22:30,863 - Crawl - WARNING - ThreadPoolExecutor-11_4: https://dantri.com.vn//phap-luat/vu-nam-sinh-lop-8-bi-danh-chet-nao-ket-luan-vai-tro-cua-bo-bi-can-20240814162014294.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:30,911 - Crawl - ERROR - ThreadPoolExecutor-11_0: Request https://dantri.com.vn//phap-luat/tiep-tuc-tam-dung-phien-xu-vu-gay-thiet-hai-cho-ngan-hang-hon-291-ty-dong-20240812091603855.htm fail, status code: 429
+2024-08-15 15:22:30,912 - Crawl - WARNING - ThreadPoolExecutor-11_0: https://dantri.com.vn//phap-luat/tiep-tuc-tam-dung-phien-xu-vu-gay-thiet-hai-cho-ngan-hang-hon-291-ty-dong-20240812091603855.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:30,947 - Crawl - ERROR - ThreadPoolExecutor-11_2: Request https://dantri.com.vn//phap-luat/ru-di-nha-nghi-khong-duoc-nguoi-dan-ong-do-xang-dot-nha-nhan-tinh-20240813132018952.htm fail, status code: 429
+2024-08-15 15:22:30,955 - Crawl - WARNING - ThreadPoolExecutor-11_2: https://dantri.com.vn//phap-luat/ru-di-nha-nghi-khong-duoc-nguoi-dan-ong-do-xang-dot-nha-nhan-tinh-20240813132018952.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:30,986 - Crawl - ERROR - ThreadPoolExecutor-11_4: Request https://dantri.com.vn//phap-luat/giai-quyet-mau-thuan-giup-ban-gai-2-anh-em-ruot-cung-lanh-an-20240814185407487.htm fail, status code: 429
+2024-08-15 15:22:30,993 - Crawl - WARNING - ThreadPoolExecutor-11_4: https://dantri.com.vn//phap-luat/giai-quyet-mau-thuan-giup-ban-gai-2-anh-em-ruot-cung-lanh-an-20240814185407487.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:31,078 - Crawl - ERROR - ThreadPoolExecutor-11_1: Request https://dantri.com.vn//phap-luat/hoan-phien-xet-xu-cuu-vu-truong-lua-chu-tich-tan-hoang-minh-80-ty-dong-20240812131535515.htm fail, status code: 429
+2024-08-15 15:22:31,096 - Crawl - WARNING - ThreadPoolExecutor-11_1: https://dantri.com.vn//phap-luat/hoan-phien-xet-xu-cuu-vu-truong-lua-chu-tich-tan-hoang-minh-80-ty-dong-20240812131535515.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:31,122 - Crawl - ERROR - ThreadPoolExecutor-11_3: Request https://dantri.com.vn//phap-luat/quang-cao-trai-phep-qua-hinh-thuc-tang-ao-in-logo-trang-mang-co-bac-20240718222518406.htm fail, status code: 429
+2024-08-15 15:22:31,146 - Crawl - WARNING - ThreadPoolExecutor-11_3: https://dantri.com.vn//phap-luat/quang-cao-trai-phep-qua-hinh-thuc-tang-ao-in-logo-trang-mang-co-bac-20240718222518406.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:31,158 - Crawl - ERROR - ThreadPoolExecutor-11_0: Request https://dantri.com.vn//phap-luat/kich-ban-lua-dao-tinh-vi-cua-cac-cong-ty-bat-dong-san-o-tphcm-20240815132953237.htm fail, status code: 429
+2024-08-15 15:22:31,163 - Crawl - ERROR - ThreadPoolExecutor-11_1: Request https://dantri.com.vn//phap-luat/chiem-doat-16-ty-dong-khi-dat-mua-ho-tui-hermes-co-gai-linh-an-13-nam-tu-20240814161518747.htm fail, status code: 429
+2024-08-15 15:22:31,164 - Crawl - WARNING - ThreadPoolExecutor-11_0: https://dantri.com.vn//phap-luat/kich-ban-lua-dao-tinh-vi-cua-cac-cong-ty-bat-dong-san-o-tphcm-20240815132953237.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:31,166 - Crawl - WARNING - ThreadPoolExecutor-11_1: https://dantri.com.vn//phap-luat/chiem-doat-16-ty-dong-khi-dat-mua-ho-tui-hermes-co-gai-linh-an-13-nam-tu-20240814161518747.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:31,310 - Crawl - ERROR - ThreadPoolExecutor-11_0: Request https://dantri.com.vn//phap-luat/nu-quai-gia-danh-cong-an-de-lua-tien-chay-an-20240814191832698.htm fail, status code: 429
+2024-08-15 15:22:31,312 - Crawl - WARNING - ThreadPoolExecutor-11_0: https://dantri.com.vn//phap-luat/nu-quai-gia-danh-cong-an-de-lua-tien-chay-an-20240814191832698.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:31,317 - Crawl - ERROR - ThreadPoolExecutor-11_1: Request https://dantri.com.vn//phap-luat/dang-kiem-vien-cau-ket-giam-doc-hop-tac-xa-van-tai-nhan-hoi-lo-20240814125914719.htm fail, status code: 429
+2024-08-15 15:22:31,320 - Crawl - WARNING - ThreadPoolExecutor-11_1: https://dantri.com.vn//phap-luat/dang-kiem-vien-cau-ket-giam-doc-hop-tac-xa-van-tai-nhan-hoi-lo-20240814125914719.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:31,327 - Crawl - ERROR - ThreadPoolExecutor-11_2: Request https://dantri.com.vn//phap-luat/khoi-to-2-nguoi-dan-ong-san-xuat-tieu-thu-thuoc-diet-co-gia-20240814181916331.htm fail, status code: 429
+2024-08-15 15:22:31,343 - Crawl - WARNING - ThreadPoolExecutor-11_2: https://dantri.com.vn//phap-luat/khoi-to-2-nguoi-dan-ong-san-xuat-tieu-thu-thuoc-diet-co-gia-20240814181916331.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:31,407 - Crawl - ERROR - ThreadPoolExecutor-11_1: Request https://dantri.com.vn//phap-luat/bat-tam-giam-nu-giam-doc-lua-dua-nguoi-di-lam-viec-o-han-quoc-20240814161031164.htm fail, status code: 429
+2024-08-15 15:22:31,408 - Crawl - ERROR - ThreadPoolExecutor-11_4: Request https://dantri.com.vn//phap-luat/gia-can-bo-cong-an-nhan-gan-3-ty-dong-de-chay-an-20240814140914045.htm fail, status code: 429
+2024-08-15 15:22:31,412 - Crawl - WARNING - ThreadPoolExecutor-11_1: https://dantri.com.vn//phap-luat/bat-tam-giam-nu-giam-doc-lua-dua-nguoi-di-lam-viec-o-han-quoc-20240814161031164.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:31,415 - Crawl - WARNING - ThreadPoolExecutor-11_4: https://dantri.com.vn//phap-luat/gia-can-bo-cong-an-nhan-gan-3-ty-dong-de-chay-an-20240814140914045.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:31,511 - Crawl - ERROR - ThreadPoolExecutor-11_1: Request https://dantri.com.vn//phap-luat/khoi-to-tai-xe-xe-tai-tong-lien-hoan-8-o-to-o-cau-phu-my-20240814211241759.htm fail, status code: 429
+2024-08-15 15:22:31,521 - Crawl - WARNING - ThreadPoolExecutor-11_1: https://dantri.com.vn//phap-luat/khoi-to-tai-xe-xe-tai-tong-lien-hoan-8-o-to-o-cau-phu-my-20240814211241759.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:31,567 - Crawl - WARNING - ThreadPoolExecutor-11_2: https://dantri.com.vn//phap-luat/mot-nu-can-bo-do-thi-o-tp-vung-tau-bi-bat-20240814190651862.htm Find element by xpath: List element empty
+2024-08-15 15:22:31,578 - Crawl - ERROR - ThreadPoolExecutor-11_2: Detect result false
+2024-08-15 15:22:31,656 - Crawl - WARNING - ThreadPoolExecutor-11_3: https://dantri.com.vn//phap-luat/kich-tinh-hanh-trinh-vay-bat-di-ly-154-nghi-pham-tai-tam-giac-vang-20240814105700626.htm Find element by xpath: List element empty
+2024-08-15 15:22:31,666 - Crawl - ERROR - ThreadPoolExecutor-11_2: Request https://dantri.com.vn//phap-luat/khoi-to-ke-chem-guc-nguoi-dan-ong-tai-via-he-ha-noi-20240814114511656.htm fail, status code: 429
+2024-08-15 15:22:31,672 - Crawl - ERROR - ThreadPoolExecutor-11_3: Detect result false
+2024-08-15 15:22:31,722 - Crawl - WARNING - ThreadPoolExecutor-11_2: https://dantri.com.vn//phap-luat/khoi-to-ke-chem-guc-nguoi-dan-ong-tai-via-he-ha-noi-20240814114511656.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:31,728 - Crawl - WARNING - ThreadPoolExecutor-11_3: https://dantri.com.vn//phap-luat/kich-tinh-hanh-trinh-vay-bat-di-ly-154-nghi-pham-tai-tam-giac-vang-20240814105700626.htm Find element by xpath: List element empty
+2024-08-15 15:22:31,746 - Crawl - ERROR - ThreadPoolExecutor-11_3: Detect result false
+2024-08-15 15:22:31,760 - Crawl - WARNING - ThreadPoolExecutor-11_3: https://dantri.com.vn//phap-luat/kich-tinh-hanh-trinh-vay-bat-di-ly-154-nghi-pham-tai-tam-giac-vang-20240814105700626.htm Find element by xpath: List element empty
+2024-08-15 15:22:31,771 - Crawl - ERROR - ThreadPoolExecutor-11_3: Detect result false
+2024-08-15 15:22:31,778 - Crawl - WARNING - ThreadPoolExecutor-11_3: https://dantri.com.vn//phap-luat/kich-tinh-hanh-trinh-vay-bat-di-ly-154-nghi-pham-tai-tam-giac-vang-20240814105700626.htm Find element by xpath: List element empty
+2024-08-15 15:22:31,786 - Crawl - ERROR - ThreadPoolExecutor-11_3: Detect result false
+2024-08-15 15:22:31,803 - Crawl - WARNING - ThreadPoolExecutor-11_3: https://dantri.com.vn//phap-luat/kich-tinh-hanh-trinh-vay-bat-di-ly-154-nghi-pham-tai-tam-giac-vang-20240814105700626.htm Find element by xpath: List element empty
+2024-08-15 15:22:31,805 - Crawl - ERROR - ThreadPoolExecutor-11_3: Detect result false
+2024-08-15 15:22:31,812 - Crawl - ERROR - ThreadPoolExecutor-11_0: Request https://dantri.com.vn//phap-luat/giai-quyet-mau-thuan-giup-ban-gai-2-anh-em-ruot-cung-lanh-an-20240814185407487.htm fail, status code: 429
+2024-08-15 15:22:31,814 - Crawl - WARNING - ThreadPoolExecutor-11_3: https://dantri.com.vn//phap-luat/kich-tinh-hanh-trinh-vay-bat-di-ly-154-nghi-pham-tai-tam-giac-vang-20240814105700626.htm Find element by xpath: List element empty
+2024-08-15 15:22:31,816 - Crawl - ERROR - ThreadPoolExecutor-11_3: Detect result false
+2024-08-15 15:22:31,816 - Crawl - WARNING - ThreadPoolExecutor-11_0: https://dantri.com.vn//phap-luat/giai-quyet-mau-thuan-giup-ban-gai-2-anh-em-ruot-cung-lanh-an-20240814185407487.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:31,896 - Crawl - ERROR - ThreadPoolExecutor-11_3: Request https://dantri.com.vn//phap-luat/hoan-phien-xet-xu-cuu-vu-truong-lua-chu-tich-tan-hoang-minh-80-ty-dong-20240812131535515.htm fail, status code: 429
+2024-08-15 15:22:31,898 - Crawl - WARNING - ThreadPoolExecutor-11_3: https://dantri.com.vn//phap-luat/hoan-phien-xet-xu-cuu-vu-truong-lua-chu-tich-tan-hoang-minh-80-ty-dong-20240812131535515.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:31,911 - Crawl - ERROR - ThreadPoolExecutor-11_1: Request https://dantri.com.vn//phap-luat/quang-cao-trai-phep-qua-hinh-thuc-tang-ao-in-logo-trang-mang-co-bac-20240718222518406.htm fail, status code: 429
+2024-08-15 15:22:31,916 - Crawl - WARNING - ThreadPoolExecutor-11_1: https://dantri.com.vn//phap-luat/quang-cao-trai-phep-qua-hinh-thuc-tang-ao-in-logo-trang-mang-co-bac-20240718222518406.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'
+2024-08-15 15:22:31,952 - Crawl - ERROR - ThreadPoolExecutor-11_3: Request https://dantri.com.vn//phap-luat/chiem-doat-16-ty-dong-khi-dat-mua-ho-tui-hermes-co-gai-linh-an-13-nam-tu-20240814161518747.htm fail, status code: 429
+2024-08-15 15:22:31,953 - Crawl - WARNING - ThreadPoolExecutor-11_3: https://dantri.com.vn//phap-luat/chiem-doat-16-ty-dong-khi-dat-mua-ho-tui-hermes-co-gai-linh-an-13-nam-tu-20240814161518747.htm Exception find element by xpath:
+'bool' object has no attribute 'xpath'

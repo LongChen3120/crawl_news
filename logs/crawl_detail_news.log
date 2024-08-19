@@ -1,0 +1,1244 @@
+2024-08-15 15:22:28,322 - Transform - ERROR - ThreadPoolExecutor-10_0: List attribute is None
+2024-08-15 15:22:28,708 - Transform - ERROR - ThreadPoolExecutor-10_4: List attribute is None
+2024-08-15 15:22:29,313 - Transform - ERROR - ThreadPoolExecutor-10_1: List attribute is None
+2024-08-15 15:22:30,066 - Transform - ERROR - ThreadPoolExecutor-11_2: List attribute is None
+2024-08-15 15:22:30,734 - Transform - ERROR - ThreadPoolExecutor-11_1: List attribute is None
+2024-08-15 15:30:16,386 - Main - INFO - __________________________________Run Crawl detail news
+2024-08-15 15:30:16,419 - Database - INFO - Connected database crawl_news
+2024-08-15 15:30:16,466 - Database - INFO - Connected collection urls_clean
+2024-08-15 15:30:16,479 - Database - INFO - Connected collection detail
+2024-08-15 15:30:16,486 - Main - INFO - Config url crawl: https://vnexpress.net/ find 1 docs
+2024-08-15 15:30:16,622 - Database - INFO - Inserted 1 docs
+2024-08-15 15:30:16,623 - Main - INFO - Task queue empty, task done
+2024-08-15 15:30:16,635 - Main - INFO - Config url crawl: https://tuoitre.vn/ find 4 docs
+2024-08-15 15:30:16,998 - Database - INFO - Inserted 4 docs
+2024-08-15 15:30:16,998 - Main - INFO - Task queue empty, task done
+2024-08-15 15:30:17,005 - Main - INFO - Config url crawl: https://dantri.com.vn/tin-moi-nhat.htm find 6 docs
+2024-08-15 15:30:17,223 - Database - INFO - Inserted 6 docs
+2024-08-15 15:30:17,224 - Main - INFO - Task queue empty, task done
+2024-08-15 15:30:17,229 - Main - INFO - Config url crawl: https://dantri.com.vn/kinh-doanh.htm find 12 docs
+2024-08-15 15:30:17,378 - Crawl - WARNING - ThreadPoolExecutor-3_2: https://dantri.com.vn//kinh-doanh/quoc-cuong-gia-lai-kinh-doanh-ra-sao-duoi-thoi-ba-nguyen-thi-nhu-loan-20240719164822975.htm Find element by xpath: List element empty
+2024-08-15 15:30:17,379 - Crawl - ERROR - ThreadPoolExecutor-3_2: Detect result false
+2024-08-15 15:30:17,381 - Crawl - WARNING - ThreadPoolExecutor-3_2: https://dantri.com.vn//kinh-doanh/quoc-cuong-gia-lai-kinh-doanh-ra-sao-duoi-thoi-ba-nguyen-thi-nhu-loan-20240719164822975.htm Find element by xpath: List element empty
+2024-08-15 15:30:17,382 - Crawl - ERROR - ThreadPoolExecutor-3_2: Detect result false
+2024-08-15 15:30:17,386 - Crawl - WARNING - ThreadPoolExecutor-3_2: https://dantri.com.vn//kinh-doanh/quoc-cuong-gia-lai-kinh-doanh-ra-sao-duoi-thoi-ba-nguyen-thi-nhu-loan-20240719164822975.htm Find element by xpath: List element empty
+2024-08-15 15:30:17,388 - Crawl - ERROR - ThreadPoolExecutor-3_2: Detect result false
+2024-08-15 15:30:17,393 - Crawl - WARNING - ThreadPoolExecutor-3_2: https://dantri.com.vn//kinh-doanh/quoc-cuong-gia-lai-kinh-doanh-ra-sao-duoi-thoi-ba-nguyen-thi-nhu-loan-20240719164822975.htm Find element by xpath: List element empty
+2024-08-15 15:30:17,394 - Crawl - ERROR - ThreadPoolExecutor-3_2: Detect result false
+2024-08-15 15:30:17,398 - Crawl - WARNING - ThreadPoolExecutor-3_2: https://dantri.com.vn//kinh-doanh/quoc-cuong-gia-lai-kinh-doanh-ra-sao-duoi-thoi-ba-nguyen-thi-nhu-loan-20240719164822975.htm Find element by xpath: List element empty
+2024-08-15 15:30:17,400 - Crawl - ERROR - ThreadPoolExecutor-3_2: Detect result false
+2024-08-15 15:30:17,407 - Crawl - WARNING - ThreadPoolExecutor-3_2: https://dantri.com.vn//kinh-doanh/quoc-cuong-gia-lai-kinh-doanh-ra-sao-duoi-thoi-ba-nguyen-thi-nhu-loan-20240719164822975.htm Find element by xpath: List element empty
+2024-08-15 15:30:17,413 - Crawl - ERROR - ThreadPoolExecutor-3_2: Detect result false
+2024-08-15 15:30:17,526 - Crawl - WARNING - ThreadPoolExecutor-3_3: https://dantri.com.vn//kinh-doanh/chien-luoc-giup-start-up-viet-vuon-ra-thi-truong-toan-cau-20240627131049518.htm Find element by xpath: List element empty
+2024-08-15 15:30:17,622 - Crawl - ERROR - ThreadPoolExecutor-3_3: Detect result false
+2024-08-15 15:30:17,624 - Crawl - WARNING - ThreadPoolExecutor-3_3: https://dantri.com.vn//kinh-doanh/chien-luoc-giup-start-up-viet-vuon-ra-thi-truong-toan-cau-20240627131049518.htm Find element by xpath: List element empty
+2024-08-15 15:30:17,624 - Crawl - ERROR - ThreadPoolExecutor-3_3: Detect result false
+2024-08-15 15:30:17,626 - Crawl - WARNING - ThreadPoolExecutor-3_3: https://dantri.com.vn//kinh-doanh/chien-luoc-giup-start-up-viet-vuon-ra-thi-truong-toan-cau-20240627131049518.htm Find element by xpath: List element empty
+2024-08-15 15:30:17,626 - Crawl - ERROR - ThreadPoolExecutor-3_3: Detect result false
+2024-08-15 15:30:17,628 - Crawl - WARNING - ThreadPoolExecutor-3_3: https://dantri.com.vn//kinh-doanh/chien-luoc-giup-start-up-viet-vuon-ra-thi-truong-toan-cau-20240627131049518.htm Find element by xpath: List element empty
+2024-08-15 15:30:17,629 - Crawl - ERROR - ThreadPoolExecutor-3_3: Detect result false
+2024-08-15 15:30:17,631 - Crawl - WARNING - ThreadPoolExecutor-3_3: https://dantri.com.vn//kinh-doanh/chien-luoc-giup-start-up-viet-vuon-ra-thi-truong-toan-cau-20240627131049518.htm Find element by xpath: List element empty
+2024-08-15 15:30:17,632 - Crawl - ERROR - ThreadPoolExecutor-3_3: Detect result false
+2024-08-15 15:30:17,634 - Crawl - WARNING - ThreadPoolExecutor-3_3: https://dantri.com.vn//kinh-doanh/chien-luoc-giup-start-up-viet-vuon-ra-thi-truong-toan-cau-20240627131049518.htm Find element by xpath: List element empty
+2024-08-15 15:30:17,635 - Crawl - ERROR - ThreadPoolExecutor-3_3: Detect result false
+2024-08-15 15:30:17,639 - Database - INFO - Inserted 12 docs
+2024-08-15 15:30:17,640 - Main - INFO - Task queue empty, task done
+2024-08-15 15:30:17,650 - Main - INFO - Config url crawl: https://dantri.com.vn/xa-hoi.htm find 5 docs
+2024-08-15 15:30:17,851 - Crawl - WARNING - ThreadPoolExecutor-4_4: https://dantri.com.vn//xa-hoi/toan-canh-le-phat-dong-chuong-trinh-sang-kien-an-toan-giao-thong-2023-20230405132135149.htm Find element by xpath: List element empty
+2024-08-15 15:30:17,879 - Crawl - ERROR - ThreadPoolExecutor-4_4: Detect result false
+2024-08-15 15:30:17,881 - Crawl - WARNING - ThreadPoolExecutor-4_4: https://dantri.com.vn//xa-hoi/toan-canh-le-phat-dong-chuong-trinh-sang-kien-an-toan-giao-thong-2023-20230405132135149.htm Find element by xpath: List element empty
+2024-08-15 15:30:17,882 - Crawl - ERROR - ThreadPoolExecutor-4_4: Detect result false
+2024-08-15 15:30:17,884 - Crawl - WARNING - ThreadPoolExecutor-4_4: https://dantri.com.vn//xa-hoi/toan-canh-le-phat-dong-chuong-trinh-sang-kien-an-toan-giao-thong-2023-20230405132135149.htm Find element by xpath: List element empty
+2024-08-15 15:30:17,885 - Crawl - ERROR - ThreadPoolExecutor-4_4: Detect result false
+2024-08-15 15:30:17,886 - Crawl - WARNING - ThreadPoolExecutor-4_4: https://dantri.com.vn//xa-hoi/toan-canh-le-phat-dong-chuong-trinh-sang-kien-an-toan-giao-thong-2023-20230405132135149.htm Find element by xpath: List element empty
+2024-08-15 15:30:17,887 - Crawl - ERROR - ThreadPoolExecutor-4_4: Detect result false
+2024-08-15 15:30:17,889 - Crawl - WARNING - ThreadPoolExecutor-4_4: https://dantri.com.vn//xa-hoi/toan-canh-le-phat-dong-chuong-trinh-sang-kien-an-toan-giao-thong-2023-20230405132135149.htm Find element by xpath: List element empty
+2024-08-15 15:30:17,890 - Crawl - ERROR - ThreadPoolExecutor-4_4: Detect result false
+2024-08-15 15:30:17,892 - Crawl - WARNING - ThreadPoolExecutor-4_4: https://dantri.com.vn//xa-hoi/toan-canh-le-phat-dong-chuong-trinh-sang-kien-an-toan-giao-thong-2023-20230405132135149.htm Find element by xpath: List element empty
+2024-08-15 15:30:17,893 - Crawl - ERROR - ThreadPoolExecutor-4_4: Detect result false
+2024-08-15 15:30:17,896 - Database - INFO - Inserted 5 docs
+2024-08-15 15:30:17,897 - Main - INFO - Task queue empty, task done
+2024-08-15 15:30:17,905 - Main - INFO - Config url crawl: https://dantri.com.vn/the-gioi.htm find 4 docs
+2024-08-15 15:30:18,027 - Crawl - WARNING - ThreadPoolExecutor-5_0: https://dantri.com.vn//the-gioi/hien-truong-vu-nhom-nguoi-viet-tu-vong-nghi-do-bi-dau-doc-o-thai-lan-20240717083444641.htm Find element by xpath: List element empty
+2024-08-15 15:30:18,029 - Crawl - ERROR - ThreadPoolExecutor-5_0: Detect result false
+2024-08-15 15:30:18,040 - Crawl - WARNING - ThreadPoolExecutor-5_0: https://dantri.com.vn//the-gioi/hien-truong-vu-nhom-nguoi-viet-tu-vong-nghi-do-bi-dau-doc-o-thai-lan-20240717083444641.htm Find element by xpath: List element empty
+2024-08-15 15:30:18,042 - Crawl - ERROR - ThreadPoolExecutor-5_0: Detect result false
+2024-08-15 15:30:18,045 - Crawl - WARNING - ThreadPoolExecutor-5_0: https://dantri.com.vn//the-gioi/hien-truong-vu-nhom-nguoi-viet-tu-vong-nghi-do-bi-dau-doc-o-thai-lan-20240717083444641.htm Find element by xpath: List element empty
+2024-08-15 15:30:18,048 - Crawl - ERROR - ThreadPoolExecutor-5_0: Detect result false
+2024-08-15 15:30:18,055 - Crawl - WARNING - ThreadPoolExecutor-5_0: https://dantri.com.vn//the-gioi/hien-truong-vu-nhom-nguoi-viet-tu-vong-nghi-do-bi-dau-doc-o-thai-lan-20240717083444641.htm Find element by xpath: List element empty
+2024-08-15 15:30:18,059 - Crawl - ERROR - ThreadPoolExecutor-5_0: Detect result false
+2024-08-15 15:30:18,061 - Crawl - WARNING - ThreadPoolExecutor-5_0: https://dantri.com.vn//the-gioi/hien-truong-vu-nhom-nguoi-viet-tu-vong-nghi-do-bi-dau-doc-o-thai-lan-20240717083444641.htm Find element by xpath: List element empty
+2024-08-15 15:30:18,062 - Crawl - ERROR - ThreadPoolExecutor-5_0: Detect result false
+2024-08-15 15:30:18,064 - Crawl - WARNING - ThreadPoolExecutor-5_0: https://dantri.com.vn//the-gioi/hien-truong-vu-nhom-nguoi-viet-tu-vong-nghi-do-bi-dau-doc-o-thai-lan-20240717083444641.htm Find element by xpath: List element empty
+2024-08-15 15:30:18,065 - Crawl - ERROR - ThreadPoolExecutor-5_0: Detect result false
+2024-08-15 15:30:18,087 - Database - INFO - Inserted 4 docs
+2024-08-15 15:30:18,088 - Main - INFO - Task queue empty, task done
+2024-08-15 15:30:18,097 - Main - INFO - Config url crawl: https://dantri.com.vn/giai-tri.htm find 4 docs
+2024-08-15 15:30:18,248 - Database - INFO - Inserted 4 docs
+2024-08-15 15:30:18,249 - Main - INFO - Task queue empty, task done
+2024-08-15 15:30:18,256 - Main - INFO - Config url crawl: https://dantri.com.vn/bat-dong-san.htm find 1 docs
+2024-08-15 15:30:18,478 - Database - INFO - Inserted 1 docs
+2024-08-15 15:30:18,479 - Main - INFO - Task queue empty, task done
+2024-08-15 15:30:18,487 - Main - INFO - Config url crawl: https://dantri.com.vn/the-thao.htm find 3 docs
+2024-08-15 15:30:18,598 - Crawl - WARNING - ThreadPoolExecutor-8_1: https://dantri.com.vn//the-thao/bong-da-argentina-di-san-bi-hoen-o-va-man-au-da-dang-quen-voi-nguoi-phap-20240808110441605.htm Find element by xpath: List element empty
+2024-08-15 15:30:18,598 - Crawl - ERROR - ThreadPoolExecutor-8_1: Detect result false
+2024-08-15 15:30:18,600 - Crawl - WARNING - ThreadPoolExecutor-8_1: https://dantri.com.vn//the-thao/bong-da-argentina-di-san-bi-hoen-o-va-man-au-da-dang-quen-voi-nguoi-phap-20240808110441605.htm Find element by xpath: List element empty
+2024-08-15 15:30:18,601 - Crawl - ERROR - ThreadPoolExecutor-8_1: Detect result false
+2024-08-15 15:30:18,603 - Crawl - WARNING - ThreadPoolExecutor-8_1: https://dantri.com.vn//the-thao/bong-da-argentina-di-san-bi-hoen-o-va-man-au-da-dang-quen-voi-nguoi-phap-20240808110441605.htm Find element by xpath: List element empty
+2024-08-15 15:30:18,604 - Crawl - ERROR - ThreadPoolExecutor-8_1: Detect result false
+2024-08-15 15:30:18,606 - Crawl - WARNING - ThreadPoolExecutor-8_1: https://dantri.com.vn//the-thao/bong-da-argentina-di-san-bi-hoen-o-va-man-au-da-dang-quen-voi-nguoi-phap-20240808110441605.htm Find element by xpath: List element empty
+2024-08-15 15:30:18,607 - Crawl - ERROR - ThreadPoolExecutor-8_1: Detect result false
+2024-08-15 15:30:18,608 - Crawl - WARNING - ThreadPoolExecutor-8_2: https://dantri.com.vn//the-thao/chuyen-gia-han-quoc-viet-nam-can-nhan-thuc-ro-hon-gia-tri-tam-huy-chuong-olympic-20240806114220981.htm Find element by xpath: List element empty
+2024-08-15 15:30:18,609 - Crawl - WARNING - ThreadPoolExecutor-8_1: https://dantri.com.vn//the-thao/bong-da-argentina-di-san-bi-hoen-o-va-man-au-da-dang-quen-voi-nguoi-phap-20240808110441605.htm Find element by xpath: List element empty
+2024-08-15 15:30:18,609 - Crawl - ERROR - ThreadPoolExecutor-8_2: Detect result false
+2024-08-15 15:30:18,610 - Crawl - ERROR - ThreadPoolExecutor-8_1: Detect result false
+2024-08-15 15:30:18,612 - Crawl - WARNING - ThreadPoolExecutor-8_2: https://dantri.com.vn//the-thao/chuyen-gia-han-quoc-viet-nam-can-nhan-thuc-ro-hon-gia-tri-tam-huy-chuong-olympic-20240806114220981.htm Find element by xpath: List element empty
+2024-08-15 15:30:18,612 - Crawl - WARNING - ThreadPoolExecutor-8_1: https://dantri.com.vn//the-thao/bong-da-argentina-di-san-bi-hoen-o-va-man-au-da-dang-quen-voi-nguoi-phap-20240808110441605.htm Find element by xpath: List element empty
+2024-08-15 15:30:18,613 - Crawl - ERROR - ThreadPoolExecutor-8_2: Detect result false
+2024-08-15 15:30:18,613 - Crawl - ERROR - ThreadPoolExecutor-8_1: Detect result false
+2024-08-15 15:30:18,615 - Crawl - WARNING - ThreadPoolExecutor-8_2: https://dantri.com.vn//the-thao/chuyen-gia-han-quoc-viet-nam-can-nhan-thuc-ro-hon-gia-tri-tam-huy-chuong-olympic-20240806114220981.htm Find element by xpath: List element empty
+2024-08-15 15:30:18,616 - Crawl - ERROR - ThreadPoolExecutor-8_2: Detect result false
+2024-08-15 15:30:18,617 - Crawl - WARNING - ThreadPoolExecutor-8_2: https://dantri.com.vn//the-thao/chuyen-gia-han-quoc-viet-nam-can-nhan-thuc-ro-hon-gia-tri-tam-huy-chuong-olympic-20240806114220981.htm Find element by xpath: List element empty
+2024-08-15 15:30:18,618 - Crawl - ERROR - ThreadPoolExecutor-8_2: Detect result false
+2024-08-15 15:30:18,619 - Crawl - WARNING - ThreadPoolExecutor-8_2: https://dantri.com.vn//the-thao/chuyen-gia-han-quoc-viet-nam-can-nhan-thuc-ro-hon-gia-tri-tam-huy-chuong-olympic-20240806114220981.htm Find element by xpath: List element empty
+2024-08-15 15:30:18,620 - Crawl - ERROR - ThreadPoolExecutor-8_2: Detect result false
+2024-08-15 15:30:18,621 - Crawl - WARNING - ThreadPoolExecutor-8_2: https://dantri.com.vn//the-thao/chuyen-gia-han-quoc-viet-nam-can-nhan-thuc-ro-hon-gia-tri-tam-huy-chuong-olympic-20240806114220981.htm Find element by xpath: List element empty
+2024-08-15 15:30:18,622 - Crawl - ERROR - ThreadPoolExecutor-8_2: Detect result false
+2024-08-15 15:30:18,625 - Database - INFO - Inserted 3 docs
+2024-08-15 15:30:18,626 - Main - INFO - Task queue empty, task done
+2024-08-15 15:30:18,631 - Main - INFO - Config url crawl: https://dantri.com.vn/lao-dong-viec-lam.htm find 7 docs
+2024-08-15 15:30:19,017 - Crawl - WARNING - ThreadPoolExecutor-9_1: https://dantri.com.vn//lao-dong-viec-lam/vung-que-nhan-nhan-biet-thu-lau-dai-duoc-vi-nhu-lang-chau-au-o-nghe-an-20240717085230974.htm Find element by xpath: List element empty
+2024-08-15 15:30:19,020 - Crawl - ERROR - ThreadPoolExecutor-9_1: Detect result false
+2024-08-15 15:30:19,025 - Crawl - WARNING - ThreadPoolExecutor-9_1: https://dantri.com.vn//lao-dong-viec-lam/vung-que-nhan-nhan-biet-thu-lau-dai-duoc-vi-nhu-lang-chau-au-o-nghe-an-20240717085230974.htm Find element by xpath: List element empty
+2024-08-15 15:30:19,026 - Crawl - ERROR - ThreadPoolExecutor-9_1: Detect result false
+2024-08-15 15:30:19,030 - Crawl - WARNING - ThreadPoolExecutor-9_1: https://dantri.com.vn//lao-dong-viec-lam/vung-que-nhan-nhan-biet-thu-lau-dai-duoc-vi-nhu-lang-chau-au-o-nghe-an-20240717085230974.htm Find element by xpath: List element empty
+2024-08-15 15:30:19,034 - Crawl - ERROR - ThreadPoolExecutor-9_1: Detect result false
+2024-08-15 15:30:19,037 - Crawl - WARNING - ThreadPoolExecutor-9_1: https://dantri.com.vn//lao-dong-viec-lam/vung-que-nhan-nhan-biet-thu-lau-dai-duoc-vi-nhu-lang-chau-au-o-nghe-an-20240717085230974.htm Find element by xpath: List element empty
+2024-08-15 15:30:19,038 - Crawl - ERROR - ThreadPoolExecutor-9_1: Detect result false
+2024-08-15 15:30:19,040 - Crawl - WARNING - ThreadPoolExecutor-9_1: https://dantri.com.vn//lao-dong-viec-lam/vung-que-nhan-nhan-biet-thu-lau-dai-duoc-vi-nhu-lang-chau-au-o-nghe-an-20240717085230974.htm Find element by xpath: List element empty
+2024-08-15 15:30:19,042 - Crawl - ERROR - ThreadPoolExecutor-9_1: Detect result false
+2024-08-15 15:30:19,047 - Crawl - WARNING - ThreadPoolExecutor-9_1: https://dantri.com.vn//lao-dong-viec-lam/vung-que-nhan-nhan-biet-thu-lau-dai-duoc-vi-nhu-lang-chau-au-o-nghe-an-20240717085230974.htm Find element by xpath: List element empty
+2024-08-15 15:30:19,049 - Crawl - ERROR - ThreadPoolExecutor-9_1: Detect result false
+2024-08-15 15:30:19,054 - Database - INFO - Inserted 7 docs
+2024-08-15 15:30:19,054 - Main - INFO - Task queue empty, task done
+2024-08-15 15:30:19,060 - Database - WARNING - Find: Empry
+2024-08-15 15:30:19,060 - Main - INFO - Config url crawl: https://dantri.com.vn/tam-long-nhan-ai.htm find 0 docs
+2024-08-15 15:30:19,061 - Main - INFO - Task queue empty, task done
+2024-08-15 15:30:19,070 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-khoe.htm find 12 docs
+2024-08-15 15:30:19,494 - Database - INFO - Inserted 12 docs
+2024-08-15 15:30:19,525 - Main - INFO - Task queue empty, task done
+2024-08-15 15:30:19,577 - Main - INFO - Config url crawl: https://dantri.com.vn/o-to-xe-may.htm find 5 docs
+2024-08-15 15:30:19,839 - Crawl - WARNING - ThreadPoolExecutor-11_0: https://dantri.com.vn//o-to-xe-may/trai-nghiem-vinfast-vf-3-hoan-thien-tot-cam-giac-lai-phu-hop-voi-so-dong-20240801163703442.htm Find element by xpath: List element empty
+2024-08-15 15:30:19,867 - Crawl - ERROR - ThreadPoolExecutor-11_0: Detect result false
+2024-08-15 15:30:19,870 - Crawl - WARNING - ThreadPoolExecutor-11_2: https://dantri.com.vn//o-to-xe-may/noi-bat-tuan-qua-tai-xe-container-chap-nhan-bi-nan-de-tranh-xe-tai-vuot-au-20240803233939414.htm Find element by xpath: List element empty
+2024-08-15 15:30:19,879 - Crawl - WARNING - ThreadPoolExecutor-11_0: https://dantri.com.vn//o-to-xe-may/trai-nghiem-vinfast-vf-3-hoan-thien-tot-cam-giac-lai-phu-hop-voi-so-dong-20240801163703442.htm Find element by xpath: List element empty
+2024-08-15 15:30:19,882 - Crawl - ERROR - ThreadPoolExecutor-11_2: Detect result false
+2024-08-15 15:30:19,883 - Crawl - ERROR - ThreadPoolExecutor-11_0: Detect result false
+2024-08-15 15:30:19,912 - Crawl - WARNING - ThreadPoolExecutor-11_0: https://dantri.com.vn//o-to-xe-may/trai-nghiem-vinfast-vf-3-hoan-thien-tot-cam-giac-lai-phu-hop-voi-so-dong-20240801163703442.htm Find element by xpath: List element empty
+2024-08-15 15:30:19,941 - Crawl - ERROR - ThreadPoolExecutor-11_0: Detect result false
+2024-08-15 15:30:19,949 - Crawl - WARNING - ThreadPoolExecutor-11_0: https://dantri.com.vn//o-to-xe-may/trai-nghiem-vinfast-vf-3-hoan-thien-tot-cam-giac-lai-phu-hop-voi-so-dong-20240801163703442.htm Find element by xpath: List element empty
+2024-08-15 15:30:19,963 - Crawl - ERROR - ThreadPoolExecutor-11_0: Detect result false
+2024-08-15 15:30:19,959 - Crawl - WARNING - ThreadPoolExecutor-11_4: https://dantri.com.vn//o-to-xe-may/xe-dien-co-nho-tam-300-trieu-dong-chon-vinfast-vf-3-hay-wuling-mini-ev-20240517140725606.htm Find element by xpath: List element empty
+2024-08-15 15:30:19,968 - Crawl - WARNING - ThreadPoolExecutor-11_0: https://dantri.com.vn//o-to-xe-may/trai-nghiem-vinfast-vf-3-hoan-thien-tot-cam-giac-lai-phu-hop-voi-so-dong-20240801163703442.htm Find element by xpath: List element empty
+2024-08-15 15:30:19,970 - Crawl - ERROR - ThreadPoolExecutor-11_0: Detect result false
+2024-08-15 15:30:19,974 - Crawl - WARNING - ThreadPoolExecutor-11_0: https://dantri.com.vn//o-to-xe-may/trai-nghiem-vinfast-vf-3-hoan-thien-tot-cam-giac-lai-phu-hop-voi-so-dong-20240801163703442.htm Find element by xpath: List element empty
+2024-08-15 15:30:19,969 - Crawl - ERROR - ThreadPoolExecutor-11_4: Detect result false
+2024-08-15 15:30:19,977 - Crawl - WARNING - ThreadPoolExecutor-11_4: https://dantri.com.vn//o-to-xe-may/xe-dien-co-nho-tam-300-trieu-dong-chon-vinfast-vf-3-hay-wuling-mini-ev-20240517140725606.htm Find element by xpath: List element empty
+2024-08-15 15:30:19,977 - Crawl - ERROR - ThreadPoolExecutor-11_0: Detect result false
+2024-08-15 15:30:19,979 - Crawl - ERROR - ThreadPoolExecutor-11_4: Detect result false
+2024-08-15 15:30:19,990 - Crawl - WARNING - ThreadPoolExecutor-11_4: https://dantri.com.vn//o-to-xe-may/xe-dien-co-nho-tam-300-trieu-dong-chon-vinfast-vf-3-hay-wuling-mini-ev-20240517140725606.htm Find element by xpath: List element empty
+2024-08-15 15:30:19,991 - Crawl - ERROR - ThreadPoolExecutor-11_4: Detect result false
+2024-08-15 15:30:20,000 - Crawl - WARNING - ThreadPoolExecutor-11_4: https://dantri.com.vn//o-to-xe-may/xe-dien-co-nho-tam-300-trieu-dong-chon-vinfast-vf-3-hay-wuling-mini-ev-20240517140725606.htm Find element by xpath: List element empty
+2024-08-15 15:30:20,007 - Crawl - ERROR - ThreadPoolExecutor-11_4: Detect result false
+2024-08-15 15:30:20,009 - Crawl - WARNING - ThreadPoolExecutor-11_4: https://dantri.com.vn//o-to-xe-may/xe-dien-co-nho-tam-300-trieu-dong-chon-vinfast-vf-3-hay-wuling-mini-ev-20240517140725606.htm Find element by xpath: List element empty
+2024-08-15 15:30:20,010 - Crawl - ERROR - ThreadPoolExecutor-11_4: Detect result false
+2024-08-15 15:30:20,014 - Crawl - WARNING - ThreadPoolExecutor-11_4: https://dantri.com.vn//o-to-xe-may/xe-dien-co-nho-tam-300-trieu-dong-chon-vinfast-vf-3-hay-wuling-mini-ev-20240517140725606.htm Find element by xpath: List element empty
+2024-08-15 15:30:20,015 - Crawl - ERROR - ThreadPoolExecutor-11_4: Detect result false
+2024-08-15 15:30:20,021 - Database - INFO - Inserted 5 docs
+2024-08-15 15:30:20,023 - Main - INFO - Task queue empty, task done
+2024-08-15 15:30:20,055 - Database - WARNING - Find: Empry
+2024-08-15 15:30:20,057 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-manh-so.htm find 0 docs
+2024-08-15 15:30:20,058 - Main - INFO - Task queue empty, task done
+2024-08-15 15:30:20,075 - Main - INFO - Config url crawl: https://dantri.com.vn/giao-duc.htm find 11 docs
+2024-08-15 15:30:20,746 - Crawl - WARNING - ThreadPoolExecutor-12_2: https://dantri.com.vn//giao-duc/nu-sinh-trung-tuyen-truong-top-1-o-my-kiem-60-trieu-dongthang-nho-ban-xoi-20240804234434894.htm Find element by xpath: List element empty
+2024-08-15 15:30:20,759 - Crawl - ERROR - ThreadPoolExecutor-12_2: Detect result false
+2024-08-15 15:30:20,762 - Crawl - WARNING - ThreadPoolExecutor-12_2: https://dantri.com.vn//giao-duc/nu-sinh-trung-tuyen-truong-top-1-o-my-kiem-60-trieu-dongthang-nho-ban-xoi-20240804234434894.htm Find element by xpath: List element empty
+2024-08-15 15:30:20,763 - Crawl - ERROR - ThreadPoolExecutor-12_2: Detect result false
+2024-08-15 15:30:20,765 - Crawl - WARNING - ThreadPoolExecutor-12_2: https://dantri.com.vn//giao-duc/nu-sinh-trung-tuyen-truong-top-1-o-my-kiem-60-trieu-dongthang-nho-ban-xoi-20240804234434894.htm Find element by xpath: List element empty
+2024-08-15 15:30:20,774 - Crawl - ERROR - ThreadPoolExecutor-12_2: Detect result false
+2024-08-15 15:30:20,782 - Crawl - WARNING - ThreadPoolExecutor-12_2: https://dantri.com.vn//giao-duc/nu-sinh-trung-tuyen-truong-top-1-o-my-kiem-60-trieu-dongthang-nho-ban-xoi-20240804234434894.htm Find element by xpath: List element empty
+2024-08-15 15:30:20,783 - Crawl - ERROR - ThreadPoolExecutor-12_2: Detect result false
+2024-08-15 15:30:20,785 - Crawl - WARNING - ThreadPoolExecutor-12_2: https://dantri.com.vn//giao-duc/nu-sinh-trung-tuyen-truong-top-1-o-my-kiem-60-trieu-dongthang-nho-ban-xoi-20240804234434894.htm Find element by xpath: List element empty
+2024-08-15 15:30:20,793 - Crawl - ERROR - ThreadPoolExecutor-12_2: Detect result false
+2024-08-15 15:30:20,797 - Crawl - WARNING - ThreadPoolExecutor-12_2: https://dantri.com.vn//giao-duc/nu-sinh-trung-tuyen-truong-top-1-o-my-kiem-60-trieu-dongthang-nho-ban-xoi-20240804234434894.htm Find element by xpath: List element empty
+2024-08-15 15:30:20,798 - Crawl - ERROR - ThreadPoolExecutor-12_2: Detect result false
+2024-08-15 15:30:20,877 - Database - INFO - Inserted 11 docs
+2024-08-15 15:30:20,878 - Main - INFO - Task queue empty, task done
+2024-08-15 15:30:20,886 - Database - WARNING - Find: Empry
+2024-08-15 15:30:20,887 - Main - INFO - Config url crawl: https://dantri.com.vn/an-sinh.htm find 0 docs
+2024-08-15 15:30:20,887 - Main - INFO - Task queue empty, task done
+2024-08-15 15:30:20,897 - Main - INFO - Config url crawl: https://dantri.com.vn/phap-luat.htm find 4 docs
+2024-08-15 15:30:21,014 - Crawl - WARNING - ThreadPoolExecutor-13_0: https://dantri.com.vn//phap-luat/ben-trong-sao-huyet-cua-to-chuc-lua-dao-quoc-te-o-tam-giac-vang-20240808120748703.htm Find element by xpath: List element empty
+2024-08-15 15:30:21,042 - Crawl - ERROR - ThreadPoolExecutor-13_0: Detect result false
+2024-08-15 15:30:21,068 - Crawl - WARNING - ThreadPoolExecutor-13_0: https://dantri.com.vn//phap-luat/ben-trong-sao-huyet-cua-to-chuc-lua-dao-quoc-te-o-tam-giac-vang-20240808120748703.htm Find element by xpath: List element empty
+2024-08-15 15:30:21,074 - Crawl - ERROR - ThreadPoolExecutor-13_0: Detect result false
+2024-08-15 15:30:21,096 - Crawl - WARNING - ThreadPoolExecutor-13_1: https://dantri.com.vn//phap-luat/trinh-van-quyet-tu-giau-thu-3-viet-nam-roi-xuong-vuc-sau-tu-toi-20240807170138389.htm Find element by xpath: List element empty
+2024-08-15 15:30:21,100 - Crawl - ERROR - ThreadPoolExecutor-13_1: Detect result false
+2024-08-15 15:30:21,103 - Crawl - WARNING - ThreadPoolExecutor-13_1: https://dantri.com.vn//phap-luat/trinh-van-quyet-tu-giau-thu-3-viet-nam-roi-xuong-vuc-sau-tu-toi-20240807170138389.htm Find element by xpath: List element empty
+2024-08-15 15:30:21,104 - Crawl - ERROR - ThreadPoolExecutor-13_1: Detect result false
+2024-08-15 15:30:21,108 - Crawl - WARNING - ThreadPoolExecutor-13_2: https://dantri.com.vn//phap-luat/cuoc-dot-kich-toa-cao-oc-bat-kha-xam-pham-tai-tam-giac-vang-20240808071210773.htm Find element by xpath: List element empty
+2024-08-15 15:30:21,115 - Crawl - WARNING - ThreadPoolExecutor-13_1: https://dantri.com.vn//phap-luat/trinh-van-quyet-tu-giau-thu-3-viet-nam-roi-xuong-vuc-sau-tu-toi-20240807170138389.htm Find element by xpath: List element empty
+2024-08-15 15:30:21,125 - Crawl - ERROR - ThreadPoolExecutor-13_2: Detect result false
+2024-08-15 15:30:21,140 - Crawl - ERROR - ThreadPoolExecutor-13_1: Detect result false
+2024-08-15 15:30:21,150 - Crawl - WARNING - ThreadPoolExecutor-13_2: https://dantri.com.vn//phap-luat/cuoc-dot-kich-toa-cao-oc-bat-kha-xam-pham-tai-tam-giac-vang-20240808071210773.htm Find element by xpath: List element empty
+2024-08-15 15:30:21,155 - Crawl - WARNING - ThreadPoolExecutor-13_1: https://dantri.com.vn//phap-luat/trinh-van-quyet-tu-giau-thu-3-viet-nam-roi-xuong-vuc-sau-tu-toi-20240807170138389.htm Find element by xpath: List element empty
+2024-08-15 15:30:21,157 - Crawl - ERROR - ThreadPoolExecutor-13_2: Detect result false
+2024-08-15 15:30:21,159 - Crawl - ERROR - ThreadPoolExecutor-13_1: Detect result false
+2024-08-15 15:30:21,162 - Crawl - WARNING - ThreadPoolExecutor-13_2: https://dantri.com.vn//phap-luat/cuoc-dot-kich-toa-cao-oc-bat-kha-xam-pham-tai-tam-giac-vang-20240808071210773.htm Find element by xpath: List element empty
+2024-08-15 15:30:21,165 - Crawl - WARNING - ThreadPoolExecutor-13_1: https://dantri.com.vn//phap-luat/trinh-van-quyet-tu-giau-thu-3-viet-nam-roi-xuong-vuc-sau-tu-toi-20240807170138389.htm Find element by xpath: List element empty
+2024-08-15 15:30:21,166 - Crawl - ERROR - ThreadPoolExecutor-13_2: Detect result false
+2024-08-15 15:30:21,167 - Crawl - ERROR - ThreadPoolExecutor-13_1: Detect result false
+2024-08-15 15:30:21,170 - Crawl - WARNING - ThreadPoolExecutor-13_2: https://dantri.com.vn//phap-luat/cuoc-dot-kich-toa-cao-oc-bat-kha-xam-pham-tai-tam-giac-vang-20240808071210773.htm Find element by xpath: List element empty
+2024-08-15 15:30:21,172 - Crawl - WARNING - ThreadPoolExecutor-13_1: https://dantri.com.vn//phap-luat/trinh-van-quyet-tu-giau-thu-3-viet-nam-roi-xuong-vuc-sau-tu-toi-20240807170138389.htm Find element by xpath: List element empty
+2024-08-15 15:30:21,175 - Crawl - ERROR - ThreadPoolExecutor-13_1: Detect result false
+2024-08-15 15:30:21,174 - Crawl - ERROR - ThreadPoolExecutor-13_2: Detect result false
+2024-08-15 15:30:21,179 - Crawl - WARNING - ThreadPoolExecutor-13_2: https://dantri.com.vn//phap-luat/cuoc-dot-kich-toa-cao-oc-bat-kha-xam-pham-tai-tam-giac-vang-20240808071210773.htm Find element by xpath: List element empty
+2024-08-15 15:30:21,184 - Crawl - ERROR - ThreadPoolExecutor-13_2: Detect result false
+2024-08-15 15:30:21,190 - Crawl - WARNING - ThreadPoolExecutor-13_2: https://dantri.com.vn//phap-luat/cuoc-dot-kich-toa-cao-oc-bat-kha-xam-pham-tai-tam-giac-vang-20240808071210773.htm Find element by xpath: List element empty
+2024-08-15 15:30:21,196 - Crawl - ERROR - ThreadPoolExecutor-13_2: Detect result false
+2024-08-15 15:30:21,201 - Database - INFO - Inserted 4 docs
+2024-08-15 15:30:21,223 - Main - INFO - Task queue empty, task done
+2024-08-15 16:00:25,415 - Main - INFO - __________________________________Run Crawl detail news
+2024-08-15 16:00:25,536 - Database - INFO - Connected database crawl_news
+2024-08-15 16:00:25,540 - Database - INFO - Connected collection urls_clean
+2024-08-15 16:00:25,541 - Database - INFO - Connected collection detail
+2024-08-15 16:00:25,558 - Main - INFO - Config url crawl: https://vnexpress.net/ find 2 docs
+2024-08-15 16:00:25,681 - Database - INFO - Inserted 2 docs
+2024-08-15 16:00:25,682 - Main - INFO - Task queue empty, task done
+2024-08-15 16:00:25,688 - Main - INFO - Config url crawl: https://tuoitre.vn/ find 9 docs
+2024-08-15 16:00:26,115 - Database - INFO - Inserted 9 docs
+2024-08-15 16:00:26,116 - Main - INFO - Task queue empty, task done
+2024-08-15 16:00:26,122 - Main - INFO - Config url crawl: https://dantri.com.vn/tin-moi-nhat.htm find 12 docs
+2024-08-15 16:00:26,279 - Crawl - WARNING - ThreadPoolExecutor-2_2: https://dantri.com.vn//khoa-hoc-cong-nghe/vi-sao-nhieu-quoc-gia-van-san-bat-ca-voi-du-bi-du-luan-the-gioi-len-an-20240815150936015.htm Find element by xpath: List element empty
+2024-08-15 16:00:26,280 - Crawl - ERROR - ThreadPoolExecutor-2_2: Detect result false
+2024-08-15 16:00:26,282 - Crawl - WARNING - ThreadPoolExecutor-2_2: https://dantri.com.vn//khoa-hoc-cong-nghe/vi-sao-nhieu-quoc-gia-van-san-bat-ca-voi-du-bi-du-luan-the-gioi-len-an-20240815150936015.htm Find element by xpath: List element empty
+2024-08-15 16:00:26,284 - Crawl - ERROR - ThreadPoolExecutor-2_2: Detect result false
+2024-08-15 16:00:26,286 - Crawl - WARNING - ThreadPoolExecutor-2_2: https://dantri.com.vn//khoa-hoc-cong-nghe/vi-sao-nhieu-quoc-gia-van-san-bat-ca-voi-du-bi-du-luan-the-gioi-len-an-20240815150936015.htm Find element by xpath: List element empty
+2024-08-15 16:00:26,287 - Crawl - ERROR - ThreadPoolExecutor-2_2: Detect result false
+2024-08-15 16:00:26,289 - Crawl - WARNING - ThreadPoolExecutor-2_2: https://dantri.com.vn//khoa-hoc-cong-nghe/vi-sao-nhieu-quoc-gia-van-san-bat-ca-voi-du-bi-du-luan-the-gioi-len-an-20240815150936015.htm Find element by xpath: List element empty
+2024-08-15 16:00:26,290 - Crawl - ERROR - ThreadPoolExecutor-2_2: Detect result false
+2024-08-15 16:00:26,296 - Crawl - WARNING - ThreadPoolExecutor-2_2: https://dantri.com.vn//khoa-hoc-cong-nghe/vi-sao-nhieu-quoc-gia-van-san-bat-ca-voi-du-bi-du-luan-the-gioi-len-an-20240815150936015.htm Find element by xpath: List element empty
+2024-08-15 16:00:26,299 - Crawl - ERROR - ThreadPoolExecutor-2_2: Detect result false
+2024-08-15 16:00:26,304 - Crawl - WARNING - ThreadPoolExecutor-2_2: https://dantri.com.vn//khoa-hoc-cong-nghe/vi-sao-nhieu-quoc-gia-van-san-bat-ca-voi-du-bi-du-luan-the-gioi-len-an-20240815150936015.htm Find element by xpath: List element empty
+2024-08-15 16:00:26,305 - Crawl - ERROR - ThreadPoolExecutor-2_2: Detect result false
+2024-08-15 16:00:26,523 - Crawl - WARNING - ThreadPoolExecutor-2_3: https://dantri.com.vn//tam-diem/cay-xanh-do-thi-va-rui-ro-tren-troi-roi-xuong-20240815144711502.htm Find element by xpath: List element empty
+2024-08-15 16:00:26,529 - Crawl - ERROR - ThreadPoolExecutor-2_3: Detect result false
+2024-08-15 16:00:26,535 - Crawl - WARNING - ThreadPoolExecutor-2_0: https://dantri.com.vn//xa-hoi/du-kien-ky-hop-quoc-hoi-thang-10-kien-toan-cac-chuc-danh-lanh-dao-cap-cao-20240815153908237.htm Find element by xpath: List element empty
+2024-08-15 16:00:26,537 - Crawl - ERROR - ThreadPoolExecutor-2_0: Detect result false
+2024-08-15 16:00:26,537 - Crawl - WARNING - ThreadPoolExecutor-2_3: https://dantri.com.vn//tam-diem/cay-xanh-do-thi-va-rui-ro-tren-troi-roi-xuong-20240815144711502.htm Find element by xpath: List element empty
+2024-08-15 16:00:26,542 - Crawl - WARNING - ThreadPoolExecutor-2_0: https://dantri.com.vn//xa-hoi/du-kien-ky-hop-quoc-hoi-thang-10-kien-toan-cac-chuc-danh-lanh-dao-cap-cao-20240815153908237.htm Find element by xpath: List element empty
+2024-08-15 16:00:26,544 - Crawl - ERROR - ThreadPoolExecutor-2_3: Detect result false
+2024-08-15 16:00:26,547 - Crawl - ERROR - ThreadPoolExecutor-2_0: Detect result false
+2024-08-15 16:00:26,550 - Crawl - WARNING - ThreadPoolExecutor-2_3: https://dantri.com.vn//tam-diem/cay-xanh-do-thi-va-rui-ro-tren-troi-roi-xuong-20240815144711502.htm Find element by xpath: List element empty
+2024-08-15 16:00:26,563 - Crawl - ERROR - ThreadPoolExecutor-2_3: Detect result false
+2024-08-15 16:00:26,556 - Crawl - WARNING - ThreadPoolExecutor-2_0: https://dantri.com.vn//xa-hoi/du-kien-ky-hop-quoc-hoi-thang-10-kien-toan-cac-chuc-danh-lanh-dao-cap-cao-20240815153908237.htm Find element by xpath: List element empty
+2024-08-15 16:00:26,555 - Crawl - WARNING - ThreadPoolExecutor-2_4: https://dantri.com.vn//xa-hoi/kham-pha-he-thong-vu-khi-tau-hai-quan-canada-vua-cap-cang-sai-gon-20240815144151955.htm Find element by xpath: List element empty
+2024-08-15 16:00:26,566 - Crawl - ERROR - ThreadPoolExecutor-2_0: Detect result false
+2024-08-15 16:00:26,568 - Crawl - WARNING - ThreadPoolExecutor-2_3: https://dantri.com.vn//tam-diem/cay-xanh-do-thi-va-rui-ro-tren-troi-roi-xuong-20240815144711502.htm Find element by xpath: List element empty
+2024-08-15 16:00:26,569 - Crawl - ERROR - ThreadPoolExecutor-2_4: Detect result false
+2024-08-15 16:00:26,572 - Crawl - WARNING - ThreadPoolExecutor-2_0: https://dantri.com.vn//xa-hoi/du-kien-ky-hop-quoc-hoi-thang-10-kien-toan-cac-chuc-danh-lanh-dao-cap-cao-20240815153908237.htm Find element by xpath: List element empty
+2024-08-15 16:00:26,573 - Crawl - ERROR - ThreadPoolExecutor-2_3: Detect result false
+2024-08-15 16:00:26,575 - Crawl - WARNING - ThreadPoolExecutor-2_4: https://dantri.com.vn//xa-hoi/kham-pha-he-thong-vu-khi-tau-hai-quan-canada-vua-cap-cang-sai-gon-20240815144151955.htm Find element by xpath: List element empty
+2024-08-15 16:00:26,578 - Crawl - ERROR - ThreadPoolExecutor-2_0: Detect result false
+2024-08-15 16:00:26,580 - Crawl - WARNING - ThreadPoolExecutor-2_3: https://dantri.com.vn//tam-diem/cay-xanh-do-thi-va-rui-ro-tren-troi-roi-xuong-20240815144711502.htm Find element by xpath: List element empty
+2024-08-15 16:00:26,581 - Crawl - ERROR - ThreadPoolExecutor-2_4: Detect result false
+2024-08-15 16:00:26,584 - Crawl - ERROR - ThreadPoolExecutor-2_3: Detect result false
+2024-08-15 16:00:26,586 - Crawl - WARNING - ThreadPoolExecutor-2_4: https://dantri.com.vn//xa-hoi/kham-pha-he-thong-vu-khi-tau-hai-quan-canada-vua-cap-cang-sai-gon-20240815144151955.htm Find element by xpath: List element empty
+2024-08-15 16:00:26,586 - Crawl - WARNING - ThreadPoolExecutor-2_0: https://dantri.com.vn//xa-hoi/du-kien-ky-hop-quoc-hoi-thang-10-kien-toan-cac-chuc-danh-lanh-dao-cap-cao-20240815153908237.htm Find element by xpath: List element empty
+2024-08-15 16:00:26,587 - Crawl - ERROR - ThreadPoolExecutor-2_4: Detect result false
+2024-08-15 16:00:26,587 - Crawl - ERROR - ThreadPoolExecutor-2_0: Detect result false
+2024-08-15 16:00:26,591 - Crawl - WARNING - ThreadPoolExecutor-2_4: https://dantri.com.vn//xa-hoi/kham-pha-he-thong-vu-khi-tau-hai-quan-canada-vua-cap-cang-sai-gon-20240815144151955.htm Find element by xpath: List element empty
+2024-08-15 16:00:26,589 - Crawl - WARNING - ThreadPoolExecutor-2_3: https://dantri.com.vn//tam-diem/cay-xanh-do-thi-va-rui-ro-tren-troi-roi-xuong-20240815144711502.htm Find element by xpath: List element empty
+2024-08-15 16:00:26,595 - Crawl - WARNING - ThreadPoolExecutor-2_0: https://dantri.com.vn//xa-hoi/du-kien-ky-hop-quoc-hoi-thang-10-kien-toan-cac-chuc-danh-lanh-dao-cap-cao-20240815153908237.htm Find element by xpath: List element empty
+2024-08-15 16:00:26,595 - Crawl - ERROR - ThreadPoolExecutor-2_4: Detect result false
+2024-08-15 16:00:26,597 - Crawl - ERROR - ThreadPoolExecutor-2_3: Detect result false
+2024-08-15 16:00:26,598 - Crawl - ERROR - ThreadPoolExecutor-2_0: Detect result false
+2024-08-15 16:00:26,600 - Crawl - WARNING - ThreadPoolExecutor-2_4: https://dantri.com.vn//xa-hoi/kham-pha-he-thong-vu-khi-tau-hai-quan-canada-vua-cap-cang-sai-gon-20240815144151955.htm Find element by xpath: List element empty
+2024-08-15 16:00:26,602 - Crawl - ERROR - ThreadPoolExecutor-2_4: Detect result false
+2024-08-15 16:00:26,604 - Crawl - WARNING - ThreadPoolExecutor-2_4: https://dantri.com.vn//xa-hoi/kham-pha-he-thong-vu-khi-tau-hai-quan-canada-vua-cap-cang-sai-gon-20240815144151955.htm Find element by xpath: List element empty
+2024-08-15 16:00:26,605 - Crawl - ERROR - ThreadPoolExecutor-2_4: Detect result false
+2024-08-15 16:00:26,615 - Database - INFO - Inserted 12 docs
+2024-08-15 16:00:26,616 - Main - INFO - Task queue empty, task done
+2024-08-15 16:00:26,626 - Main - INFO - Config url crawl: https://dantri.com.vn/kinh-doanh.htm find 4 docs
+2024-08-15 16:00:26,844 - Crawl - WARNING - ThreadPoolExecutor-3_2: https://dantri.com.vn//kinh-doanh/cho-den-rao-ban-vang-gia-dat-co-dich-vu-dat-cho-mua-vang-ho-20240720080310288.htm Find element by xpath: List element empty
+2024-08-15 16:00:26,928 - Crawl - ERROR - ThreadPoolExecutor-3_2: Detect result false
+2024-08-15 16:00:26,930 - Crawl - WARNING - ThreadPoolExecutor-3_2: https://dantri.com.vn//kinh-doanh/cho-den-rao-ban-vang-gia-dat-co-dich-vu-dat-cho-mua-vang-ho-20240720080310288.htm Find element by xpath: List element empty
+2024-08-15 16:00:26,931 - Crawl - ERROR - ThreadPoolExecutor-3_2: Detect result false
+2024-08-15 16:00:26,933 - Crawl - WARNING - ThreadPoolExecutor-3_2: https://dantri.com.vn//kinh-doanh/cho-den-rao-ban-vang-gia-dat-co-dich-vu-dat-cho-mua-vang-ho-20240720080310288.htm Find element by xpath: List element empty
+2024-08-15 16:00:26,934 - Crawl - ERROR - ThreadPoolExecutor-3_2: Detect result false
+2024-08-15 16:00:26,936 - Crawl - WARNING - ThreadPoolExecutor-3_2: https://dantri.com.vn//kinh-doanh/cho-den-rao-ban-vang-gia-dat-co-dich-vu-dat-cho-mua-vang-ho-20240720080310288.htm Find element by xpath: List element empty
+2024-08-15 16:00:26,937 - Crawl - ERROR - ThreadPoolExecutor-3_2: Detect result false
+2024-08-15 16:00:26,939 - Crawl - WARNING - ThreadPoolExecutor-3_2: https://dantri.com.vn//kinh-doanh/cho-den-rao-ban-vang-gia-dat-co-dich-vu-dat-cho-mua-vang-ho-20240720080310288.htm Find element by xpath: List element empty
+2024-08-15 16:00:26,940 - Crawl - ERROR - ThreadPoolExecutor-3_2: Detect result false
+2024-08-15 16:00:26,942 - Crawl - WARNING - ThreadPoolExecutor-3_2: https://dantri.com.vn//kinh-doanh/cho-den-rao-ban-vang-gia-dat-co-dich-vu-dat-cho-mua-vang-ho-20240720080310288.htm Find element by xpath: List element empty
+2024-08-15 16:00:26,943 - Crawl - ERROR - ThreadPoolExecutor-3_2: Detect result false
+2024-08-15 16:00:26,947 - Database - INFO - Inserted 4 docs
+2024-08-15 16:00:26,948 - Main - INFO - Task queue empty, task done
+2024-08-15 16:00:26,967 - Main - INFO - Config url crawl: https://dantri.com.vn/xa-hoi.htm find 1 docs
+2024-08-15 16:00:27,092 - Database - INFO - Inserted 1 docs
+2024-08-15 16:00:27,093 - Main - INFO - Task queue empty, task done
+2024-08-15 16:00:27,101 - Database - WARNING - Find: Empry
+2024-08-15 16:00:27,102 - Main - INFO - Config url crawl: https://dantri.com.vn/the-gioi.htm find 0 docs
+2024-08-15 16:00:27,103 - Main - INFO - Task queue empty, task done
+2024-08-15 16:00:27,109 - Database - WARNING - Find: Empry
+2024-08-15 16:00:27,110 - Main - INFO - Config url crawl: https://dantri.com.vn/giai-tri.htm find 0 docs
+2024-08-15 16:00:27,110 - Main - INFO - Task queue empty, task done
+2024-08-15 16:00:27,118 - Database - WARNING - Find: Empry
+2024-08-15 16:00:27,119 - Main - INFO - Config url crawl: https://dantri.com.vn/bat-dong-san.htm find 0 docs
+2024-08-15 16:00:27,120 - Main - INFO - Task queue empty, task done
+2024-08-15 16:00:27,130 - Database - WARNING - Find: Empry
+2024-08-15 16:00:27,131 - Main - INFO - Config url crawl: https://dantri.com.vn/the-thao.htm find 0 docs
+2024-08-15 16:00:27,134 - Main - INFO - Task queue empty, task done
+2024-08-15 16:00:27,143 - Main - INFO - Config url crawl: https://dantri.com.vn/lao-dong-viec-lam.htm find 3 docs
+2024-08-15 16:00:27,282 - Database - INFO - Inserted 3 docs
+2024-08-15 16:00:27,283 - Main - INFO - Task queue empty, task done
+2024-08-15 16:00:27,289 - Database - WARNING - Find: Empry
+2024-08-15 16:00:27,290 - Main - INFO - Config url crawl: https://dantri.com.vn/tam-long-nhan-ai.htm find 0 docs
+2024-08-15 16:00:27,290 - Main - INFO - Task queue empty, task done
+2024-08-15 16:00:27,297 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-khoe.htm find 8 docs
+2024-08-15 16:00:27,480 - Crawl - WARNING - ThreadPoolExecutor-6_4: https://dantri.com.vn//suc-khoe/7-ke-thu-am-tham-danh-cap-ban-linh-dan-ong-20240730201700148.htm Find element by xpath: List element empty
+2024-08-15 16:00:27,485 - Crawl - ERROR - ThreadPoolExecutor-6_4: Detect result false
+2024-08-15 16:00:27,493 - Crawl - WARNING - ThreadPoolExecutor-6_3: https://dantri.com.vn//suc-khoe/thu-men-say-nhieu-quy-ong-me-co-the-doc-chet-nguoi-20240729211900639.htm Find element by xpath: List element empty
+2024-08-15 16:00:27,499 - Crawl - ERROR - ThreadPoolExecutor-6_3: Detect result false
+2024-08-15 16:00:27,502 - Crawl - WARNING - ThreadPoolExecutor-6_3: https://dantri.com.vn//suc-khoe/thu-men-say-nhieu-quy-ong-me-co-the-doc-chet-nguoi-20240729211900639.htm Find element by xpath: List element empty
+2024-08-15 16:00:27,504 - Crawl - ERROR - ThreadPoolExecutor-6_3: Detect result false
+2024-08-15 16:00:27,507 - Crawl - WARNING - ThreadPoolExecutor-6_3: https://dantri.com.vn//suc-khoe/thu-men-say-nhieu-quy-ong-me-co-the-doc-chet-nguoi-20240729211900639.htm Find element by xpath: List element empty
+2024-08-15 16:00:27,508 - Crawl - ERROR - ThreadPoolExecutor-6_3: Detect result false
+2024-08-15 16:00:27,515 - Crawl - WARNING - ThreadPoolExecutor-6_3: https://dantri.com.vn//suc-khoe/thu-men-say-nhieu-quy-ong-me-co-the-doc-chet-nguoi-20240729211900639.htm Find element by xpath: List element empty
+2024-08-15 16:00:27,518 - Crawl - ERROR - ThreadPoolExecutor-6_3: Detect result false
+2024-08-15 16:00:27,524 - Crawl - WARNING - ThreadPoolExecutor-6_3: https://dantri.com.vn//suc-khoe/thu-men-say-nhieu-quy-ong-me-co-the-doc-chet-nguoi-20240729211900639.htm Find element by xpath: List element empty
+2024-08-15 16:00:27,528 - Crawl - ERROR - ThreadPoolExecutor-6_3: Detect result false
+2024-08-15 16:00:27,532 - Crawl - WARNING - ThreadPoolExecutor-6_3: https://dantri.com.vn//suc-khoe/thu-men-say-nhieu-quy-ong-me-co-the-doc-chet-nguoi-20240729211900639.htm Find element by xpath: List element empty
+2024-08-15 16:00:27,533 - Crawl - ERROR - ThreadPoolExecutor-6_3: Detect result false
+2024-08-15 16:00:27,573 - Database - INFO - Inserted 8 docs
+2024-08-15 16:00:27,578 - Main - INFO - Task queue empty, task done
+2024-08-15 16:00:27,590 - Main - INFO - Config url crawl: https://dantri.com.vn/o-to-xe-may.htm find 1 docs
+2024-08-15 16:00:27,848 - Database - INFO - Inserted 1 docs
+2024-08-15 16:00:27,883 - Main - INFO - Task queue empty, task done
+2024-08-15 16:00:27,909 - Database - WARNING - Find: Empry
+2024-08-15 16:00:27,910 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-manh-so.htm find 0 docs
+2024-08-15 16:00:27,911 - Main - INFO - Task queue empty, task done
+2024-08-15 16:00:27,936 - Database - WARNING - Find: Empry
+2024-08-15 16:00:27,940 - Main - INFO - Config url crawl: https://dantri.com.vn/giao-duc.htm find 0 docs
+2024-08-15 16:00:27,941 - Main - INFO - Task queue empty, task done
+2024-08-15 16:00:27,958 - Database - WARNING - Find: Empry
+2024-08-15 16:00:27,960 - Main - INFO - Config url crawl: https://dantri.com.vn/an-sinh.htm find 0 docs
+2024-08-15 16:00:27,965 - Main - INFO - Task queue empty, task done
+2024-08-15 16:00:27,990 - Main - INFO - Config url crawl: https://dantri.com.vn/phap-luat.htm find 1 docs
+2024-08-15 16:00:28,133 - Database - INFO - Inserted 1 docs
+2024-08-15 16:00:28,135 - Main - INFO - Task queue empty, task done
+2024-08-15 16:30:21,470 - Main - INFO - __________________________________Run Crawl detail news
+2024-08-15 16:30:21,499 - Database - INFO - Connected database crawl_news
+2024-08-15 16:30:21,502 - Database - INFO - Connected collection urls_clean
+2024-08-15 16:30:21,505 - Database - INFO - Connected collection detail
+2024-08-15 16:30:21,526 - Main - INFO - Config url crawl: https://vnexpress.net/ find 2 docs
+2024-08-15 16:30:21,698 - Database - INFO - Inserted 2 docs
+2024-08-15 16:30:21,851 - Main - INFO - Task queue empty, task done
+2024-08-15 16:30:21,864 - Main - INFO - Config url crawl: https://tuoitre.vn/ find 11 docs
+2024-08-15 16:30:22,935 - Crawl - WARNING - ThreadPoolExecutor-1_4: https://tuoitre.vn//bo-giao-duc-va-dao-tao-cong-bo-dien-thoai-email-nhan-tin-bao-nhung-nhieu-gay-phien-ha-nguoi-dan-20240815160346183.htm Find element by xpath: List element empty
+2024-08-15 16:30:22,951 - Crawl - ERROR - ThreadPoolExecutor-1_4: Detect result false
+2024-08-15 16:30:23,218 - Database - INFO - Inserted 11 docs
+2024-08-15 16:30:23,219 - Main - INFO - Task queue empty, task done
+2024-08-15 16:30:23,232 - Main - INFO - Config url crawl: https://dantri.com.vn/tin-moi-nhat.htm find 6 docs
+2024-08-15 16:30:23,792 - Crawl - WARNING - ThreadPoolExecutor-2_0: https://dantri.com.vn//doi-song/gap-lai-nguoi-tang-hon-1000-chiec-quat-trong-le-quoc-tang-tong-bi-thu-nguyen-phu-trong-20240809161020654.htm Find element by xpath: List element empty
+2024-08-15 16:30:23,826 - Crawl - ERROR - ThreadPoolExecutor-2_0: Detect result false
+2024-08-15 16:30:23,844 - Crawl - WARNING - ThreadPoolExecutor-2_0: https://dantri.com.vn//doi-song/gap-lai-nguoi-tang-hon-1000-chiec-quat-trong-le-quoc-tang-tong-bi-thu-nguyen-phu-trong-20240809161020654.htm Find element by xpath: List element empty
+2024-08-15 16:30:23,845 - Crawl - ERROR - ThreadPoolExecutor-2_0: Detect result false
+2024-08-15 16:30:23,848 - Crawl - WARNING - ThreadPoolExecutor-2_0: https://dantri.com.vn//doi-song/gap-lai-nguoi-tang-hon-1000-chiec-quat-trong-le-quoc-tang-tong-bi-thu-nguyen-phu-trong-20240809161020654.htm Find element by xpath: List element empty
+2024-08-15 16:30:23,850 - Crawl - ERROR - ThreadPoolExecutor-2_0: Detect result false
+2024-08-15 16:30:23,852 - Crawl - WARNING - ThreadPoolExecutor-2_0: https://dantri.com.vn//doi-song/gap-lai-nguoi-tang-hon-1000-chiec-quat-trong-le-quoc-tang-tong-bi-thu-nguyen-phu-trong-20240809161020654.htm Find element by xpath: List element empty
+2024-08-15 16:30:23,854 - Crawl - ERROR - ThreadPoolExecutor-2_0: Detect result false
+2024-08-15 16:30:23,857 - Crawl - WARNING - ThreadPoolExecutor-2_0: https://dantri.com.vn//doi-song/gap-lai-nguoi-tang-hon-1000-chiec-quat-trong-le-quoc-tang-tong-bi-thu-nguyen-phu-trong-20240809161020654.htm Find element by xpath: List element empty
+2024-08-15 16:30:23,858 - Crawl - ERROR - ThreadPoolExecutor-2_0: Detect result false
+2024-08-15 16:30:23,864 - Crawl - WARNING - ThreadPoolExecutor-2_0: https://dantri.com.vn//doi-song/gap-lai-nguoi-tang-hon-1000-chiec-quat-trong-le-quoc-tang-tong-bi-thu-nguyen-phu-trong-20240809161020654.htm Find element by xpath: List element empty
+2024-08-15 16:30:23,865 - Crawl - ERROR - ThreadPoolExecutor-2_0: Detect result false
+2024-08-15 16:30:23,871 - Database - INFO - Inserted 6 docs
+2024-08-15 16:30:23,873 - Main - INFO - Task queue empty, task done
+2024-08-15 16:30:23,885 - Database - WARNING - Find: Empry
+2024-08-15 16:30:23,887 - Main - INFO - Config url crawl: https://dantri.com.vn/kinh-doanh.htm find 0 docs
+2024-08-15 16:30:23,888 - Main - INFO - Task queue empty, task done
+2024-08-15 16:30:23,899 - Main - INFO - Config url crawl: https://dantri.com.vn/xa-hoi.htm find 1 docs
+2024-08-15 16:30:24,063 - Database - INFO - Inserted 1 docs
+2024-08-15 16:30:24,077 - Main - INFO - Task queue empty, task done
+2024-08-15 16:30:24,092 - Database - WARNING - Find: Empry
+2024-08-15 16:30:24,095 - Main - INFO - Config url crawl: https://dantri.com.vn/the-gioi.htm find 0 docs
+2024-08-15 16:30:24,097 - Main - INFO - Task queue empty, task done
+2024-08-15 16:30:24,107 - Database - WARNING - Find: Empry
+2024-08-15 16:30:24,108 - Main - INFO - Config url crawl: https://dantri.com.vn/giai-tri.htm find 0 docs
+2024-08-15 16:30:24,109 - Main - INFO - Task queue empty, task done
+2024-08-15 16:30:24,122 - Database - WARNING - Find: Empry
+2024-08-15 16:30:24,124 - Main - INFO - Config url crawl: https://dantri.com.vn/bat-dong-san.htm find 0 docs
+2024-08-15 16:30:24,125 - Main - INFO - Task queue empty, task done
+2024-08-15 16:30:24,143 - Database - WARNING - Find: Empry
+2024-08-15 16:30:24,144 - Main - INFO - Config url crawl: https://dantri.com.vn/the-thao.htm find 0 docs
+2024-08-15 16:30:24,150 - Main - INFO - Task queue empty, task done
+2024-08-15 16:30:24,167 - Database - WARNING - Find: Empry
+2024-08-15 16:30:24,169 - Main - INFO - Config url crawl: https://dantri.com.vn/lao-dong-viec-lam.htm find 0 docs
+2024-08-15 16:30:24,170 - Main - INFO - Task queue empty, task done
+2024-08-15 16:30:24,195 - Database - WARNING - Find: Empry
+2024-08-15 16:30:24,200 - Main - INFO - Config url crawl: https://dantri.com.vn/tam-long-nhan-ai.htm find 0 docs
+2024-08-15 16:30:24,202 - Main - INFO - Task queue empty, task done
+2024-08-15 16:30:24,208 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-khoe.htm find 3 docs
+2024-08-15 16:30:24,411 - Database - INFO - Inserted 3 docs
+2024-08-15 16:30:24,412 - Main - INFO - Task queue empty, task done
+2024-08-15 16:30:24,420 - Main - INFO - Config url crawl: https://dantri.com.vn/o-to-xe-may.htm find 1 docs
+2024-08-15 16:30:24,552 - Database - INFO - Inserted 1 docs
+2024-08-15 16:30:24,559 - Main - INFO - Task queue empty, task done
+2024-08-15 16:30:24,571 - Database - WARNING - Find: Empry
+2024-08-15 16:30:24,572 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-manh-so.htm find 0 docs
+2024-08-15 16:30:24,573 - Main - INFO - Task queue empty, task done
+2024-08-15 16:30:24,583 - Database - WARNING - Find: Empry
+2024-08-15 16:30:24,583 - Main - INFO - Config url crawl: https://dantri.com.vn/giao-duc.htm find 0 docs
+2024-08-15 16:30:24,584 - Main - INFO - Task queue empty, task done
+2024-08-15 16:30:24,591 - Database - WARNING - Find: Empry
+2024-08-15 16:30:24,591 - Main - INFO - Config url crawl: https://dantri.com.vn/an-sinh.htm find 0 docs
+2024-08-15 16:30:24,592 - Main - INFO - Task queue empty, task done
+2024-08-15 16:30:24,601 - Main - INFO - Config url crawl: https://dantri.com.vn/phap-luat.htm find 1 docs
+2024-08-15 16:30:24,702 - Database - INFO - Inserted 1 docs
+2024-08-15 16:30:24,703 - Main - INFO - Task queue empty, task done
+2024-08-15 17:00:20,823 - Main - INFO - __________________________________Run Crawl detail news
+2024-08-15 17:00:20,995 - Database - INFO - Connected database crawl_news
+2024-08-15 17:00:20,996 - Database - INFO - Connected collection urls_clean
+2024-08-15 17:00:20,997 - Database - INFO - Connected collection detail
+2024-08-15 17:00:21,006 - Main - INFO - Config url crawl: https://vnexpress.net/ find 1 docs
+2024-08-15 17:00:21,103 - Crawl - WARNING - ThreadPoolExecutor-0_0: https://vnexpress.net/nha-dau-tu-chung-khoan-tiep-tuc-dung-ngoai-thi-truong-4781862.html Find element by xpath: List element empty
+2024-08-15 17:00:21,104 - Crawl - ERROR - ThreadPoolExecutor-0_0: Detect result false
+2024-08-15 17:00:21,107 - Database - INFO - Inserted 1 docs
+2024-08-15 17:00:21,108 - Main - INFO - Task queue empty, task done
+2024-08-15 17:00:21,115 - Main - INFO - Config url crawl: https://tuoitre.vn/ find 9 docs
+2024-08-15 17:00:21,549 - Database - INFO - Inserted 9 docs
+2024-08-15 17:00:21,550 - Main - INFO - Task queue empty, task done
+2024-08-15 17:00:21,556 - Main - INFO - Config url crawl: https://dantri.com.vn/tin-moi-nhat.htm find 10 docs
+2024-08-15 17:00:21,883 - Crawl - WARNING - ThreadPoolExecutor-2_4: https://dantri.com.vn//o-to-xe-may/xe-buyt-lan-sang-phan-duong-nguoc-chieu-de-vuot-den-do-khong-so-bi-phat-20240815160031665.htm Find element by xpath: List element empty
+2024-08-15 17:00:21,884 - Crawl - ERROR - ThreadPoolExecutor-2_4: Detect result false
+2024-08-15 17:00:21,891 - Database - INFO - Inserted 10 docs
+2024-08-15 17:00:21,892 - Main - INFO - Task queue empty, task done
+2024-08-15 17:00:21,898 - Database - WARNING - Find: Empry
+2024-08-15 17:00:21,898 - Main - INFO - Config url crawl: https://dantri.com.vn/kinh-doanh.htm find 0 docs
+2024-08-15 17:00:21,899 - Main - INFO - Task queue empty, task done
+2024-08-15 17:00:21,905 - Database - WARNING - Find: Empry
+2024-08-15 17:00:21,906 - Main - INFO - Config url crawl: https://dantri.com.vn/xa-hoi.htm find 0 docs
+2024-08-15 17:00:21,906 - Main - INFO - Task queue empty, task done
+2024-08-15 17:00:21,915 - Database - WARNING - Find: Empry
+2024-08-15 17:00:21,915 - Main - INFO - Config url crawl: https://dantri.com.vn/the-gioi.htm find 0 docs
+2024-08-15 17:00:21,916 - Main - INFO - Task queue empty, task done
+2024-08-15 17:00:21,923 - Database - WARNING - Find: Empry
+2024-08-15 17:00:21,924 - Main - INFO - Config url crawl: https://dantri.com.vn/giai-tri.htm find 0 docs
+2024-08-15 17:00:21,924 - Main - INFO - Task queue empty, task done
+2024-08-15 17:00:21,930 - Database - WARNING - Find: Empry
+2024-08-15 17:00:21,931 - Main - INFO - Config url crawl: https://dantri.com.vn/bat-dong-san.htm find 0 docs
+2024-08-15 17:00:21,931 - Main - INFO - Task queue empty, task done
+2024-08-15 17:00:21,940 - Database - WARNING - Find: Empry
+2024-08-15 17:00:21,941 - Main - INFO - Config url crawl: https://dantri.com.vn/the-thao.htm find 0 docs
+2024-08-15 17:00:21,941 - Main - INFO - Task queue empty, task done
+2024-08-15 17:00:21,951 - Database - WARNING - Find: Empry
+2024-08-15 17:00:21,952 - Main - INFO - Config url crawl: https://dantri.com.vn/lao-dong-viec-lam.htm find 0 docs
+2024-08-15 17:00:21,953 - Main - INFO - Task queue empty, task done
+2024-08-15 17:00:21,959 - Database - WARNING - Find: Empry
+2024-08-15 17:00:21,960 - Main - INFO - Config url crawl: https://dantri.com.vn/tam-long-nhan-ai.htm find 0 docs
+2024-08-15 17:00:21,961 - Main - INFO - Task queue empty, task done
+2024-08-15 17:00:21,966 - Database - WARNING - Find: Empry
+2024-08-15 17:00:21,967 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-khoe.htm find 0 docs
+2024-08-15 17:00:21,967 - Main - INFO - Task queue empty, task done
+2024-08-15 17:00:21,976 - Database - WARNING - Find: Empry
+2024-08-15 17:00:21,977 - Main - INFO - Config url crawl: https://dantri.com.vn/o-to-xe-may.htm find 0 docs
+2024-08-15 17:00:21,977 - Main - INFO - Task queue empty, task done
+2024-08-15 17:00:21,984 - Database - WARNING - Find: Empry
+2024-08-15 17:00:21,985 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-manh-so.htm find 0 docs
+2024-08-15 17:00:21,985 - Main - INFO - Task queue empty, task done
+2024-08-15 17:00:21,991 - Database - WARNING - Find: Empry
+2024-08-15 17:00:21,992 - Main - INFO - Config url crawl: https://dantri.com.vn/giao-duc.htm find 0 docs
+2024-08-15 17:00:21,992 - Main - INFO - Task queue empty, task done
+2024-08-15 17:00:21,998 - Database - WARNING - Find: Empry
+2024-08-15 17:00:21,999 - Main - INFO - Config url crawl: https://dantri.com.vn/an-sinh.htm find 0 docs
+2024-08-15 17:00:21,999 - Main - INFO - Task queue empty, task done
+2024-08-15 17:00:22,005 - Database - WARNING - Find: Empry
+2024-08-15 17:00:22,006 - Main - INFO - Config url crawl: https://dantri.com.vn/phap-luat.htm find 0 docs
+2024-08-15 17:00:22,006 - Main - INFO - Task queue empty, task done
+2024-08-15 17:30:25,085 - Main - INFO - __________________________________Run Crawl detail news
+2024-08-15 17:30:25,177 - Database - INFO - Connected database crawl_news
+2024-08-15 17:30:25,178 - Database - INFO - Connected collection urls_clean
+2024-08-15 17:30:25,180 - Database - INFO - Connected collection detail
+2024-08-15 17:30:25,188 - Main - INFO - Config url crawl: https://vnexpress.net/ find 2 docs
+2024-08-15 17:30:25,317 - Database - INFO - Inserted 2 docs
+2024-08-15 17:30:25,318 - Main - INFO - Task queue empty, task done
+2024-08-15 17:30:25,325 - Main - INFO - Config url crawl: https://tuoitre.vn/ find 12 docs
+2024-08-15 17:30:25,850 - Crawl - WARNING - ThreadPoolExecutor-1_1: https://tuoitre.vn//co-lexus-van-mua-toyota-corolla-cross-chu-xe-chia-se-ly-do-em-nhu-xe-dien-20240814170613094.htm Find element by xpath: List element empty
+2024-08-15 17:30:25,856 - Crawl - ERROR - ThreadPoolExecutor-1_1: Detect result false
+2024-08-15 17:30:26,087 - Database - INFO - Inserted 12 docs
+2024-08-15 17:30:26,088 - Main - INFO - Task queue empty, task done
+2024-08-15 17:30:26,094 - Main - INFO - Config url crawl: https://dantri.com.vn/tin-moi-nhat.htm find 5 docs
+2024-08-15 17:30:26,311 - Database - INFO - Inserted 5 docs
+2024-08-15 17:30:26,312 - Main - INFO - Task queue empty, task done
+2024-08-15 17:30:26,318 - Database - WARNING - Find: Empry
+2024-08-15 17:30:26,319 - Main - INFO - Config url crawl: https://dantri.com.vn/kinh-doanh.htm find 0 docs
+2024-08-15 17:30:26,320 - Main - INFO - Task queue empty, task done
+2024-08-15 17:30:26,327 - Database - WARNING - Find: Empry
+2024-08-15 17:30:26,327 - Main - INFO - Config url crawl: https://dantri.com.vn/xa-hoi.htm find 0 docs
+2024-08-15 17:30:26,328 - Main - INFO - Task queue empty, task done
+2024-08-15 17:30:26,336 - Database - WARNING - Find: Empry
+2024-08-15 17:30:26,337 - Main - INFO - Config url crawl: https://dantri.com.vn/the-gioi.htm find 0 docs
+2024-08-15 17:30:26,337 - Main - INFO - Task queue empty, task done
+2024-08-15 17:30:26,343 - Database - WARNING - Find: Empry
+2024-08-15 17:30:26,344 - Main - INFO - Config url crawl: https://dantri.com.vn/giai-tri.htm find 0 docs
+2024-08-15 17:30:26,345 - Main - INFO - Task queue empty, task done
+2024-08-15 17:30:26,350 - Database - WARNING - Find: Empry
+2024-08-15 17:30:26,351 - Main - INFO - Config url crawl: https://dantri.com.vn/bat-dong-san.htm find 0 docs
+2024-08-15 17:30:26,352 - Main - INFO - Task queue empty, task done
+2024-08-15 17:30:26,358 - Main - INFO - Config url crawl: https://dantri.com.vn/the-thao.htm find 1 docs
+2024-08-15 17:30:26,461 - Database - INFO - Inserted 1 docs
+2024-08-15 17:30:26,461 - Main - INFO - Task queue empty, task done
+2024-08-15 17:30:26,470 - Database - WARNING - Find: Empry
+2024-08-15 17:30:26,471 - Main - INFO - Config url crawl: https://dantri.com.vn/lao-dong-viec-lam.htm find 0 docs
+2024-08-15 17:30:26,471 - Main - INFO - Task queue empty, task done
+2024-08-15 17:30:26,478 - Database - WARNING - Find: Empry
+2024-08-15 17:30:26,479 - Main - INFO - Config url crawl: https://dantri.com.vn/tam-long-nhan-ai.htm find 0 docs
+2024-08-15 17:30:26,480 - Main - INFO - Task queue empty, task done
+2024-08-15 17:30:26,487 - Database - WARNING - Find: Empry
+2024-08-15 17:30:26,488 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-khoe.htm find 0 docs
+2024-08-15 17:30:26,489 - Main - INFO - Task queue empty, task done
+2024-08-15 17:30:26,496 - Database - WARNING - Find: Empry
+2024-08-15 17:30:26,497 - Main - INFO - Config url crawl: https://dantri.com.vn/o-to-xe-may.htm find 0 docs
+2024-08-15 17:30:26,498 - Main - INFO - Task queue empty, task done
+2024-08-15 17:30:26,505 - Database - WARNING - Find: Empry
+2024-08-15 17:30:26,506 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-manh-so.htm find 0 docs
+2024-08-15 17:30:26,506 - Main - INFO - Task queue empty, task done
+2024-08-15 17:30:26,512 - Main - INFO - Config url crawl: https://dantri.com.vn/giao-duc.htm find 1 docs
+2024-08-15 17:30:26,612 - Database - INFO - Inserted 1 docs
+2024-08-15 17:30:26,612 - Main - INFO - Task queue empty, task done
+2024-08-15 17:30:26,619 - Database - WARNING - Find: Empry
+2024-08-15 17:30:26,619 - Main - INFO - Config url crawl: https://dantri.com.vn/an-sinh.htm find 0 docs
+2024-08-15 17:30:26,620 - Main - INFO - Task queue empty, task done
+2024-08-15 17:30:26,626 - Database - WARNING - Find: Empry
+2024-08-15 17:30:26,627 - Main - INFO - Config url crawl: https://dantri.com.vn/phap-luat.htm find 0 docs
+2024-08-15 17:30:26,627 - Main - INFO - Task queue empty, task done
+2024-08-15 18:00:29,850 - Main - INFO - __________________________________Run Crawl detail news
+2024-08-15 18:00:29,972 - Database - INFO - Connected database crawl_news
+2024-08-15 18:00:29,974 - Database - INFO - Connected collection urls_clean
+2024-08-15 18:00:29,976 - Database - INFO - Connected collection detail
+2024-08-15 18:00:29,983 - Main - INFO - Config url crawl: https://vnexpress.net/ find 3 docs
+2024-08-15 18:00:30,105 - Database - INFO - Inserted 3 docs
+2024-08-15 18:00:30,106 - Main - INFO - Task queue empty, task done
+2024-08-15 18:00:30,113 - Main - INFO - Config url crawl: https://tuoitre.vn/ find 8 docs
+2024-08-15 18:00:30,338 - Crawl - WARNING - ThreadPoolExecutor-1_3: https://tuoitre.vn//thung-lung-silicon-cua-da-nang-hien-dang-the-nao-20240815170449591.htm Find element by xpath: List element empty
+2024-08-15 18:00:30,340 - Crawl - ERROR - ThreadPoolExecutor-1_3: Detect result false
+2024-08-15 18:00:30,562 - Database - INFO - Inserted 8 docs
+2024-08-15 18:00:30,571 - Main - INFO - Task queue empty, task done
+2024-08-15 18:00:30,580 - Main - INFO - Config url crawl: https://dantri.com.vn/tin-moi-nhat.htm find 7 docs
+2024-08-15 18:00:30,827 - Database - INFO - Inserted 7 docs
+2024-08-15 18:00:30,827 - Main - INFO - Task queue empty, task done
+2024-08-15 18:00:30,835 - Database - WARNING - Find: Empry
+2024-08-15 18:00:30,836 - Main - INFO - Config url crawl: https://dantri.com.vn/kinh-doanh.htm find 0 docs
+2024-08-15 18:00:30,837 - Main - INFO - Task queue empty, task done
+2024-08-15 18:00:30,845 - Database - WARNING - Find: Empry
+2024-08-15 18:00:30,846 - Main - INFO - Config url crawl: https://dantri.com.vn/xa-hoi.htm find 0 docs
+2024-08-15 18:00:30,847 - Main - INFO - Task queue empty, task done
+2024-08-15 18:00:30,855 - Database - WARNING - Find: Empry
+2024-08-15 18:00:30,855 - Main - INFO - Config url crawl: https://dantri.com.vn/the-gioi.htm find 0 docs
+2024-08-15 18:00:30,856 - Main - INFO - Task queue empty, task done
+2024-08-15 18:00:30,865 - Database - WARNING - Find: Empry
+2024-08-15 18:00:30,866 - Main - INFO - Config url crawl: https://dantri.com.vn/giai-tri.htm find 0 docs
+2024-08-15 18:00:30,867 - Main - INFO - Task queue empty, task done
+2024-08-15 18:00:30,875 - Database - WARNING - Find: Empry
+2024-08-15 18:00:30,876 - Main - INFO - Config url crawl: https://dantri.com.vn/bat-dong-san.htm find 0 docs
+2024-08-15 18:00:30,876 - Main - INFO - Task queue empty, task done
+2024-08-15 18:00:30,884 - Main - INFO - Config url crawl: https://dantri.com.vn/the-thao.htm find 1 docs
+2024-08-15 18:00:30,996 - Database - INFO - Inserted 1 docs
+2024-08-15 18:00:30,998 - Main - INFO - Task queue empty, task done
+2024-08-15 18:00:31,015 - Database - WARNING - Find: Empry
+2024-08-15 18:00:31,017 - Main - INFO - Config url crawl: https://dantri.com.vn/lao-dong-viec-lam.htm find 0 docs
+2024-08-15 18:00:31,018 - Main - INFO - Task queue empty, task done
+2024-08-15 18:00:31,029 - Database - WARNING - Find: Empry
+2024-08-15 18:00:31,030 - Main - INFO - Config url crawl: https://dantri.com.vn/tam-long-nhan-ai.htm find 0 docs
+2024-08-15 18:00:31,031 - Main - INFO - Task queue empty, task done
+2024-08-15 18:00:31,037 - Database - WARNING - Find: Empry
+2024-08-15 18:00:31,038 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-khoe.htm find 0 docs
+2024-08-15 18:00:31,038 - Main - INFO - Task queue empty, task done
+2024-08-15 18:00:31,044 - Database - WARNING - Find: Empry
+2024-08-15 18:00:31,045 - Main - INFO - Config url crawl: https://dantri.com.vn/o-to-xe-may.htm find 0 docs
+2024-08-15 18:00:31,046 - Main - INFO - Task queue empty, task done
+2024-08-15 18:00:31,051 - Database - WARNING - Find: Empry
+2024-08-15 18:00:31,052 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-manh-so.htm find 0 docs
+2024-08-15 18:00:31,053 - Main - INFO - Task queue empty, task done
+2024-08-15 18:00:31,060 - Database - WARNING - Find: Empry
+2024-08-15 18:00:31,060 - Main - INFO - Config url crawl: https://dantri.com.vn/giao-duc.htm find 0 docs
+2024-08-15 18:00:31,061 - Main - INFO - Task queue empty, task done
+2024-08-15 18:00:31,067 - Database - WARNING - Find: Empry
+2024-08-15 18:00:31,068 - Main - INFO - Config url crawl: https://dantri.com.vn/an-sinh.htm find 0 docs
+2024-08-15 18:00:31,069 - Main - INFO - Task queue empty, task done
+2024-08-15 18:00:31,075 - Database - WARNING - Find: Empry
+2024-08-15 18:00:31,076 - Main - INFO - Config url crawl: https://dantri.com.vn/phap-luat.htm find 0 docs
+2024-08-15 18:00:31,077 - Main - INFO - Task queue empty, task done
+2024-08-15 18:30:30,089 - Main - INFO - __________________________________Run Crawl detail news
+2024-08-15 18:30:30,189 - Database - INFO - Connected database crawl_news
+2024-08-15 18:30:30,192 - Database - INFO - Connected collection urls_clean
+2024-08-15 18:30:30,194 - Database - INFO - Connected collection detail
+2024-08-15 18:30:30,201 - Main - INFO - Config url crawl: https://vnexpress.net/ find 1 docs
+2024-08-15 18:30:30,283 - Database - INFO - Inserted 1 docs
+2024-08-15 18:30:30,284 - Main - INFO - Task queue empty, task done
+2024-08-15 18:30:30,291 - Main - INFO - Config url crawl: https://tuoitre.vn/ find 14 docs
+2024-08-15 18:30:30,639 - Crawl - WARNING - ThreadPoolExecutor-1_2: https://tuoitre.vn//tau-hai-quan-hoang-gia-canada-tham-tp-hcm-tang-cuong-cam-ket-o-an-do-duong-thai-binh-duong-20240815173951921.htm Find element by xpath: List element empty
+2024-08-15 18:30:30,641 - Crawl - ERROR - ThreadPoolExecutor-1_2: Detect result false
+2024-08-15 18:30:31,118 - Database - INFO - Inserted 14 docs
+2024-08-15 18:30:31,119 - Main - INFO - Task queue empty, task done
+2024-08-15 18:30:31,130 - Main - INFO - Config url crawl: https://dantri.com.vn/tin-moi-nhat.htm find 10 docs
+2024-08-15 18:30:31,574 - Database - INFO - Inserted 10 docs
+2024-08-15 18:30:31,574 - Main - INFO - Task queue empty, task done
+2024-08-15 18:30:31,581 - Database - WARNING - Find: Empry
+2024-08-15 18:30:31,582 - Main - INFO - Config url crawl: https://dantri.com.vn/kinh-doanh.htm find 0 docs
+2024-08-15 18:30:31,582 - Main - INFO - Task queue empty, task done
+2024-08-15 18:30:31,589 - Database - WARNING - Find: Empry
+2024-08-15 18:30:31,590 - Main - INFO - Config url crawl: https://dantri.com.vn/xa-hoi.htm find 0 docs
+2024-08-15 18:30:31,590 - Main - INFO - Task queue empty, task done
+2024-08-15 18:30:31,600 - Database - WARNING - Find: Empry
+2024-08-15 18:30:31,601 - Main - INFO - Config url crawl: https://dantri.com.vn/the-gioi.htm find 0 docs
+2024-08-15 18:30:31,602 - Main - INFO - Task queue empty, task done
+2024-08-15 18:30:31,608 - Main - INFO - Config url crawl: https://dantri.com.vn/giai-tri.htm find 1 docs
+2024-08-15 18:30:31,724 - Database - INFO - Inserted 1 docs
+2024-08-15 18:30:31,729 - Main - INFO - Task queue empty, task done
+2024-08-15 18:30:31,749 - Database - WARNING - Find: Empry
+2024-08-15 18:30:31,751 - Main - INFO - Config url crawl: https://dantri.com.vn/bat-dong-san.htm find 0 docs
+2024-08-15 18:30:31,758 - Main - INFO - Task queue empty, task done
+2024-08-15 18:30:31,782 - Database - WARNING - Find: Empry
+2024-08-15 18:30:31,784 - Main - INFO - Config url crawl: https://dantri.com.vn/the-thao.htm find 0 docs
+2024-08-15 18:30:31,786 - Main - INFO - Task queue empty, task done
+2024-08-15 18:30:31,800 - Database - WARNING - Find: Empry
+2024-08-15 18:30:31,801 - Main - INFO - Config url crawl: https://dantri.com.vn/lao-dong-viec-lam.htm find 0 docs
+2024-08-15 18:30:31,803 - Main - INFO - Task queue empty, task done
+2024-08-15 18:30:31,819 - Database - WARNING - Find: Empry
+2024-08-15 18:30:31,820 - Main - INFO - Config url crawl: https://dantri.com.vn/tam-long-nhan-ai.htm find 0 docs
+2024-08-15 18:30:31,822 - Main - INFO - Task queue empty, task done
+2024-08-15 18:30:31,831 - Database - WARNING - Find: Empry
+2024-08-15 18:30:31,831 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-khoe.htm find 0 docs
+2024-08-15 18:30:31,832 - Main - INFO - Task queue empty, task done
+2024-08-15 18:30:31,841 - Database - WARNING - Find: Empry
+2024-08-15 18:30:31,842 - Main - INFO - Config url crawl: https://dantri.com.vn/o-to-xe-may.htm find 0 docs
+2024-08-15 18:30:31,842 - Main - INFO - Task queue empty, task done
+2024-08-15 18:30:31,852 - Database - WARNING - Find: Empry
+2024-08-15 18:30:31,853 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-manh-so.htm find 0 docs
+2024-08-15 18:30:31,854 - Main - INFO - Task queue empty, task done
+2024-08-15 18:30:31,866 - Database - WARNING - Find: Empry
+2024-08-15 18:30:31,868 - Main - INFO - Config url crawl: https://dantri.com.vn/giao-duc.htm find 0 docs
+2024-08-15 18:30:31,869 - Main - INFO - Task queue empty, task done
+2024-08-15 18:30:31,883 - Database - WARNING - Find: Empry
+2024-08-15 18:30:31,885 - Main - INFO - Config url crawl: https://dantri.com.vn/an-sinh.htm find 0 docs
+2024-08-15 18:30:31,886 - Main - INFO - Task queue empty, task done
+2024-08-15 18:30:31,894 - Database - WARNING - Find: Empry
+2024-08-15 18:30:31,895 - Main - INFO - Config url crawl: https://dantri.com.vn/phap-luat.htm find 0 docs
+2024-08-15 18:30:31,896 - Main - INFO - Task queue empty, task done
+2024-08-15 19:00:19,069 - Main - INFO - __________________________________Run Crawl detail news
+2024-08-15 19:00:19,673 - Database - INFO - Connected database crawl_news
+2024-08-15 19:00:20,072 - Database - INFO - Connected collection urls_clean
+2024-08-15 19:00:20,073 - Database - INFO - Connected collection detail
+2024-08-15 19:00:20,082 - Main - INFO - Config url crawl: https://vnexpress.net/ find 1 docs
+2024-08-15 19:00:20,177 - Database - INFO - Inserted 1 docs
+2024-08-15 19:00:20,177 - Main - INFO - Task queue empty, task done
+2024-08-15 19:00:20,186 - Main - INFO - Config url crawl: https://tuoitre.vn/ find 15 docs
+2024-08-15 19:00:20,642 - Crawl - WARNING - ThreadPoolExecutor-1_2: https://tuoitre.vn//thanh-lap-khu-cong-nghe-thong-tin-tap-trung-da-nang-20200108154152016.htm Find element by xpath: List element empty
+2024-08-15 19:00:20,644 - Crawl - ERROR - ThreadPoolExecutor-1_2: Detect result false
+2024-08-15 19:00:20,926 - Database - INFO - Inserted 15 docs
+2024-08-15 19:00:21,035 - Main - INFO - Task queue empty, task done
+2024-08-15 19:00:21,044 - Main - INFO - Config url crawl: https://dantri.com.vn/tin-moi-nhat.htm find 4 docs
+2024-08-15 19:00:21,186 - Crawl - WARNING - ThreadPoolExecutor-2_3: https://dantri.com.vn//lao-dong-viec-lam/viet-nam-duy-tri-luong-lao-dong-lon-di-nhat-co-the-mo-them-2-nganh-nghe-20240815181743720.htm Find element by xpath: List element empty
+2024-08-15 19:00:21,187 - Crawl - ERROR - ThreadPoolExecutor-2_3: Detect result false
+2024-08-15 19:00:21,190 - Crawl - WARNING - ThreadPoolExecutor-2_3: https://dantri.com.vn//lao-dong-viec-lam/viet-nam-duy-tri-luong-lao-dong-lon-di-nhat-co-the-mo-them-2-nganh-nghe-20240815181743720.htm Find element by xpath: List element empty
+2024-08-15 19:00:21,191 - Crawl - ERROR - ThreadPoolExecutor-2_3: Detect result false
+2024-08-15 19:00:21,194 - Crawl - WARNING - ThreadPoolExecutor-2_3: https://dantri.com.vn//lao-dong-viec-lam/viet-nam-duy-tri-luong-lao-dong-lon-di-nhat-co-the-mo-them-2-nganh-nghe-20240815181743720.htm Find element by xpath: List element empty
+2024-08-15 19:00:21,197 - Crawl - ERROR - ThreadPoolExecutor-2_3: Detect result false
+2024-08-15 19:00:21,201 - Crawl - WARNING - ThreadPoolExecutor-2_3: https://dantri.com.vn//lao-dong-viec-lam/viet-nam-duy-tri-luong-lao-dong-lon-di-nhat-co-the-mo-them-2-nganh-nghe-20240815181743720.htm Find element by xpath: List element empty
+2024-08-15 19:00:21,201 - Crawl - ERROR - ThreadPoolExecutor-2_3: Detect result false
+2024-08-15 19:00:21,203 - Crawl - WARNING - ThreadPoolExecutor-2_3: https://dantri.com.vn//lao-dong-viec-lam/viet-nam-duy-tri-luong-lao-dong-lon-di-nhat-co-the-mo-them-2-nganh-nghe-20240815181743720.htm Find element by xpath: List element empty
+2024-08-15 19:00:21,204 - Crawl - ERROR - ThreadPoolExecutor-2_3: Detect result false
+2024-08-15 19:00:21,206 - Crawl - WARNING - ThreadPoolExecutor-2_3: https://dantri.com.vn//lao-dong-viec-lam/viet-nam-duy-tri-luong-lao-dong-lon-di-nhat-co-the-mo-them-2-nganh-nghe-20240815181743720.htm Find element by xpath: List element empty
+2024-08-15 19:00:21,208 - Crawl - ERROR - ThreadPoolExecutor-2_3: Detect result false
+2024-08-15 19:00:21,217 - Database - INFO - Inserted 4 docs
+2024-08-15 19:00:21,231 - Main - INFO - Task queue empty, task done
+2024-08-15 19:00:21,245 - Database - WARNING - Find: Empry
+2024-08-15 19:00:21,246 - Main - INFO - Config url crawl: https://dantri.com.vn/kinh-doanh.htm find 0 docs
+2024-08-15 19:00:21,259 - Main - INFO - Task queue empty, task done
+2024-08-15 19:00:21,277 - Database - WARNING - Find: Empry
+2024-08-15 19:00:21,278 - Main - INFO - Config url crawl: https://dantri.com.vn/xa-hoi.htm find 0 docs
+2024-08-15 19:00:21,280 - Main - INFO - Task queue empty, task done
+2024-08-15 19:00:21,302 - Main - INFO - Config url crawl: https://dantri.com.vn/the-gioi.htm find 1 docs
+2024-08-15 19:00:21,417 - Database - INFO - Inserted 1 docs
+2024-08-15 19:00:21,418 - Main - INFO - Task queue empty, task done
+2024-08-15 19:00:21,428 - Database - WARNING - Find: Empry
+2024-08-15 19:00:21,429 - Main - INFO - Config url crawl: https://dantri.com.vn/giai-tri.htm find 0 docs
+2024-08-15 19:00:21,430 - Main - INFO - Task queue empty, task done
+2024-08-15 19:00:21,440 - Database - WARNING - Find: Empry
+2024-08-15 19:00:21,441 - Main - INFO - Config url crawl: https://dantri.com.vn/bat-dong-san.htm find 0 docs
+2024-08-15 19:00:21,442 - Main - INFO - Task queue empty, task done
+2024-08-15 19:00:21,449 - Database - WARNING - Find: Empry
+2024-08-15 19:00:21,450 - Main - INFO - Config url crawl: https://dantri.com.vn/the-thao.htm find 0 docs
+2024-08-15 19:00:21,451 - Main - INFO - Task queue empty, task done
+2024-08-15 19:00:21,459 - Database - WARNING - Find: Empry
+2024-08-15 19:00:21,460 - Main - INFO - Config url crawl: https://dantri.com.vn/lao-dong-viec-lam.htm find 0 docs
+2024-08-15 19:00:21,461 - Main - INFO - Task queue empty, task done
+2024-08-15 19:00:21,470 - Database - WARNING - Find: Empry
+2024-08-15 19:00:21,471 - Main - INFO - Config url crawl: https://dantri.com.vn/tam-long-nhan-ai.htm find 0 docs
+2024-08-15 19:00:21,471 - Main - INFO - Task queue empty, task done
+2024-08-15 19:00:21,477 - Database - WARNING - Find: Empry
+2024-08-15 19:00:21,478 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-khoe.htm find 0 docs
+2024-08-15 19:00:21,479 - Main - INFO - Task queue empty, task done
+2024-08-15 19:00:21,486 - Database - WARNING - Find: Empry
+2024-08-15 19:00:21,487 - Main - INFO - Config url crawl: https://dantri.com.vn/o-to-xe-may.htm find 0 docs
+2024-08-15 19:00:21,488 - Main - INFO - Task queue empty, task done
+2024-08-15 19:00:21,494 - Database - WARNING - Find: Empry
+2024-08-15 19:00:21,495 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-manh-so.htm find 0 docs
+2024-08-15 19:00:21,496 - Main - INFO - Task queue empty, task done
+2024-08-15 19:00:21,505 - Database - WARNING - Find: Empry
+2024-08-15 19:00:21,506 - Main - INFO - Config url crawl: https://dantri.com.vn/giao-duc.htm find 0 docs
+2024-08-15 19:00:21,507 - Main - INFO - Task queue empty, task done
+2024-08-15 19:00:21,515 - Database - WARNING - Find: Empry
+2024-08-15 19:00:21,516 - Main - INFO - Config url crawl: https://dantri.com.vn/an-sinh.htm find 0 docs
+2024-08-15 19:00:21,516 - Main - INFO - Task queue empty, task done
+2024-08-15 19:00:21,522 - Database - WARNING - Find: Empry
+2024-08-15 19:00:21,523 - Main - INFO - Config url crawl: https://dantri.com.vn/phap-luat.htm find 0 docs
+2024-08-15 19:00:21,524 - Main - INFO - Task queue empty, task done
+2024-08-15 19:30:20,527 - Main - INFO - __________________________________Run Crawl detail news
+2024-08-15 19:30:20,549 - Database - INFO - Connected database crawl_news
+2024-08-15 19:30:20,551 - Database - INFO - Connected collection urls_clean
+2024-08-15 19:30:20,553 - Database - INFO - Connected collection detail
+2024-08-15 19:30:20,561 - Database - WARNING - Find: Empry
+2024-08-15 19:30:20,562 - Main - INFO - Config url crawl: https://vnexpress.net/ find 0 docs
+2024-08-15 19:30:20,562 - Main - INFO - Task queue empty, task done
+2024-08-15 19:30:20,567 - Main - INFO - Config url crawl: https://tuoitre.vn/ find 12 docs
+2024-08-15 19:30:21,006 - Crawl - WARNING - ThreadPoolExecutor-0_0: https://tuoitre.vn//me-man-vuon-xuong-rong-lai-gan-300-mau-sac-cua-chang-trai-9x-2024081514314009.htm Find element by xpath: List element empty
+2024-08-15 19:30:21,009 - Crawl - ERROR - ThreadPoolExecutor-0_0: Detect result false
+2024-08-15 19:30:21,204 - Database - INFO - Inserted 12 docs
+2024-08-15 19:30:21,286 - Main - INFO - Task queue empty, task done
+2024-08-15 19:30:21,297 - Main - INFO - Config url crawl: https://dantri.com.vn/tin-moi-nhat.htm find 5 docs
+2024-08-15 19:30:21,570 - Database - INFO - Inserted 5 docs
+2024-08-15 19:30:21,570 - Main - INFO - Task queue empty, task done
+2024-08-15 19:30:21,577 - Main - INFO - Config url crawl: https://dantri.com.vn/kinh-doanh.htm find 1 docs
+2024-08-15 19:30:21,722 - Database - INFO - Inserted 1 docs
+2024-08-15 19:30:21,723 - Main - INFO - Task queue empty, task done
+2024-08-15 19:30:21,729 - Database - WARNING - Find: Empry
+2024-08-15 19:30:21,730 - Main - INFO - Config url crawl: https://dantri.com.vn/xa-hoi.htm find 0 docs
+2024-08-15 19:30:21,730 - Main - INFO - Task queue empty, task done
+2024-08-15 19:30:21,737 - Database - WARNING - Find: Empry
+2024-08-15 19:30:21,738 - Main - INFO - Config url crawl: https://dantri.com.vn/the-gioi.htm find 0 docs
+2024-08-15 19:30:21,738 - Main - INFO - Task queue empty, task done
+2024-08-15 19:30:21,745 - Database - WARNING - Find: Empry
+2024-08-15 19:30:21,838 - Main - INFO - Config url crawl: https://dantri.com.vn/giai-tri.htm find 0 docs
+2024-08-15 19:30:21,839 - Main - INFO - Task queue empty, task done
+2024-08-15 19:30:21,844 - Database - WARNING - Find: Empry
+2024-08-15 19:30:21,845 - Main - INFO - Config url crawl: https://dantri.com.vn/bat-dong-san.htm find 0 docs
+2024-08-15 19:30:21,846 - Main - INFO - Task queue empty, task done
+2024-08-15 19:30:21,851 - Database - WARNING - Find: Empry
+2024-08-15 19:30:21,852 - Main - INFO - Config url crawl: https://dantri.com.vn/the-thao.htm find 0 docs
+2024-08-15 19:30:21,853 - Main - INFO - Task queue empty, task done
+2024-08-15 19:30:21,859 - Database - WARNING - Find: Empry
+2024-08-15 19:30:21,860 - Main - INFO - Config url crawl: https://dantri.com.vn/lao-dong-viec-lam.htm find 0 docs
+2024-08-15 19:30:21,860 - Main - INFO - Task queue empty, task done
+2024-08-15 19:30:21,866 - Database - WARNING - Find: Empry
+2024-08-15 19:30:21,867 - Main - INFO - Config url crawl: https://dantri.com.vn/tam-long-nhan-ai.htm find 0 docs
+2024-08-15 19:30:21,868 - Main - INFO - Task queue empty, task done
+2024-08-15 19:30:21,873 - Database - WARNING - Find: Empry
+2024-08-15 19:30:21,874 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-khoe.htm find 0 docs
+2024-08-15 19:30:21,875 - Main - INFO - Task queue empty, task done
+2024-08-15 19:30:21,881 - Database - WARNING - Find: Empry
+2024-08-15 19:30:21,881 - Main - INFO - Config url crawl: https://dantri.com.vn/o-to-xe-may.htm find 0 docs
+2024-08-15 19:30:21,882 - Main - INFO - Task queue empty, task done
+2024-08-15 19:30:21,888 - Database - WARNING - Find: Empry
+2024-08-15 19:30:21,889 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-manh-so.htm find 0 docs
+2024-08-15 19:30:21,889 - Main - INFO - Task queue empty, task done
+2024-08-15 19:30:21,895 - Database - WARNING - Find: Empry
+2024-08-15 19:30:21,896 - Main - INFO - Config url crawl: https://dantri.com.vn/giao-duc.htm find 0 docs
+2024-08-15 19:30:21,896 - Main - INFO - Task queue empty, task done
+2024-08-15 19:30:21,902 - Database - WARNING - Find: Empry
+2024-08-15 19:30:21,903 - Main - INFO - Config url crawl: https://dantri.com.vn/an-sinh.htm find 0 docs
+2024-08-15 19:30:21,904 - Main - INFO - Task queue empty, task done
+2024-08-15 19:30:21,909 - Database - WARNING - Find: Empry
+2024-08-15 19:30:21,910 - Main - INFO - Config url crawl: https://dantri.com.vn/phap-luat.htm find 0 docs
+2024-08-15 19:30:21,911 - Main - INFO - Task queue empty, task done
+2024-08-15 20:00:21,127 - Main - INFO - __________________________________Run Crawl detail news
+2024-08-15 20:00:21,156 - Database - INFO - Connected database crawl_news
+2024-08-15 20:00:21,158 - Database - INFO - Connected collection urls_clean
+2024-08-15 20:00:21,160 - Database - INFO - Connected collection detail
+2024-08-15 20:00:21,167 - Main - INFO - Config url crawl: https://vnexpress.net/ find 3 docs
+2024-08-15 20:00:21,262 - Transform - ERROR - ThreadPoolExecutor-0_0: List attribute is None
+2024-08-15 20:00:21,265 - Crawl - WARNING - ThreadPoolExecutor-0_0: https://vnexpress.net/giay-phut-ruot-tu-than-cuu-nguoi-ngung-tim-dot-ngot-4781888.html Find element by xpath: List element empty
+2024-08-15 20:00:21,267 - Crawl - ERROR - ThreadPoolExecutor-0_0: Detect result false
+2024-08-15 20:00:21,274 - Crawl - WARNING - ThreadPoolExecutor-0_1: https://vnexpress.net/nhieu-nguoi-noi-tieng-san-sang-dong-phat-de-gay-soc-4781918.html Find element by xpath: List element empty
+2024-08-15 20:00:21,275 - Crawl - ERROR - ThreadPoolExecutor-0_1: Detect result false
+2024-08-15 20:00:21,281 - Database - INFO - Inserted 3 docs
+2024-08-15 20:00:21,282 - Main - INFO - Task queue empty, task done
+2024-08-15 20:00:21,289 - Main - INFO - Config url crawl: https://tuoitre.vn/ find 11 docs
+2024-08-15 20:00:21,903 - Database - INFO - Inserted 11 docs
+2024-08-15 20:00:21,904 - Main - INFO - Task queue empty, task done
+2024-08-15 20:00:21,910 - Main - INFO - Config url crawl: https://dantri.com.vn/tin-moi-nhat.htm find 3 docs
+2024-08-15 20:00:22,123 - Database - INFO - Inserted 3 docs
+2024-08-15 20:00:22,124 - Main - INFO - Task queue empty, task done
+2024-08-15 20:00:22,130 - Database - WARNING - Find: Empry
+2024-08-15 20:00:22,131 - Main - INFO - Config url crawl: https://dantri.com.vn/kinh-doanh.htm find 0 docs
+2024-08-15 20:00:22,131 - Main - INFO - Task queue empty, task done
+2024-08-15 20:00:22,139 - Database - WARNING - Find: Empry
+2024-08-15 20:00:22,140 - Main - INFO - Config url crawl: https://dantri.com.vn/xa-hoi.htm find 0 docs
+2024-08-15 20:00:22,140 - Main - INFO - Task queue empty, task done
+2024-08-15 20:00:22,146 - Database - WARNING - Find: Empry
+2024-08-15 20:00:22,147 - Main - INFO - Config url crawl: https://dantri.com.vn/the-gioi.htm find 0 docs
+2024-08-15 20:00:22,147 - Main - INFO - Task queue empty, task done
+2024-08-15 20:00:22,153 - Database - WARNING - Find: Empry
+2024-08-15 20:00:22,153 - Main - INFO - Config url crawl: https://dantri.com.vn/giai-tri.htm find 0 docs
+2024-08-15 20:00:22,154 - Main - INFO - Task queue empty, task done
+2024-08-15 20:00:22,159 - Database - WARNING - Find: Empry
+2024-08-15 20:00:22,160 - Main - INFO - Config url crawl: https://dantri.com.vn/bat-dong-san.htm find 0 docs
+2024-08-15 20:00:22,160 - Main - INFO - Task queue empty, task done
+2024-08-15 20:00:22,166 - Database - WARNING - Find: Empry
+2024-08-15 20:00:22,167 - Main - INFO - Config url crawl: https://dantri.com.vn/the-thao.htm find 0 docs
+2024-08-15 20:00:22,167 - Main - INFO - Task queue empty, task done
+2024-08-15 20:00:22,173 - Database - WARNING - Find: Empry
+2024-08-15 20:00:22,173 - Main - INFO - Config url crawl: https://dantri.com.vn/lao-dong-viec-lam.htm find 0 docs
+2024-08-15 20:00:22,174 - Main - INFO - Task queue empty, task done
+2024-08-15 20:00:22,180 - Database - WARNING - Find: Empry
+2024-08-15 20:00:22,180 - Main - INFO - Config url crawl: https://dantri.com.vn/tam-long-nhan-ai.htm find 0 docs
+2024-08-15 20:00:22,181 - Main - INFO - Task queue empty, task done
+2024-08-15 20:00:22,186 - Database - WARNING - Find: Empry
+2024-08-15 20:00:22,187 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-khoe.htm find 0 docs
+2024-08-15 20:00:22,188 - Main - INFO - Task queue empty, task done
+2024-08-15 20:00:22,193 - Database - WARNING - Find: Empry
+2024-08-15 20:00:22,194 - Main - INFO - Config url crawl: https://dantri.com.vn/o-to-xe-may.htm find 0 docs
+2024-08-15 20:00:22,194 - Main - INFO - Task queue empty, task done
+2024-08-15 20:00:22,200 - Database - WARNING - Find: Empry
+2024-08-15 20:00:22,200 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-manh-so.htm find 0 docs
+2024-08-15 20:00:22,201 - Main - INFO - Task queue empty, task done
+2024-08-15 20:00:22,207 - Database - WARNING - Find: Empry
+2024-08-15 20:00:22,207 - Main - INFO - Config url crawl: https://dantri.com.vn/giao-duc.htm find 0 docs
+2024-08-15 20:00:22,208 - Main - INFO - Task queue empty, task done
+2024-08-15 20:00:22,214 - Database - WARNING - Find: Empry
+2024-08-15 20:00:22,215 - Main - INFO - Config url crawl: https://dantri.com.vn/an-sinh.htm find 0 docs
+2024-08-15 20:00:22,215 - Main - INFO - Task queue empty, task done
+2024-08-15 20:00:22,221 - Database - WARNING - Find: Empry
+2024-08-15 20:00:22,222 - Main - INFO - Config url crawl: https://dantri.com.vn/phap-luat.htm find 0 docs
+2024-08-15 20:00:22,222 - Main - INFO - Task queue empty, task done
+2024-08-15 20:30:24,433 - Main - INFO - __________________________________Run Crawl detail news
+2024-08-15 20:30:24,460 - Database - INFO - Connected database crawl_news
+2024-08-15 20:30:24,461 - Database - INFO - Connected collection urls_clean
+2024-08-15 20:30:24,462 - Database - INFO - Connected collection detail
+2024-08-15 20:30:24,471 - Main - INFO - Config url crawl: https://vnexpress.net/ find 3 docs
+2024-08-15 20:30:24,562 - Transform - ERROR - ThreadPoolExecutor-0_0: List attribute is None
+2024-08-15 20:30:24,601 - Database - INFO - Inserted 3 docs
+2024-08-15 20:30:24,602 - Main - INFO - Task queue empty, task done
+2024-08-15 20:30:24,610 - Main - INFO - Config url crawl: https://tuoitre.vn/ find 14 docs
+2024-08-15 20:30:25,216 - Crawl - WARNING - ThreadPoolExecutor-1_4: https://tuoitre.vn//duong-qua-trung-tam-thi-tran-tan-nat-hon-5-nam-du-an-chua-ruc-rich-20240815171444951.htm Find element by xpath: List element empty
+2024-08-15 20:30:25,217 - Crawl - ERROR - ThreadPoolExecutor-1_4: Detect result false
+2024-08-15 20:30:25,344 - Crawl - WARNING - ThreadPoolExecutor-1_2: https://tuoitre.vn//tham-gia-pro-viet-nam-nhieu-ong-lon-cam-ket-xay-dung-viet-nam-xanh-20240813153207247.htm Find element by xpath: List element empty
+2024-08-15 20:30:25,345 - Crawl - ERROR - ThreadPoolExecutor-1_2: Detect result false
+2024-08-15 20:30:25,380 - Database - INFO - Inserted 14 docs
+2024-08-15 20:30:25,381 - Main - INFO - Task queue empty, task done
+2024-08-15 20:30:25,386 - Main - INFO - Config url crawl: https://dantri.com.vn/tin-moi-nhat.htm find 6 docs
+2024-08-15 20:30:25,607 - Crawl - WARNING - ThreadPoolExecutor-2_3: https://dantri.com.vn//xa-hoi/3-ky-vong-tu-chuyen-tham-trung-quoc-cua-tong-bi-thu-chu-tich-nuoc-to-lam-20240815195228347.htm Find element by xpath: List element empty
+2024-08-15 20:30:25,608 - Crawl - ERROR - ThreadPoolExecutor-2_3: Detect result false
+2024-08-15 20:30:25,610 - Crawl - WARNING - ThreadPoolExecutor-2_3: https://dantri.com.vn//xa-hoi/3-ky-vong-tu-chuyen-tham-trung-quoc-cua-tong-bi-thu-chu-tich-nuoc-to-lam-20240815195228347.htm Find element by xpath: List element empty
+2024-08-15 20:30:25,610 - Crawl - ERROR - ThreadPoolExecutor-2_3: Detect result false
+2024-08-15 20:30:25,612 - Crawl - WARNING - ThreadPoolExecutor-2_3: https://dantri.com.vn//xa-hoi/3-ky-vong-tu-chuyen-tham-trung-quoc-cua-tong-bi-thu-chu-tich-nuoc-to-lam-20240815195228347.htm Find element by xpath: List element empty
+2024-08-15 20:30:25,612 - Crawl - ERROR - ThreadPoolExecutor-2_3: Detect result false
+2024-08-15 20:30:25,614 - Crawl - WARNING - ThreadPoolExecutor-2_3: https://dantri.com.vn//xa-hoi/3-ky-vong-tu-chuyen-tham-trung-quoc-cua-tong-bi-thu-chu-tich-nuoc-to-lam-20240815195228347.htm Find element by xpath: List element empty
+2024-08-15 20:30:25,615 - Crawl - ERROR - ThreadPoolExecutor-2_3: Detect result false
+2024-08-15 20:30:25,616 - Crawl - WARNING - ThreadPoolExecutor-2_3: https://dantri.com.vn//xa-hoi/3-ky-vong-tu-chuyen-tham-trung-quoc-cua-tong-bi-thu-chu-tich-nuoc-to-lam-20240815195228347.htm Find element by xpath: List element empty
+2024-08-15 20:30:25,617 - Crawl - ERROR - ThreadPoolExecutor-2_3: Detect result false
+2024-08-15 20:30:25,618 - Crawl - WARNING - ThreadPoolExecutor-2_3: https://dantri.com.vn//xa-hoi/3-ky-vong-tu-chuyen-tham-trung-quoc-cua-tong-bi-thu-chu-tich-nuoc-to-lam-20240815195228347.htm Find element by xpath: List element empty
+2024-08-15 20:30:25,618 - Crawl - ERROR - ThreadPoolExecutor-2_3: Detect result false
+2024-08-15 20:30:25,785 - Crawl - WARNING - ThreadPoolExecutor-2_0: https://dantri.com.vn//giai-tri/ngam-loat-my-nhan-dinh-dam-quoc-te-hut-hon-trong-trang-phuc-ntk-cong-tri-20240815065403851.htm Find element by xpath: List element empty
+2024-08-15 20:30:25,786 - Crawl - ERROR - ThreadPoolExecutor-2_0: Detect result false
+2024-08-15 20:30:25,792 - Database - INFO - Inserted 6 docs
+2024-08-15 20:30:25,793 - Main - INFO - Task queue empty, task done
+2024-08-15 20:30:25,798 - Database - WARNING - Find: Empry
+2024-08-15 20:30:25,799 - Main - INFO - Config url crawl: https://dantri.com.vn/kinh-doanh.htm find 0 docs
+2024-08-15 20:30:25,800 - Main - INFO - Task queue empty, task done
+2024-08-15 20:30:25,807 - Database - WARNING - Find: Empry
+2024-08-15 20:30:25,808 - Main - INFO - Config url crawl: https://dantri.com.vn/xa-hoi.htm find 0 docs
+2024-08-15 20:30:25,808 - Main - INFO - Task queue empty, task done
+2024-08-15 20:30:25,814 - Database - WARNING - Find: Empry
+2024-08-15 20:30:25,815 - Main - INFO - Config url crawl: https://dantri.com.vn/the-gioi.htm find 0 docs
+2024-08-15 20:30:25,816 - Main - INFO - Task queue empty, task done
+2024-08-15 20:30:25,822 - Database - WARNING - Find: Empry
+2024-08-15 20:30:25,822 - Main - INFO - Config url crawl: https://dantri.com.vn/giai-tri.htm find 0 docs
+2024-08-15 20:30:25,823 - Main - INFO - Task queue empty, task done
+2024-08-15 20:30:25,831 - Database - WARNING - Find: Empry
+2024-08-15 20:30:25,832 - Main - INFO - Config url crawl: https://dantri.com.vn/bat-dong-san.htm find 0 docs
+2024-08-15 20:30:25,833 - Main - INFO - Task queue empty, task done
+2024-08-15 20:30:25,839 - Database - WARNING - Find: Empry
+2024-08-15 20:30:25,840 - Main - INFO - Config url crawl: https://dantri.com.vn/the-thao.htm find 0 docs
+2024-08-15 20:30:25,840 - Main - INFO - Task queue empty, task done
+2024-08-15 20:30:25,846 - Database - WARNING - Find: Empry
+2024-08-15 20:30:25,847 - Main - INFO - Config url crawl: https://dantri.com.vn/lao-dong-viec-lam.htm find 0 docs
+2024-08-15 20:30:25,848 - Main - INFO - Task queue empty, task done
+2024-08-15 20:30:25,854 - Database - WARNING - Find: Empry
+2024-08-15 20:30:25,854 - Main - INFO - Config url crawl: https://dantri.com.vn/tam-long-nhan-ai.htm find 0 docs
+2024-08-15 20:30:25,855 - Main - INFO - Task queue empty, task done
+2024-08-15 20:30:25,865 - Database - WARNING - Find: Empry
+2024-08-15 20:30:25,865 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-khoe.htm find 0 docs
+2024-08-15 20:30:25,866 - Main - INFO - Task queue empty, task done
+2024-08-15 20:30:25,873 - Database - WARNING - Find: Empry
+2024-08-15 20:30:25,874 - Main - INFO - Config url crawl: https://dantri.com.vn/o-to-xe-may.htm find 0 docs
+2024-08-15 20:30:25,875 - Main - INFO - Task queue empty, task done
+2024-08-15 20:30:25,881 - Database - WARNING - Find: Empry
+2024-08-15 20:30:25,882 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-manh-so.htm find 0 docs
+2024-08-15 20:30:25,882 - Main - INFO - Task queue empty, task done
+2024-08-15 20:30:25,888 - Database - WARNING - Find: Empry
+2024-08-15 20:30:25,889 - Main - INFO - Config url crawl: https://dantri.com.vn/giao-duc.htm find 0 docs
+2024-08-15 20:30:25,890 - Main - INFO - Task queue empty, task done
+2024-08-15 20:30:25,895 - Database - WARNING - Find: Empry
+2024-08-15 20:30:25,896 - Main - INFO - Config url crawl: https://dantri.com.vn/an-sinh.htm find 0 docs
+2024-08-15 20:30:25,897 - Main - INFO - Task queue empty, task done
+2024-08-15 20:30:25,905 - Database - WARNING - Find: Empry
+2024-08-15 20:30:25,906 - Main - INFO - Config url crawl: https://dantri.com.vn/phap-luat.htm find 0 docs
+2024-08-15 20:30:25,907 - Main - INFO - Task queue empty, task done
+2024-08-15 21:00:22,920 - Main - INFO - __________________________________Run Crawl detail news
+2024-08-15 21:00:22,952 - Database - INFO - Connected database crawl_news
+2024-08-15 21:00:22,953 - Database - INFO - Connected collection urls_clean
+2024-08-15 21:00:22,956 - Database - INFO - Connected collection detail
+2024-08-15 21:00:22,964 - Database - WARNING - Find: Empry
+2024-08-15 21:00:22,964 - Main - INFO - Config url crawl: https://vnexpress.net/ find 0 docs
+2024-08-15 21:00:22,965 - Main - INFO - Task queue empty, task done
+2024-08-15 21:00:22,971 - Main - INFO - Config url crawl: https://tuoitre.vn/ find 7 docs
+2024-08-15 21:00:23,413 - Database - INFO - Inserted 7 docs
+2024-08-15 21:00:23,420 - Main - INFO - Task queue empty, task done
+2024-08-15 21:00:23,444 - Main - INFO - Config url crawl: https://dantri.com.vn/tin-moi-nhat.htm find 5 docs
+2024-08-15 21:00:23,757 - Database - INFO - Inserted 5 docs
+2024-08-15 21:00:23,758 - Main - INFO - Task queue empty, task done
+2024-08-15 21:00:23,764 - Database - WARNING - Find: Empry
+2024-08-15 21:00:23,765 - Main - INFO - Config url crawl: https://dantri.com.vn/kinh-doanh.htm find 0 docs
+2024-08-15 21:00:23,766 - Main - INFO - Task queue empty, task done
+2024-08-15 21:00:23,773 - Database - WARNING - Find: Empry
+2024-08-15 21:00:23,774 - Main - INFO - Config url crawl: https://dantri.com.vn/xa-hoi.htm find 0 docs
+2024-08-15 21:00:23,774 - Main - INFO - Task queue empty, task done
+2024-08-15 21:00:23,780 - Database - WARNING - Find: Empry
+2024-08-15 21:00:23,781 - Main - INFO - Config url crawl: https://dantri.com.vn/the-gioi.htm find 0 docs
+2024-08-15 21:00:23,782 - Main - INFO - Task queue empty, task done
+2024-08-15 21:00:23,788 - Database - WARNING - Find: Empry
+2024-08-15 21:00:23,789 - Main - INFO - Config url crawl: https://dantri.com.vn/giai-tri.htm find 0 docs
+2024-08-15 21:00:23,789 - Main - INFO - Task queue empty, task done
+2024-08-15 21:00:23,795 - Main - INFO - Config url crawl: https://dantri.com.vn/bat-dong-san.htm find 1 docs
+2024-08-15 21:00:23,983 - Database - INFO - Inserted 1 docs
+2024-08-15 21:00:23,984 - Main - INFO - Task queue empty, task done
+2024-08-15 21:00:23,992 - Database - WARNING - Find: Empry
+2024-08-15 21:00:23,993 - Main - INFO - Config url crawl: https://dantri.com.vn/the-thao.htm find 0 docs
+2024-08-15 21:00:23,994 - Main - INFO - Task queue empty, task done
+2024-08-15 21:00:24,001 - Database - WARNING - Find: Empry
+2024-08-15 21:00:24,002 - Main - INFO - Config url crawl: https://dantri.com.vn/lao-dong-viec-lam.htm find 0 docs
+2024-08-15 21:00:24,003 - Main - INFO - Task queue empty, task done
+2024-08-15 21:00:24,009 - Database - WARNING - Find: Empry
+2024-08-15 21:00:24,010 - Main - INFO - Config url crawl: https://dantri.com.vn/tam-long-nhan-ai.htm find 0 docs
+2024-08-15 21:00:24,010 - Main - INFO - Task queue empty, task done
+2024-08-15 21:00:24,016 - Database - WARNING - Find: Empry
+2024-08-15 21:00:24,017 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-khoe.htm find 0 docs
+2024-08-15 21:00:24,018 - Main - INFO - Task queue empty, task done
+2024-08-15 21:00:24,024 - Database - WARNING - Find: Empry
+2024-08-15 21:00:24,024 - Main - INFO - Config url crawl: https://dantri.com.vn/o-to-xe-may.htm find 0 docs
+2024-08-15 21:00:24,025 - Main - INFO - Task queue empty, task done
+2024-08-15 21:00:24,031 - Database - WARNING - Find: Empry
+2024-08-15 21:00:24,032 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-manh-so.htm find 0 docs
+2024-08-15 21:00:24,033 - Main - INFO - Task queue empty, task done
+2024-08-15 21:00:24,038 - Database - WARNING - Find: Empry
+2024-08-15 21:00:24,039 - Main - INFO - Config url crawl: https://dantri.com.vn/giao-duc.htm find 0 docs
+2024-08-15 21:00:24,040 - Main - INFO - Task queue empty, task done
+2024-08-15 21:00:24,046 - Database - WARNING - Find: Empry
+2024-08-15 21:00:24,047 - Main - INFO - Config url crawl: https://dantri.com.vn/an-sinh.htm find 0 docs
+2024-08-15 21:00:24,047 - Main - INFO - Task queue empty, task done
+2024-08-15 21:00:24,054 - Database - WARNING - Find: Empry
+2024-08-15 21:00:24,054 - Main - INFO - Config url crawl: https://dantri.com.vn/phap-luat.htm find 0 docs
+2024-08-15 21:00:24,055 - Main - INFO - Task queue empty, task done
+2024-08-15 21:30:27,861 - Main - INFO - __________________________________Run Crawl detail news
+2024-08-15 21:30:27,980 - Database - INFO - Connected database crawl_news
+2024-08-15 21:30:28,104 - Database - INFO - Connected collection urls_clean
+2024-08-15 21:30:28,105 - Database - INFO - Connected collection detail
+2024-08-15 21:30:28,112 - Database - WARNING - Find: Empry
+2024-08-15 21:30:28,113 - Main - INFO - Config url crawl: https://vnexpress.net/ find 0 docs
+2024-08-15 21:30:28,114 - Main - INFO - Task queue empty, task done
+2024-08-15 21:30:28,120 - Main - INFO - Config url crawl: https://tuoitre.vn/ find 7 docs
+2024-08-15 21:30:28,587 - Crawl - WARNING - ThreadPoolExecutor-0_1: https://tuoitre.vn//bo-giao-duc-va-dao-tao-cong-bo-dien-thoai-email-nhan-tin-bao-nhung-nhieu-gay-phien-ha-nguoi-dan-20240815160346183.htm Find element by xpath: List element empty
+2024-08-15 21:30:28,587 - Crawl - ERROR - ThreadPoolExecutor-0_1: Detect result false
+2024-08-15 21:30:28,594 - Database - INFO - Inserted 7 docs
+2024-08-15 21:30:28,595 - Main - INFO - Task queue empty, task done
+2024-08-15 21:30:28,601 - Main - INFO - Config url crawl: https://dantri.com.vn/tin-moi-nhat.htm find 3 docs
+2024-08-15 21:30:30,015 - Database - INFO - Inserted 3 docs
+2024-08-15 21:30:30,016 - Main - INFO - Task queue empty, task done
+2024-08-15 21:30:30,022 - Database - WARNING - Find: Empry
+2024-08-15 21:30:30,022 - Main - INFO - Config url crawl: https://dantri.com.vn/kinh-doanh.htm find 0 docs
+2024-08-15 21:30:30,023 - Main - INFO - Task queue empty, task done
+2024-08-15 21:30:30,030 - Database - WARNING - Find: Empry
+2024-08-15 21:30:30,031 - Main - INFO - Config url crawl: https://dantri.com.vn/xa-hoi.htm find 0 docs
+2024-08-15 21:30:30,031 - Main - INFO - Task queue empty, task done
+2024-08-15 21:30:30,038 - Database - WARNING - Find: Empry
+2024-08-15 21:30:30,039 - Main - INFO - Config url crawl: https://dantri.com.vn/the-gioi.htm find 0 docs
+2024-08-15 21:30:30,039 - Main - INFO - Task queue empty, task done
+2024-08-15 21:30:30,045 - Database - WARNING - Find: Empry
+2024-08-15 21:30:30,046 - Main - INFO - Config url crawl: https://dantri.com.vn/giai-tri.htm find 0 docs
+2024-08-15 21:30:30,046 - Main - INFO - Task queue empty, task done
+2024-08-15 21:30:30,052 - Database - WARNING - Find: Empry
+2024-08-15 21:30:30,053 - Main - INFO - Config url crawl: https://dantri.com.vn/bat-dong-san.htm find 0 docs
+2024-08-15 21:30:30,054 - Main - INFO - Task queue empty, task done
+2024-08-15 21:30:30,060 - Database - WARNING - Find: Empry
+2024-08-15 21:30:30,061 - Main - INFO - Config url crawl: https://dantri.com.vn/the-thao.htm find 0 docs
+2024-08-15 21:30:30,061 - Main - INFO - Task queue empty, task done
+2024-08-15 21:30:30,067 - Database - WARNING - Find: Empry
+2024-08-15 21:30:30,068 - Main - INFO - Config url crawl: https://dantri.com.vn/lao-dong-viec-lam.htm find 0 docs
+2024-08-15 21:30:30,069 - Main - INFO - Task queue empty, task done
+2024-08-15 21:30:30,074 - Database - WARNING - Find: Empry
+2024-08-15 21:30:30,075 - Main - INFO - Config url crawl: https://dantri.com.vn/tam-long-nhan-ai.htm find 0 docs
+2024-08-15 21:30:30,076 - Main - INFO - Task queue empty, task done
+2024-08-15 21:30:30,082 - Database - WARNING - Find: Empry
+2024-08-15 21:30:30,083 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-khoe.htm find 0 docs
+2024-08-15 21:30:30,084 - Main - INFO - Task queue empty, task done
+2024-08-15 21:30:30,090 - Database - WARNING - Find: Empry
+2024-08-15 21:30:30,091 - Main - INFO - Config url crawl: https://dantri.com.vn/o-to-xe-may.htm find 0 docs
+2024-08-15 21:30:30,091 - Main - INFO - Task queue empty, task done
+2024-08-15 21:30:30,099 - Database - WARNING - Find: Empry
+2024-08-15 21:30:30,100 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-manh-so.htm find 0 docs
+2024-08-15 21:30:30,100 - Main - INFO - Task queue empty, task done
+2024-08-15 21:30:30,106 - Database - WARNING - Find: Empry
+2024-08-15 21:30:30,107 - Main - INFO - Config url crawl: https://dantri.com.vn/giao-duc.htm find 0 docs
+2024-08-15 21:30:30,108 - Main - INFO - Task queue empty, task done
+2024-08-15 21:30:30,113 - Database - WARNING - Find: Empry
+2024-08-15 21:30:30,114 - Main - INFO - Config url crawl: https://dantri.com.vn/an-sinh.htm find 0 docs
+2024-08-15 21:30:30,115 - Main - INFO - Task queue empty, task done
+2024-08-15 21:30:30,123 - Database - WARNING - Find: Empry
+2024-08-15 21:30:30,124 - Main - INFO - Config url crawl: https://dantri.com.vn/phap-luat.htm find 0 docs
+2024-08-15 21:30:30,125 - Main - INFO - Task queue empty, task done
+2024-08-15 22:00:21,568 - Main - INFO - __________________________________Run Crawl detail news
+2024-08-15 22:00:21,634 - Database - INFO - Connected database crawl_news
+2024-08-15 22:00:21,636 - Database - INFO - Connected collection urls_clean
+2024-08-15 22:00:21,637 - Database - INFO - Connected collection detail
+2024-08-15 22:00:21,646 - Database - WARNING - Find: Empry
+2024-08-15 22:00:21,646 - Main - INFO - Config url crawl: https://vnexpress.net/ find 0 docs
+2024-08-15 22:00:21,647 - Main - INFO - Task queue empty, task done
+2024-08-15 22:00:21,654 - Main - INFO - Config url crawl: https://tuoitre.vn/ find 6 docs
+2024-08-15 22:00:22,244 - Crawl - WARNING - ThreadPoolExecutor-0_1: https://tuoitre.vn//sung-sot-loai-xuong-rong-amazon-no-hoa-lan-dau-tien-tai-nuoc-anh-2021022410913153.htm Find element by xpath: List element empty
+2024-08-15 22:00:22,245 - Crawl - ERROR - ThreadPoolExecutor-0_1: Detect result false
+2024-08-15 22:00:22,247 - Crawl - WARNING - ThreadPoolExecutor-0_1: https://tuoitre.vn//sung-sot-loai-xuong-rong-amazon-no-hoa-lan-dau-tien-tai-nuoc-anh-2021022410913153.htm Find element by xpath: List element empty
+2024-08-15 22:00:22,248 - Crawl - ERROR - ThreadPoolExecutor-0_1: Detect result false
+2024-08-15 22:00:22,249 - Crawl - WARNING - ThreadPoolExecutor-0_1: https://tuoitre.vn//sung-sot-loai-xuong-rong-amazon-no-hoa-lan-dau-tien-tai-nuoc-anh-2021022410913153.htm Find element by xpath: List element empty
+2024-08-15 22:00:22,250 - Crawl - ERROR - ThreadPoolExecutor-0_1: Detect result false
+2024-08-15 22:00:22,252 - Crawl - WARNING - ThreadPoolExecutor-0_1: https://tuoitre.vn//sung-sot-loai-xuong-rong-amazon-no-hoa-lan-dau-tien-tai-nuoc-anh-2021022410913153.htm Find element by xpath: List element empty
+2024-08-15 22:00:22,253 - Crawl - ERROR - ThreadPoolExecutor-0_1: Detect result false
+2024-08-15 22:00:22,254 - Crawl - WARNING - ThreadPoolExecutor-0_1: https://tuoitre.vn//sung-sot-loai-xuong-rong-amazon-no-hoa-lan-dau-tien-tai-nuoc-anh-2021022410913153.htm Find element by xpath: List element empty
+2024-08-15 22:00:22,255 - Crawl - ERROR - ThreadPoolExecutor-0_1: Detect result false
+2024-08-15 22:00:22,256 - Crawl - WARNING - ThreadPoolExecutor-0_1: https://tuoitre.vn//sung-sot-loai-xuong-rong-amazon-no-hoa-lan-dau-tien-tai-nuoc-anh-2021022410913153.htm Find element by xpath: List element empty
+2024-08-15 22:00:22,256 - Crawl - ERROR - ThreadPoolExecutor-0_1: Detect result false
+2024-08-15 22:00:22,260 - Database - INFO - Inserted 6 docs
+2024-08-15 22:00:22,261 - Main - INFO - Task queue empty, task done
+2024-08-15 22:00:22,267 - Main - INFO - Config url crawl: https://dantri.com.vn/tin-moi-nhat.htm find 1 docs
+2024-08-15 22:00:22,483 - Database - INFO - Inserted 1 docs
+2024-08-15 22:00:22,484 - Main - INFO - Task queue empty, task done
+2024-08-15 22:00:22,490 - Database - WARNING - Find: Empry
+2024-08-15 22:00:22,491 - Main - INFO - Config url crawl: https://dantri.com.vn/kinh-doanh.htm find 0 docs
+2024-08-15 22:00:22,491 - Main - INFO - Task queue empty, task done
+2024-08-15 22:00:22,500 - Database - WARNING - Find: Empry
+2024-08-15 22:00:22,501 - Main - INFO - Config url crawl: https://dantri.com.vn/xa-hoi.htm find 0 docs
+2024-08-15 22:00:22,501 - Main - INFO - Task queue empty, task done
+2024-08-15 22:00:22,508 - Database - WARNING - Find: Empry
+2024-08-15 22:00:22,508 - Main - INFO - Config url crawl: https://dantri.com.vn/the-gioi.htm find 0 docs
+2024-08-15 22:00:22,509 - Main - INFO - Task queue empty, task done
+2024-08-15 22:00:22,515 - Database - WARNING - Find: Empry
+2024-08-15 22:00:22,516 - Main - INFO - Config url crawl: https://dantri.com.vn/giai-tri.htm find 0 docs
+2024-08-15 22:00:22,517 - Main - INFO - Task queue empty, task done
+2024-08-15 22:00:22,525 - Database - WARNING - Find: Empry
+2024-08-15 22:00:22,525 - Main - INFO - Config url crawl: https://dantri.com.vn/bat-dong-san.htm find 0 docs
+2024-08-15 22:00:22,526 - Main - INFO - Task queue empty, task done
+2024-08-15 22:00:22,532 - Database - WARNING - Find: Empry
+2024-08-15 22:00:22,533 - Main - INFO - Config url crawl: https://dantri.com.vn/the-thao.htm find 0 docs
+2024-08-15 22:00:22,533 - Main - INFO - Task queue empty, task done
+2024-08-15 22:00:22,541 - Database - WARNING - Find: Empry
+2024-08-15 22:00:22,542 - Main - INFO - Config url crawl: https://dantri.com.vn/lao-dong-viec-lam.htm find 0 docs
+2024-08-15 22:00:22,542 - Main - INFO - Task queue empty, task done
+2024-08-15 22:00:22,548 - Database - WARNING - Find: Empry
+2024-08-15 22:00:22,549 - Main - INFO - Config url crawl: https://dantri.com.vn/tam-long-nhan-ai.htm find 0 docs
+2024-08-15 22:00:22,550 - Main - INFO - Task queue empty, task done
+2024-08-15 22:00:22,555 - Database - WARNING - Find: Empry
+2024-08-15 22:00:22,556 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-khoe.htm find 0 docs
+2024-08-15 22:00:22,557 - Main - INFO - Task queue empty, task done
+2024-08-15 22:00:22,564 - Database - WARNING - Find: Empry
+2024-08-15 22:00:22,564 - Main - INFO - Config url crawl: https://dantri.com.vn/o-to-xe-may.htm find 0 docs
+2024-08-15 22:00:22,565 - Main - INFO - Task queue empty, task done
+2024-08-15 22:00:22,571 - Database - WARNING - Find: Empry
+2024-08-15 22:00:22,572 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-manh-so.htm find 0 docs
+2024-08-15 22:00:22,572 - Main - INFO - Task queue empty, task done
+2024-08-15 22:00:22,578 - Database - WARNING - Find: Empry
+2024-08-15 22:00:22,579 - Main - INFO - Config url crawl: https://dantri.com.vn/giao-duc.htm find 0 docs
+2024-08-15 22:00:22,580 - Main - INFO - Task queue empty, task done
+2024-08-15 22:00:22,587 - Database - WARNING - Find: Empry
+2024-08-15 22:00:22,588 - Main - INFO - Config url crawl: https://dantri.com.vn/an-sinh.htm find 0 docs
+2024-08-15 22:00:22,588 - Main - INFO - Task queue empty, task done
+2024-08-15 22:00:22,594 - Database - WARNING - Find: Empry
+2024-08-15 22:00:22,595 - Main - INFO - Config url crawl: https://dantri.com.vn/phap-luat.htm find 0 docs
+2024-08-15 22:00:22,596 - Main - INFO - Task queue empty, task done
+2024-08-15 22:30:32,714 - Main - INFO - __________________________________Run Crawl detail news
+2024-08-15 22:30:32,815 - Database - INFO - Connected database crawl_news
+2024-08-15 22:30:32,816 - Database - INFO - Connected collection urls_clean
+2024-08-15 22:30:32,818 - Database - INFO - Connected collection detail
+2024-08-15 22:30:32,826 - Database - WARNING - Find: Empry
+2024-08-15 22:30:32,827 - Main - INFO - Config url crawl: https://vnexpress.net/ find 0 docs
+2024-08-15 22:30:32,828 - Main - INFO - Task queue empty, task done
+2024-08-15 22:30:32,838 - Main - INFO - Config url crawl: https://tuoitre.vn/ find 5 docs
+2024-08-15 22:30:33,160 - Database - INFO - Inserted 5 docs
+2024-08-15 22:30:33,161 - Main - INFO - Task queue empty, task done
+2024-08-15 22:30:33,184 - Main - INFO - Config url crawl: https://dantri.com.vn/tin-moi-nhat.htm find 4 docs
+2024-08-15 22:30:33,863 - Database - INFO - Inserted 4 docs
+2024-08-15 22:30:33,865 - Main - INFO - Task queue empty, task done
+2024-08-15 22:30:33,890 - Database - WARNING - Find: Empry
+2024-08-15 22:30:33,891 - Main - INFO - Config url crawl: https://dantri.com.vn/kinh-doanh.htm find 0 docs
+2024-08-15 22:30:33,893 - Main - INFO - Task queue empty, task done
+2024-08-15 22:30:33,913 - Database - WARNING - Find: Empry
+2024-08-15 22:30:33,915 - Main - INFO - Config url crawl: https://dantri.com.vn/xa-hoi.htm find 0 docs
+2024-08-15 22:30:33,915 - Main - INFO - Task queue empty, task done
+2024-08-15 22:30:33,931 - Database - WARNING - Find: Empry
+2024-08-15 22:30:33,932 - Main - INFO - Config url crawl: https://dantri.com.vn/the-gioi.htm find 0 docs
+2024-08-15 22:30:33,933 - Main - INFO - Task queue empty, task done
+2024-08-15 22:30:33,948 - Database - WARNING - Find: Empry
+2024-08-15 22:30:33,949 - Main - INFO - Config url crawl: https://dantri.com.vn/giai-tri.htm find 0 docs
+2024-08-15 22:30:33,951 - Main - INFO - Task queue empty, task done
+2024-08-15 22:30:33,965 - Database - WARNING - Find: Empry
+2024-08-15 22:30:33,976 - Main - INFO - Config url crawl: https://dantri.com.vn/bat-dong-san.htm find 0 docs
+2024-08-15 22:30:33,977 - Main - INFO - Task queue empty, task done
+2024-08-15 22:30:33,998 - Database - WARNING - Find: Empry
+2024-08-15 22:30:34,002 - Main - INFO - Config url crawl: https://dantri.com.vn/the-thao.htm find 0 docs
+2024-08-15 22:30:34,004 - Main - INFO - Task queue empty, task done
+2024-08-15 22:30:34,014 - Database - WARNING - Find: Empry
+2024-08-15 22:30:34,015 - Main - INFO - Config url crawl: https://dantri.com.vn/lao-dong-viec-lam.htm find 0 docs
+2024-08-15 22:30:34,016 - Main - INFO - Task queue empty, task done
+2024-08-15 22:30:34,028 - Database - WARNING - Find: Empry
+2024-08-15 22:30:34,032 - Main - INFO - Config url crawl: https://dantri.com.vn/tam-long-nhan-ai.htm find 0 docs
+2024-08-15 22:30:34,035 - Main - INFO - Task queue empty, task done
+2024-08-15 22:30:34,046 - Database - WARNING - Find: Empry
+2024-08-15 22:30:34,048 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-khoe.htm find 0 docs
+2024-08-15 22:30:34,054 - Main - INFO - Task queue empty, task done
+2024-08-15 22:30:34,065 - Database - WARNING - Find: Empry
+2024-08-15 22:30:34,067 - Main - INFO - Config url crawl: https://dantri.com.vn/o-to-xe-may.htm find 0 docs
+2024-08-15 22:30:34,070 - Main - INFO - Task queue empty, task done
+2024-08-15 22:30:34,082 - Database - WARNING - Find: Empry
+2024-08-15 22:30:34,082 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-manh-so.htm find 0 docs
+2024-08-15 22:30:34,083 - Main - INFO - Task queue empty, task done
+2024-08-15 22:30:34,099 - Database - WARNING - Find: Empry
+2024-08-15 22:30:34,101 - Main - INFO - Config url crawl: https://dantri.com.vn/giao-duc.htm find 0 docs
+2024-08-15 22:30:34,102 - Main - INFO - Task queue empty, task done
+2024-08-15 22:30:34,117 - Database - WARNING - Find: Empry
+2024-08-15 22:30:34,118 - Main - INFO - Config url crawl: https://dantri.com.vn/an-sinh.htm find 0 docs
+2024-08-15 22:30:34,119 - Main - INFO - Task queue empty, task done
+2024-08-15 22:30:34,132 - Database - WARNING - Find: Empry
+2024-08-15 22:30:34,133 - Main - INFO - Config url crawl: https://dantri.com.vn/phap-luat.htm find 0 docs
+2024-08-15 22:30:34,134 - Main - INFO - Task queue empty, task done
+2024-08-15 23:00:38,741 - Main - INFO - __________________________________Run Crawl detail news
+2024-08-15 23:00:38,967 - Database - INFO - Connected database crawl_news
+2024-08-15 23:00:38,986 - Database - INFO - Connected collection urls_clean
+2024-08-15 23:00:38,999 - Database - INFO - Connected collection detail
+2024-08-15 23:00:39,061 - Database - WARNING - Find: Empry
+2024-08-15 23:00:39,065 - Main - INFO - Config url crawl: https://vnexpress.net/ find 0 docs
+2024-08-15 23:00:39,083 - Main - INFO - Task queue empty, task done
+2024-08-15 23:00:39,102 - Main - INFO - Config url crawl: https://tuoitre.vn/ find 4 docs
+2024-08-15 23:00:39,772 - Database - INFO - Inserted 4 docs
+2024-08-15 23:00:39,781 - Main - INFO - Task queue empty, task done
+2024-08-15 23:00:39,807 - Main - INFO - Config url crawl: https://dantri.com.vn/tin-moi-nhat.htm find 1 docs
+2024-08-15 23:00:40,246 - Database - INFO - Inserted 1 docs
+2024-08-15 23:00:40,260 - Main - INFO - Task queue empty, task done
+2024-08-15 23:00:40,317 - Database - WARNING - Find: Empry
+2024-08-15 23:00:40,577 - Main - INFO - Config url crawl: https://dantri.com.vn/kinh-doanh.htm find 0 docs
+2024-08-15 23:00:40,581 - Main - INFO - Task queue empty, task done
+2024-08-15 23:00:40,629 - Database - WARNING - Find: Empry
+2024-08-15 23:00:40,644 - Main - INFO - Config url crawl: https://dantri.com.vn/xa-hoi.htm find 0 docs
+2024-08-15 23:00:40,678 - Main - INFO - Task queue empty, task done
+2024-08-15 23:00:40,706 - Database - WARNING - Find: Empry
+2024-08-15 23:00:40,723 - Main - INFO - Config url crawl: https://dantri.com.vn/the-gioi.htm find 0 docs
+2024-08-15 23:00:40,726 - Main - INFO - Task queue empty, task done
+2024-08-15 23:00:40,745 - Database - WARNING - Find: Empry
+2024-08-15 23:00:40,747 - Main - INFO - Config url crawl: https://dantri.com.vn/giai-tri.htm find 0 docs
+2024-08-15 23:00:40,758 - Main - INFO - Task queue empty, task done
+2024-08-15 23:00:40,787 - Database - WARNING - Find: Empry
+2024-08-15 23:00:40,790 - Main - INFO - Config url crawl: https://dantri.com.vn/bat-dong-san.htm find 0 docs
+2024-08-15 23:00:40,796 - Main - INFO - Task queue empty, task done
+2024-08-15 23:00:40,824 - Database - WARNING - Find: Empry
+2024-08-15 23:00:40,829 - Main - INFO - Config url crawl: https://dantri.com.vn/the-thao.htm find 0 docs
+2024-08-15 23:00:40,831 - Main - INFO - Task queue empty, task done
+2024-08-15 23:00:40,856 - Database - WARNING - Find: Empry
+2024-08-15 23:00:40,858 - Main - INFO - Config url crawl: https://dantri.com.vn/lao-dong-viec-lam.htm find 0 docs
+2024-08-15 23:00:40,860 - Main - INFO - Task queue empty, task done
+2024-08-15 23:00:40,877 - Database - WARNING - Find: Empry
+2024-08-15 23:00:40,881 - Main - INFO - Config url crawl: https://dantri.com.vn/tam-long-nhan-ai.htm find 0 docs
+2024-08-15 23:00:40,889 - Main - INFO - Task queue empty, task done
+2024-08-15 23:00:40,923 - Database - WARNING - Find: Empry
+2024-08-15 23:00:40,925 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-khoe.htm find 0 docs
+2024-08-15 23:00:40,940 - Main - INFO - Task queue empty, task done
+2024-08-15 23:00:40,973 - Database - WARNING - Find: Empry
+2024-08-15 23:00:41,047 - Main - INFO - Config url crawl: https://dantri.com.vn/o-to-xe-may.htm find 0 docs
+2024-08-15 23:00:41,210 - Main - INFO - Task queue empty, task done
+2024-08-15 23:00:41,236 - Database - WARNING - Find: Empry
+2024-08-15 23:00:41,243 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-manh-so.htm find 0 docs
+2024-08-15 23:00:41,258 - Main - INFO - Task queue empty, task done
+2024-08-15 23:00:41,279 - Database - WARNING - Find: Empry
+2024-08-15 23:00:41,328 - Main - INFO - Config url crawl: https://dantri.com.vn/giao-duc.htm find 0 docs
+2024-08-15 23:00:41,339 - Main - INFO - Task queue empty, task done
+2024-08-15 23:00:41,361 - Database - WARNING - Find: Empry
+2024-08-15 23:00:41,366 - Main - INFO - Config url crawl: https://dantri.com.vn/an-sinh.htm find 0 docs
+2024-08-15 23:00:41,385 - Main - INFO - Task queue empty, task done
+2024-08-15 23:00:41,406 - Database - WARNING - Find: Empry
+2024-08-15 23:00:41,419 - Main - INFO - Config url crawl: https://dantri.com.vn/phap-luat.htm find 0 docs
+2024-08-15 23:00:41,421 - Main - INFO - Task queue empty, task done
+2024-08-15 23:30:29,225 - Main - INFO - __________________________________Run Crawl detail news
+2024-08-15 23:30:29,271 - Database - INFO - Connected database crawl_news
+2024-08-15 23:30:29,272 - Database - INFO - Connected collection urls_clean
+2024-08-15 23:30:29,274 - Database - INFO - Connected collection detail
+2024-08-15 23:30:29,287 - Database - WARNING - Find: Empry
+2024-08-15 23:30:29,287 - Main - INFO - Config url crawl: https://vnexpress.net/ find 0 docs
+2024-08-15 23:30:29,288 - Main - INFO - Task queue empty, task done
+2024-08-15 23:30:29,295 - Main - INFO - Config url crawl: https://tuoitre.vn/ find 6 docs
+2024-08-15 23:30:29,608 - Crawl - WARNING - ThreadPoolExecutor-0_2: https://tuoitre.vn//thung-lung-silicon-cua-da-nang-hien-dang-the-nao-20240815170449591.htm Find element by xpath: List element empty
+2024-08-15 23:30:29,613 - Crawl - ERROR - ThreadPoolExecutor-0_2: Detect result false
+2024-08-15 23:30:29,761 - Database - INFO - Inserted 6 docs
+2024-08-15 23:30:29,763 - Main - INFO - Task queue empty, task done
+2024-08-15 23:30:29,776 - Database - WARNING - Find: Empry
+2024-08-15 23:30:29,777 - Main - INFO - Config url crawl: https://dantri.com.vn/tin-moi-nhat.htm find 0 docs
+2024-08-15 23:30:29,778 - Main - INFO - Task queue empty, task done
+2024-08-15 23:30:29,817 - Database - WARNING - Find: Empry
+2024-08-15 23:30:29,818 - Main - INFO - Config url crawl: https://dantri.com.vn/kinh-doanh.htm find 0 docs
+2024-08-15 23:30:29,821 - Main - INFO - Task queue empty, task done
+2024-08-15 23:30:29,838 - Database - WARNING - Find: Empry
+2024-08-15 23:30:29,839 - Main - INFO - Config url crawl: https://dantri.com.vn/xa-hoi.htm find 0 docs
+2024-08-15 23:30:29,841 - Main - INFO - Task queue empty, task done
+2024-08-15 23:30:29,854 - Database - WARNING - Find: Empry
+2024-08-15 23:30:29,855 - Main - INFO - Config url crawl: https://dantri.com.vn/the-gioi.htm find 0 docs
+2024-08-15 23:30:29,856 - Main - INFO - Task queue empty, task done
+2024-08-15 23:30:29,867 - Database - WARNING - Find: Empry
+2024-08-15 23:30:29,868 - Main - INFO - Config url crawl: https://dantri.com.vn/giai-tri.htm find 0 docs
+2024-08-15 23:30:29,869 - Main - INFO - Task queue empty, task done
+2024-08-15 23:30:29,879 - Database - WARNING - Find: Empry
+2024-08-15 23:30:29,880 - Main - INFO - Config url crawl: https://dantri.com.vn/bat-dong-san.htm find 0 docs
+2024-08-15 23:30:29,881 - Main - INFO - Task queue empty, task done
+2024-08-15 23:30:29,891 - Database - WARNING - Find: Empry
+2024-08-15 23:30:29,892 - Main - INFO - Config url crawl: https://dantri.com.vn/the-thao.htm find 0 docs
+2024-08-15 23:30:29,893 - Main - INFO - Task queue empty, task done
+2024-08-15 23:30:29,903 - Database - WARNING - Find: Empry
+2024-08-15 23:30:29,905 - Main - INFO - Config url crawl: https://dantri.com.vn/lao-dong-viec-lam.htm find 0 docs
+2024-08-15 23:30:29,906 - Main - INFO - Task queue empty, task done
+2024-08-15 23:30:29,916 - Database - WARNING - Find: Empry
+2024-08-15 23:30:29,917 - Main - INFO - Config url crawl: https://dantri.com.vn/tam-long-nhan-ai.htm find 0 docs
+2024-08-15 23:30:29,918 - Main - INFO - Task queue empty, task done
+2024-08-15 23:30:29,926 - Database - WARNING - Find: Empry
+2024-08-15 23:30:29,926 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-khoe.htm find 0 docs
+2024-08-15 23:30:29,927 - Main - INFO - Task queue empty, task done
+2024-08-15 23:30:29,936 - Database - WARNING - Find: Empry
+2024-08-15 23:30:29,937 - Main - INFO - Config url crawl: https://dantri.com.vn/o-to-xe-may.htm find 0 docs
+2024-08-15 23:30:29,938 - Main - INFO - Task queue empty, task done
+2024-08-15 23:30:29,948 - Database - WARNING - Find: Empry
+2024-08-15 23:30:29,949 - Main - INFO - Config url crawl: https://dantri.com.vn/suc-manh-so.htm find 0 docs
+2024-08-15 23:30:29,950 - Main - INFO - Task queue empty, task done
+2024-08-15 23:30:29,960 - Database - WARNING - Find: Empry
+2024-08-15 23:30:29,971 - Main - INFO - Config url crawl: https://dantri.com.vn/giao-duc.htm find 0 docs
+2024-08-15 23:30:29,973 - Main - INFO - Task queue empty, task done
+2024-08-15 23:30:29,990 - Database - WARNING - Find: Empry
+2024-08-15 23:30:30,003 - Main - INFO - Config url crawl: https://dantri.com.vn/an-sinh.htm find 0 docs
+2024-08-15 23:30:30,005 - Main - INFO - Task queue empty, task done
+2024-08-15 23:30:30,015 - Database - WARNING - Find: Empry
+2024-08-15 23:30:30,016 - Main - INFO - Config url crawl: https://dantri.com.vn/phap-luat.htm find 0 docs
+2024-08-15 23:30:30,017 - Main - INFO - Task queue empty, task done

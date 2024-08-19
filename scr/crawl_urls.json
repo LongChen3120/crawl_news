@@ -1,0 +1,104 @@
+[
+    {
+        "type_crawl":1,
+        "website": "https://vnexpress.net/",
+        "url_crawl":"https://vnexpress.net/",
+        "xpath": "//a[substring(@href, string-length(@href) - string-length('.html') + 1)  = '.html' and not(@class = 'cat')]"
+    },
+    {
+        "type_crawl":1,
+        "website": "https://tuoitre.vn/",
+        "url_crawl":"https://tuoitre.vn/",
+        "xpath": "//*[@data-type = '1' or @data-type = '0']"
+    },
+    {
+        "type_crawl":1,
+        "website": "https://dantri.com.vn/",
+        "url_crawl":"https://dantri.com.vn/tin-moi-nhat.htm",
+        "xpath": "//*[@class = 'article-title']//a"
+    },
+    {
+        "type_crawl":1,
+        "website": "https://dantri.com.vn/",
+        "url_crawl":"https://dantri.com.vn/kinh-doanh.htm",
+        "xpath": "//*[@class = 'article-title']//a"
+    },
+    {
+        "type_crawl":1,
+        "website": "https://dantri.com.vn/",
+        "url_crawl":"https://dantri.com.vn/xa-hoi.htm",
+        "xpath": "//*[@class = 'article-title']//a"
+    },
+    {
+        "type_crawl":1,
+        "website": "https://dantri.com.vn/",
+        "url_crawl":"https://dantri.com.vn/the-gioi.htm",
+        "xpath": "//*[@class = 'article-title']//a"
+    },
+    {
+        "type_crawl":1,
+        "website": "https://dantri.com.vn/",
+        "url_crawl":"https://dantri.com.vn/giai-tri.htm",
+        "xpath": "//*[@class = 'article-title']//a"
+    },
+    {
+        "type_crawl":1,
+        "website": "https://dantri.com.vn/",
+        "url_crawl":"https://dantri.com.vn/bat-dong-san.htm",
+        "xpath": "//*[@class = 'article-title']//a"
+    },
+    {
+        "type_crawl":1,
+        "website": "https://dantri.com.vn/",
+        "url_crawl":"https://dantri.com.vn/the-thao.htm",
+        "xpath": "//*[@class = 'article-title']//a"
+    },
+    {
+        "type_crawl":1,
+        "website": "https://dantri.com.vn/",
+        "url_crawl":"https://dantri.com.vn/lao-dong-viec-lam.htm",
+        "xpath": "//*[@class = 'article-title']//a"
+    },
+    {
+        "type_crawl":1,
+        "website": "https://dantri.com.vn/",
+        "url_crawl":"https://dantri.com.vn/tam-long-nhan-ai.htm",
+        "xpath": "//*[@data-seo= 'article-title']//a"
+    },
+    {
+        "type_crawl":1,
+        "website": "https://dantri.com.vn/",
+        "url_crawl":"https://dantri.com.vn/suc-khoe.htm",
+        "xpath": "//*[@class = 'article-title']//a"
+    },
+    {
+        "type_crawl":1,
+        "website": "https://dantri.com.vn/",
+        "url_crawl":"https://dantri.com.vn/o-to-xe-may.htm",
+        "xpath": "//*[@class = 'article-title']//a"
+    },
+    {
+        "type_crawl":1,
+        "website": "https://dantri.com.vn/",
+        "url_crawl":"https://dantri.com.vn/suc-manh-so.htm",
+        "xpath": "//*[@class = 'article-title']//a"
+    },
+    {
+        "type_crawl":1,
+        "website": "https://dantri.com.vn/",
+        "url_crawl":"https://dantri.com.vn/giao-duc.htm",
+        "xpath": "//*[@class = 'article-title']//a"
+    },
+    {
+        "type_crawl":1,
+        "website": "https://dantri.com.vn/",
+        "url_crawl":"https://dantri.com.vn/an-sinh.htm",
+        "xpath": "//*[@class = 'article-title']//a"
+    },
+    {
+        "type_crawl":1,
+        "website": "https://dantri.com.vn/",
+        "url_crawl":"https://dantri.com.vn/phap-luat.htm",
+        "xpath": "//*[@class = 'article-title']//a"
+    }
+]

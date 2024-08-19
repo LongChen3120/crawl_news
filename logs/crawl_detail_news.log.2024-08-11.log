@@ -1,0 +1,20 @@
+2024-08-12 00:00:15,226 - Database - INFO - Connected database crawl_news
+2024-08-12 00:00:15,235 - Database - INFO - Connected collection urls_clean
+2024-08-12 00:00:15,236 - Database - INFO - Connected collection detail
+2024-08-12 00:00:15,365 - Database - INFO - Inserted 2 docs
+2024-08-12 00:00:15,778 - Database - INFO - Inserted 8 docs
+2024-08-12 00:00:15,873 - Database - INFO - Inserted 1 docs
+2024-08-12 00:00:15,891 - Database - WARNING - Find: Empry
+2024-08-12 00:00:15,897 - Database - WARNING - Find: Empry
+2024-08-12 00:00:15,903 - Database - WARNING - Find: Empry
+2024-08-12 00:00:15,937 - Database - WARNING - Find: Empry
+2024-08-12 00:00:15,943 - Database - WARNING - Find: Empry
+2024-08-12 00:00:16,054 - Database - INFO - Inserted 1 docs
+2024-08-12 00:00:16,060 - Database - WARNING - Find: Empry
+2024-08-12 00:00:16,066 - Database - WARNING - Find: Empry
+2024-08-12 00:00:16,072 - Database - WARNING - Find: Empry
+2024-08-12 00:00:16,079 - Database - WARNING - Find: Empry
+2024-08-12 00:00:16,087 - Database - WARNING - Find: Empry
+2024-08-12 00:00:16,094 - Database - WARNING - Find: Empry
+2024-08-12 00:00:16,100 - Database - WARNING - Find: Empry
+2024-08-12 00:00:16,107 - Database - WARNING - Find: Empry

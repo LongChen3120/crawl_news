@@ -1,0 +1,750 @@
+[
+    {
+        "type_crawl":1,
+        "website": "https://vnexpress.net/",
+        "url_crawl":"https://vnexpress.net/",
+        "obj_crawl":[
+            {
+                "type": 1,
+                "xpath": "//*[@class = 'title-detail']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 2,
+                "xpath": "//*[@class = 'description']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 3,
+                "xpath": "//*[@class = 'fck_detail ']/p[@class = 'Normal']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 4,
+                "xpath": "//*[@class = 'fck_detail ']//img",
+                "type_result": 7,
+                "type_output": 11,
+                "name_attribute": "data-src"
+            },
+            {
+                "type": 5,
+                "xpath": "//*[@class = 'date']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 7,
+                "xpath": "//*[@class = 'fck_detail ']/*[@class = 'author_mail' or @style = 'text-align:right;']",
+                "type_result": 7,
+                "type_output": 3
+            }
+        ]
+    },
+    {
+        "type_crawl":1,
+        "website": "https://tuoitre.vn/",
+        "url_crawl":"https://tuoitre.vn/",
+        "obj_crawl":[
+            {
+                "type": 1,
+                "xpath": "//*[@class = 'detail__cmain']/*[@class = 'detail-title article-title']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 2,
+                "xpath": "//*[@class = 'detail__cmain']/*[@class = 'detail-sapo']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 3,
+                "xpath": "//*[@class = 'detail__cmain']//*[@class = 'detail-content afcbc-body']/p",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 4,
+                "xpath": "//*[@class = 'detail__cmain']//*[@class = 'detail-content afcbc-body']/*[not(@type = 'RelatedOneNews')]//img",
+                "type_result": 7,
+                "type_output": 11,
+                "name_attribute": "src"
+            },
+            {
+                "type": 5,
+                "xpath": "//*[@class = 'detail__cmain']//*[@data-role= 'publishdate']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 7,
+                "xpath": "//*[@class = 'detail__cmain']//*[@class= 'author-info']",
+                "type_result": 7,
+                "type_output": 3
+            }
+        ]
+    },
+    {
+        "type_crawl":1,
+        "website": "https://dantri.com.vn/",
+        "url_crawl":"https://dantri.com.vn/tin-moi-nhat.htm",
+        "obj_crawl":[
+            {
+                "type": 1,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'title-page detail']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 2,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-sapo']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 3,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-content']/p",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 4,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-content']//img",
+                "type_result": 7,
+                "type_output": 11,
+                "name_attribute": "data-original"
+            },
+            {
+                "type": 5,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'author-time']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 7,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'author-name']",
+                "type_result": 7,
+                "type_output": 3
+            }
+        ]
+    },
+    {
+        "type_crawl":1,
+        "website": "https://dantri.com.vn/",
+        "url_crawl":"https://dantri.com.vn/kinh-doanh.htm",
+        "obj_crawl":[
+            {
+                "type": 1,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'title-page detail']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 2,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-sapo']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 3,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-content']/p",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 4,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-content']//img",
+                "type_result": 7,
+                "type_output": 11,
+                "name_attribute": "data-original"
+            },
+            {
+                "type": 5,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'author-time']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 7,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'author-name']",
+                "type_result": 7,
+                "type_output": 3
+            }
+        ]
+    },
+    {
+        "type_crawl":1,
+        "website": "https://dantri.com.vn/",
+        "url_crawl":"https://dantri.com.vn/xa-hoi.htm",
+        "obj_crawl":[
+            {
+                "type": 1,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'title-page detail']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 2,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-sapo']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 3,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-content']/p",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 4,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-content']//img",
+                "type_result": 7,
+                "type_output": 11,
+                "name_attribute": "data-original"
+            },
+            {
+                "type": 5,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'author-time']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 7,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'author-name']",
+                "type_result": 7,
+                "type_output": 3
+            }
+        ]
+    },
+    {
+        "type_crawl":1,
+        "website": "https://dantri.com.vn/",
+        "url_crawl":"https://dantri.com.vn/the-gioi.htm",
+        "obj_crawl":[
+            {
+                "type": 1,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'title-page detail']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 2,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-sapo']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 3,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-content']/p",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 4,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-content']//img",
+                "type_result": 7,
+                "type_output": 11,
+                "name_attribute": "data-original"
+            },
+            {
+                "type": 5,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'author-time']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 7,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'author-name']",
+                "type_result": 7,
+                "type_output": 3
+            }
+        ]
+    },
+    {
+        "type_crawl":1,
+        "website": "https://dantri.com.vn/",
+        "url_crawl":"https://dantri.com.vn/giai-tri.htm",
+        "obj_crawl":[
+            {
+                "type": 1,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'title-page detail']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 2,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-sapo']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 3,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-content']/p",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 4,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-content']//img",
+                "type_result": 7,
+                "type_output": 11,
+                "name_attribute": "data-original"
+            },
+            {
+                "type": 5,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'author-time']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 7,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'author-name']",
+                "type_result": 7,
+                "type_output": 3
+            }
+        ]
+    },
+    {
+        "type_crawl":1,
+        "website": "https://dantri.com.vn/",
+        "url_crawl":"https://dantri.com.vn/bat-dong-san.htm",
+        "obj_crawl":[
+            {
+                "type": 1,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'title-page detail']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 2,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-sapo']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 3,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-content']/p",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 4,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-content']//img",
+                "type_result": 7,
+                "type_output": 11,
+                "name_attribute": "data-original"
+            },
+            {
+                "type": 5,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'author-time']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 7,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'author-name']",
+                "type_result": 7,
+                "type_output": 3
+            }
+        ]
+    },
+    {
+        "type_crawl":1,
+        "website": "https://dantri.com.vn/",
+        "url_crawl":"https://dantri.com.vn/the-thao.htm",
+        "obj_crawl":[
+            {
+                "type": 1,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'title-page detail']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 2,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-sapo']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 3,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-content']/p",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 4,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-content']//img",
+                "type_result": 7,
+                "type_output": 11,
+                "name_attribute": "data-original"
+            },
+            {
+                "type": 5,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'author-time']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 7,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'author-name']",
+                "type_result": 7,
+                "type_output": 3
+            }
+        ]
+    },
+    {
+        "type_crawl":1,
+        "website": "https://dantri.com.vn/",
+        "url_crawl":"https://dantri.com.vn/lao-dong-viec-lam.htm",
+        "obj_crawl":[
+            {
+                "type": 1,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'title-page detail']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 2,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-sapo']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 3,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-content']/p",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 4,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-content']//img",
+                "type_result": 7,
+                "type_output": 11,
+                "name_attribute": "data-original"
+            },
+            {
+                "type": 5,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'author-time']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 7,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'author-name']",
+                "type_result": 7,
+                "type_output": 3
+            }
+        ]
+    },
+    {
+        "type_crawl":1,
+        "website": "https://dantri.com.vn/",
+        "url_crawl":"https://dantri.com.vn/tam-long-nhan-ai.htm",
+        "obj_crawl":[
+            {
+                "type": 1,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'title-page detail']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 2,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-sapo']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 3,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-content']/p",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 4,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-content']//img",
+                "type_result": 7,
+                "type_output": 11,
+                "name_attribute": "data-original"
+            },
+            {
+                "type": 5,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'author-time']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 7,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'author-name']",
+                "type_result": 7,
+                "type_output": 3
+            }
+        ]
+    },
+    {
+        "type_crawl":1,
+        "website": "https://dantri.com.vn/",
+        "url_crawl":"https://dantri.com.vn/suc-khoe.htm",
+        "obj_crawl":[
+            {
+                "type": 1,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'title-page detail']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 2,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-sapo']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 3,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-content']/p",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 4,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-content']//img",
+                "type_result": 7,
+                "type_output": 11,
+                "name_attribute": "data-original"
+            },
+            {
+                "type": 5,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'author-time']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 7,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'author-name']",
+                "type_result": 7,
+                "type_output": 3
+            }
+        ]
+    },
+    {
+        "type_crawl":1,
+        "website": "https://dantri.com.vn/",
+        "url_crawl":"https://dantri.com.vn/o-to-xe-may.htm",
+        "obj_crawl":[
+            {
+                "type": 1,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'title-page detail']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 2,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-sapo']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 3,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-content']/p",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 4,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-content']//img",
+                "type_result": 7,
+                "type_output": 11,
+                "name_attribute": "data-original"
+            },
+            {
+                "type": 5,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'author-time']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 7,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'author-name']",
+                "type_result": 7,
+                "type_output": 3
+            }
+        ]
+    },
+    {
+        "type_crawl":1,
+        "website": "https://dantri.com.vn/",
+        "url_crawl":"https://dantri.com.vn/suc-manh-so.htm",
+        "obj_crawl":[
+            {
+                "type": 1,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'title-page detail']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 2,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-sapo']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 3,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-content']/p",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 4,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-content']//img",
+                "type_result": 7,
+                "type_output": 11,
+                "name_attribute": "data-original"
+            },
+            {
+                "type": 5,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'author-time']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 7,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'author-name']",
+                "type_result": 7,
+                "type_output": 3
+            }
+        ]
+    },
+    {
+        "type_crawl":1,
+        "website": "https://dantri.com.vn/",
+        "url_crawl":"https://dantri.com.vn/giao-duc.htm",
+        "obj_crawl":[
+            {
+                "type": 1,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'title-page detail']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 2,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-sapo']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 3,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-content']/p",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 4,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-content']//img",
+                "type_result": 7,
+                "type_output": 11,
+                "name_attribute": "data-original"
+            },
+            {
+                "type": 5,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'author-time']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 7,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'author-name']",
+                "type_result": 7,
+                "type_output": 3
+            }
+        ]
+    },
+    {
+        "type_crawl":1,
+        "website": "https://dantri.com.vn/",
+        "url_crawl":"https://dantri.com.vn/an-sinh.htm",
+        "obj_crawl":[
+            {
+                "type": 1,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'title-page detail']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 2,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-sapo']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 3,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-content']/p",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 4,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-content']//img",
+                "type_result": 7,
+                "type_output": 11,
+                "name_attribute": "data-original"
+            },
+            {
+                "type": 5,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'author-time']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 7,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'author-name']",
+                "type_result": 7,
+                "type_output": 3
+            }
+        ]
+    },
+    {
+        "type_crawl":1,
+        "website": "https://dantri.com.vn/",
+        "url_crawl":"https://dantri.com.vn/phap-luat.htm",
+        "obj_crawl":[
+            {
+                "type": 1,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'title-page detail']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 2,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-sapo']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 3,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-content']/p",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 4,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'singular-content']//img",
+                "type_result": 7,
+                "type_output": 11,
+                "name_attribute": "data-original"
+            },
+            {
+                "type": 5,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'author-time']",
+                "type_result": 7,
+                "type_output": 3
+            },
+            {
+                "type": 7,
+                "xpath": "//*[@class = 'singular-container']//*[@class= 'author-name']",
+                "type_result": 7,
+                "type_output": 3
+            }
+        ]
+    }
+]

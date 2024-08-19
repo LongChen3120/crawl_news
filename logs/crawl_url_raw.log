@@ -1,0 +1,390 @@
+2024-08-15 15:21:26,931 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/tin-moi-nhat.htm return 17 docs
+2024-08-15 15:21:26,991 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://tuoitre.vn/ return 82 docs
+2024-08-15 15:21:27,296 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/kinh-doanh.htm return 43 docs
+2024-08-15 15:21:27,340 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/xa-hoi.htm return 42 docs
+2024-08-15 15:21:27,365 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/the-gioi.htm return 41 docs
+2024-08-15 15:21:27,454 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/bat-dong-san.htm return 43 docs
+2024-08-15 15:21:27,485 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/giai-tri.htm return 42 docs
+2024-08-15 15:21:27,525 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/the-thao.htm return 42 docs
+2024-08-15 15:21:27,594 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/lao-dong-viec-lam.htm return 32 docs
+2024-08-15 15:21:27,632 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/tam-long-nhan-ai.htm return 28 docs
+2024-08-15 15:21:27,711 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/suc-khoe.htm return 51 docs
+2024-08-15 15:21:27,765 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/o-to-xe-may.htm return 34 docs
+2024-08-15 15:21:27,783 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/suc-manh-so.htm return 31 docs
+2024-08-15 15:21:27,851 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/giao-duc.htm return 40 docs
+2024-08-15 15:21:27,891 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/an-sinh.htm return 27 docs
+2024-08-15 15:21:27,900 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/phap-luat.htm return 34 docs
+2024-08-15 15:30:04,579 - Main - INFO - __________________________________Run Crawl URL raw
+2024-08-15 15:30:04,604 - Database - INFO - Connected database crawl_news
+2024-08-15 15:30:04,606 - Database - INFO - Connected collection urls_raw
+2024-08-15 15:30:04,697 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/tin-moi-nhat.htm return 17 docs
+2024-08-15 15:30:04,712 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://vnexpress.net/ return 28 docs
+2024-08-15 15:30:04,799 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/kinh-doanh.htm return 42 docs
+2024-08-15 15:30:04,823 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://tuoitre.vn/ return 82 docs
+2024-08-15 15:30:04,842 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/xa-hoi.htm return 42 docs
+2024-08-15 15:30:04,896 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/the-gioi.htm return 41 docs
+2024-08-15 15:30:04,924 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/giai-tri.htm return 42 docs
+2024-08-15 15:30:04,951 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/bat-dong-san.htm return 43 docs
+2024-08-15 15:30:05,064 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/the-thao.htm return 42 docs
+2024-08-15 15:30:05,107 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/lao-dong-viec-lam.htm return 32 docs
+2024-08-15 15:30:05,128 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/tam-long-nhan-ai.htm return 28 docs
+2024-08-15 15:30:05,206 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/suc-khoe.htm return 51 docs
+2024-08-15 15:30:05,297 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/suc-manh-so.htm return 31 docs
+2024-08-15 15:30:05,301 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/o-to-xe-may.htm return 34 docs
+2024-08-15 15:30:05,376 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/giao-duc.htm return 40 docs
+2024-08-15 15:30:05,398 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/phap-luat.htm return 34 docs
+2024-08-15 15:30:05,408 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/an-sinh.htm return 27 docs
+2024-08-15 15:30:05,426 - Database - INFO - Inserted 656 docs
+2024-08-15 15:30:05,427 - Main - INFO - Task queue empty, task done
+2024-08-15 16:00:07,142 - Main - INFO - __________________________________Run Crawl URL raw
+2024-08-15 16:00:07,438 - Database - INFO - Connected database crawl_news
+2024-08-15 16:00:07,442 - Database - INFO - Connected collection urls_raw
+2024-08-15 16:00:07,562 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://vnexpress.net/ return 27 docs
+2024-08-15 16:00:07,602 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/tin-moi-nhat.htm return 17 docs
+2024-08-15 16:00:07,693 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/kinh-doanh.htm return 41 docs
+2024-08-15 16:00:07,723 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://tuoitre.vn/ return 82 docs
+2024-08-15 16:00:07,748 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/xa-hoi.htm return 42 docs
+2024-08-15 16:00:07,803 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/the-gioi.htm return 41 docs
+2024-08-15 16:00:07,898 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/giai-tri.htm return 41 docs
+2024-08-15 16:00:07,935 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/bat-dong-san.htm return 43 docs
+2024-08-15 16:00:07,971 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/the-thao.htm return 42 docs
+2024-08-15 16:00:08,047 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/lao-dong-viec-lam.htm return 32 docs
+2024-08-15 16:00:08,053 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/tam-long-nhan-ai.htm return 28 docs
+2024-08-15 16:00:08,089 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/suc-khoe.htm return 51 docs
+2024-08-15 16:00:08,205 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/suc-manh-so.htm return 31 docs
+2024-08-15 16:00:08,217 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/o-to-xe-may.htm return 35 docs
+2024-08-15 16:00:08,235 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/giao-duc.htm return 40 docs
+2024-08-15 16:00:08,353 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/an-sinh.htm return 26 docs
+2024-08-15 16:00:08,376 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/phap-luat.htm return 35 docs
+2024-08-15 16:00:08,420 - Database - INFO - Inserted 654 docs
+2024-08-15 16:00:08,421 - Main - INFO - Task queue empty, task done
+2024-08-15 16:30:07,307 - Main - INFO - __________________________________Run Crawl URL raw
+2024-08-15 16:30:07,342 - Database - INFO - Connected database crawl_news
+2024-08-15 16:30:07,347 - Database - INFO - Connected collection urls_raw
+2024-08-15 16:30:07,484 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/tin-moi-nhat.htm return 17 docs
+2024-08-15 16:30:07,497 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://vnexpress.net/ return 27 docs
+2024-08-15 16:30:07,607 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://tuoitre.vn/ return 83 docs
+2024-08-15 16:30:07,633 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/kinh-doanh.htm return 40 docs
+2024-08-15 16:30:07,648 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/xa-hoi.htm return 43 docs
+2024-08-15 16:30:07,788 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/the-gioi.htm return 41 docs
+2024-08-15 16:30:07,897 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/giai-tri.htm return 42 docs
+2024-08-15 16:30:07,922 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/bat-dong-san.htm return 43 docs
+2024-08-15 16:30:07,941 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/the-thao.htm return 42 docs
+2024-08-15 16:30:08,014 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/lao-dong-viec-lam.htm return 32 docs
+2024-08-15 16:30:08,040 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/tam-long-nhan-ai.htm return 28 docs
+2024-08-15 16:30:08,060 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/suc-khoe.htm return 51 docs
+2024-08-15 16:30:08,225 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/suc-manh-so.htm return 31 docs
+2024-08-15 16:30:08,258 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/o-to-xe-may.htm return 35 docs
+2024-08-15 16:30:08,285 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/giao-duc.htm return 40 docs
+2024-08-15 16:30:08,357 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/an-sinh.htm return 26 docs
+2024-08-15 16:30:08,370 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/phap-luat.htm return 36 docs
+2024-08-15 16:30:08,392 - Database - INFO - Inserted 657 docs
+2024-08-15 16:30:08,393 - Main - INFO - Task queue empty, task done
+2024-08-15 17:00:05,438 - Main - INFO - __________________________________Run Crawl URL raw
+2024-08-15 17:00:05,690 - Database - INFO - Connected database crawl_news
+2024-08-15 17:00:05,697 - Database - INFO - Connected collection urls_raw
+2024-08-15 17:00:05,953 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://vnexpress.net/ return 27 docs
+2024-08-15 17:00:06,019 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/tin-moi-nhat.htm return 17 docs
+2024-08-15 17:00:06,114 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://tuoitre.vn/ return 83 docs
+2024-08-15 17:00:06,173 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/kinh-doanh.htm return 40 docs
+2024-08-15 17:00:06,195 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/xa-hoi.htm return 43 docs
+2024-08-15 17:00:06,261 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/the-gioi.htm return 40 docs
+2024-08-15 17:00:06,281 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/giai-tri.htm return 42 docs
+2024-08-15 17:00:06,298 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/bat-dong-san.htm return 43 docs
+2024-08-15 17:00:06,366 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/the-thao.htm return 42 docs
+2024-08-15 17:00:06,386 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/lao-dong-viec-lam.htm return 32 docs
+2024-08-15 17:00:06,411 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/tam-long-nhan-ai.htm return 28 docs
+2024-08-15 17:00:06,495 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/o-to-xe-may.htm return 35 docs
+2024-08-15 17:00:06,514 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/suc-khoe.htm return 50 docs
+2024-08-15 17:00:06,532 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/suc-manh-so.htm return 31 docs
+2024-08-15 17:00:06,649 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/giao-duc.htm return 40 docs
+2024-08-15 17:00:06,682 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/an-sinh.htm return 26 docs
+2024-08-15 17:00:06,717 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/phap-luat.htm return 36 docs
+2024-08-15 17:00:06,865 - Database - INFO - Inserted 655 docs
+2024-08-15 17:00:06,866 - Main - INFO - Task queue empty, task done
+2024-08-15 17:30:07,666 - Main - INFO - __________________________________Run Crawl URL raw
+2024-08-15 17:30:07,768 - Database - INFO - Connected database crawl_news
+2024-08-15 17:30:07,771 - Database - INFO - Connected collection urls_raw
+2024-08-15 17:30:07,973 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://vnexpress.net/ return 26 docs
+2024-08-15 17:30:07,993 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://tuoitre.vn/ return 83 docs
+2024-08-15 17:30:08,206 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/tin-moi-nhat.htm return 17 docs
+2024-08-15 17:30:08,457 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/kinh-doanh.htm return 40 docs
+2024-08-15 17:30:08,474 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/xa-hoi.htm return 43 docs
+2024-08-15 17:30:08,606 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/the-gioi.htm return 40 docs
+2024-08-15 17:30:08,869 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/giai-tri.htm return 42 docs
+2024-08-15 17:30:08,904 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/bat-dong-san.htm return 43 docs
+2024-08-15 17:30:08,992 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/lao-dong-viec-lam.htm return 32 docs
+2024-08-15 17:30:09,005 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/tam-long-nhan-ai.htm return 28 docs
+2024-08-15 17:30:09,014 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/the-thao.htm return 42 docs
+2024-08-15 17:30:09,100 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/suc-khoe.htm return 50 docs
+2024-08-15 17:30:09,253 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/giao-duc.htm return 40 docs
+2024-08-15 17:30:09,271 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/o-to-xe-may.htm return 35 docs
+2024-08-15 17:30:09,289 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/suc-manh-so.htm return 31 docs
+2024-08-15 17:30:09,380 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/an-sinh.htm return 26 docs
+2024-08-15 17:30:09,419 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/phap-luat.htm return 35 docs
+2024-08-15 17:30:09,442 - Database - INFO - Inserted 653 docs
+2024-08-15 17:30:09,443 - Main - INFO - Task queue empty, task done
+2024-08-15 18:00:06,270 - Main - INFO - __________________________________Run Crawl URL raw
+2024-08-15 18:00:06,746 - Database - INFO - Connected database crawl_news
+2024-08-15 18:00:06,748 - Database - INFO - Connected collection urls_raw
+2024-08-15 18:00:06,868 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://vnexpress.net/ return 26 docs
+2024-08-15 18:00:06,881 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/tin-moi-nhat.htm return 17 docs
+2024-08-15 18:00:07,006 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://tuoitre.vn/ return 82 docs
+2024-08-15 18:00:07,027 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/kinh-doanh.htm return 40 docs
+2024-08-15 18:00:07,060 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/xa-hoi.htm return 43 docs
+2024-08-15 18:00:07,205 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/the-gioi.htm return 40 docs
+2024-08-15 18:00:07,282 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/giai-tri.htm return 41 docs
+2024-08-15 18:00:07,340 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/bat-dong-san.htm return 43 docs
+2024-08-15 18:00:07,545 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/the-thao.htm return 40 docs
+2024-08-15 18:00:07,634 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/lao-dong-viec-lam.htm return 33 docs
+2024-08-15 18:00:07,642 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/tam-long-nhan-ai.htm return 28 docs
+2024-08-15 18:00:07,817 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/suc-khoe.htm return 50 docs
+2024-08-15 18:00:07,961 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/o-to-xe-may.htm return 35 docs
+2024-08-15 18:00:07,996 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/suc-manh-so.htm return 31 docs
+2024-08-15 18:00:08,041 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/giao-duc.htm return 40 docs
+2024-08-15 18:00:08,170 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/an-sinh.htm return 26 docs
+2024-08-15 18:00:08,202 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/phap-luat.htm return 35 docs
+2024-08-15 18:00:08,321 - Database - INFO - Inserted 650 docs
+2024-08-15 18:00:08,323 - Main - INFO - Task queue empty, task done
+2024-08-15 18:30:07,409 - Main - INFO - __________________________________Run Crawl URL raw
+2024-08-15 18:30:07,468 - Database - INFO - Connected database crawl_news
+2024-08-15 18:30:07,471 - Database - INFO - Connected collection urls_raw
+2024-08-15 18:30:07,620 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/tin-moi-nhat.htm return 17 docs
+2024-08-15 18:30:07,638 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://vnexpress.net/ return 26 docs
+2024-08-15 18:30:07,754 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://tuoitre.vn/ return 82 docs
+2024-08-15 18:30:07,786 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/xa-hoi.htm return 44 docs
+2024-08-15 18:30:07,803 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/kinh-doanh.htm return 39 docs
+2024-08-15 18:30:07,864 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/the-gioi.htm return 40 docs
+2024-08-15 18:30:07,889 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/giai-tri.htm return 42 docs
+2024-08-15 18:30:07,909 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/bat-dong-san.htm return 43 docs
+2024-08-15 18:30:07,988 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/the-thao.htm return 40 docs
+2024-08-15 18:30:08,005 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/lao-dong-viec-lam.htm return 33 docs
+2024-08-15 18:30:08,038 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/tam-long-nhan-ai.htm return 28 docs
+2024-08-15 18:30:08,106 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/suc-khoe.htm return 50 docs
+2024-08-15 18:30:08,141 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/o-to-xe-may.htm return 35 docs
+2024-08-15 18:30:08,163 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/suc-manh-so.htm return 31 docs
+2024-08-15 18:30:08,214 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/giao-duc.htm return 40 docs
+2024-08-15 18:30:08,241 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/an-sinh.htm return 26 docs
+2024-08-15 18:30:08,261 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/phap-luat.htm return 35 docs
+2024-08-15 18:30:08,283 - Database - INFO - Inserted 651 docs
+2024-08-15 18:30:08,284 - Main - INFO - Task queue empty, task done
+2024-08-15 19:00:06,726 - Main - INFO - __________________________________Run Crawl URL raw
+2024-08-15 19:00:06,782 - Database - INFO - Connected database crawl_news
+2024-08-15 19:00:06,784 - Database - INFO - Connected collection urls_raw
+2024-08-15 19:00:06,914 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/tin-moi-nhat.htm return 17 docs
+2024-08-15 19:00:07,019 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/kinh-doanh.htm return 39 docs
+2024-08-15 19:00:07,060 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://tuoitre.vn/ return 85 docs
+2024-08-15 19:00:07,116 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/xa-hoi.htm return 45 docs
+2024-08-15 19:00:07,225 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/the-gioi.htm return 40 docs
+2024-08-15 19:00:07,245 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/giai-tri.htm return 42 docs
+2024-08-15 19:00:07,312 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/bat-dong-san.htm return 43 docs
+2024-08-15 19:00:07,336 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/the-thao.htm return 40 docs
+2024-08-15 19:00:07,417 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/lao-dong-viec-lam.htm return 33 docs
+2024-08-15 19:00:07,427 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/tam-long-nhan-ai.htm return 28 docs
+2024-08-15 19:00:07,506 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/suc-khoe.htm return 50 docs
+2024-08-15 19:00:07,521 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/o-to-xe-may.htm return 35 docs
+2024-08-15 19:00:07,591 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/suc-manh-so.htm return 31 docs
+2024-08-15 19:00:07,609 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/giao-duc.htm return 40 docs
+2024-08-15 19:00:07,691 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/an-sinh.htm return 26 docs
+2024-08-15 19:00:07,724 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/phap-luat.htm return 35 docs
+2024-08-15 19:00:08,526 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://vnexpress.net/ return 27 docs
+2024-08-15 19:00:08,541 - Database - INFO - Inserted 656 docs
+2024-08-15 19:00:08,542 - Main - INFO - Task queue empty, task done
+2024-08-15 19:30:06,435 - Main - INFO - __________________________________Run Crawl URL raw
+2024-08-15 19:30:06,462 - Database - INFO - Connected database crawl_news
+2024-08-15 19:30:06,463 - Database - INFO - Connected collection urls_raw
+2024-08-15 19:30:06,554 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://vnexpress.net/ return 27 docs
+2024-08-15 19:30:06,621 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/tin-moi-nhat.htm return 17 docs
+2024-08-15 19:30:06,664 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://tuoitre.vn/ return 85 docs
+2024-08-15 19:30:06,709 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/kinh-doanh.htm return 39 docs
+2024-08-15 19:30:06,891 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/xa-hoi.htm return 45 docs
+2024-08-15 19:30:06,908 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/giai-tri.htm return 42 docs
+2024-08-15 19:30:06,926 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/the-gioi.htm return 40 docs
+2024-08-15 19:30:07,041 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/bat-dong-san.htm return 43 docs
+2024-08-15 19:30:07,067 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/the-thao.htm return 40 docs
+2024-08-15 19:30:07,161 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/lao-dong-viec-lam.htm return 33 docs
+2024-08-15 19:30:07,201 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/tam-long-nhan-ai.htm return 28 docs
+2024-08-15 19:30:07,229 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/suc-khoe.htm return 50 docs
+2024-08-15 19:30:07,319 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/o-to-xe-may.htm return 35 docs
+2024-08-15 19:30:07,356 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/suc-manh-so.htm return 31 docs
+2024-08-15 19:30:07,391 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/giao-duc.htm return 40 docs
+2024-08-15 19:30:07,467 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/an-sinh.htm return 26 docs
+2024-08-15 19:30:07,520 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/phap-luat.htm return 34 docs
+2024-08-15 19:30:07,537 - Database - INFO - Inserted 655 docs
+2024-08-15 19:30:07,537 - Main - INFO - Task queue empty, task done
+2024-08-15 20:00:06,865 - Main - INFO - __________________________________Run Crawl URL raw
+2024-08-15 20:00:07,253 - Database - INFO - Connected database crawl_news
+2024-08-15 20:00:07,255 - Database - INFO - Connected collection urls_raw
+2024-08-15 20:00:07,399 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://vnexpress.net/ return 26 docs
+2024-08-15 20:00:07,432 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/tin-moi-nhat.htm return 17 docs
+2024-08-15 20:00:07,475 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://tuoitre.vn/ return 84 docs
+2024-08-15 20:00:07,582 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/kinh-doanh.htm return 39 docs
+2024-08-15 20:00:07,607 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/xa-hoi.htm return 45 docs
+2024-08-15 20:00:07,778 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/bat-dong-san.htm return 43 docs
+2024-08-15 20:00:07,796 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/giai-tri.htm return 42 docs
+2024-08-15 20:00:07,897 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/the-gioi.htm return 40 docs
+2024-08-15 20:00:07,966 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/lao-dong-viec-lam.htm return 33 docs
+2024-08-15 20:00:08,000 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/the-thao.htm return 39 docs
+2024-08-15 20:00:08,106 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/tam-long-nhan-ai.htm return 28 docs
+2024-08-15 20:00:08,160 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/suc-khoe.htm return 50 docs
+2024-08-15 20:00:08,228 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/o-to-xe-may.htm return 35 docs
+2024-08-15 20:00:08,312 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/suc-manh-so.htm return 31 docs
+2024-08-15 20:00:08,339 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/giao-duc.htm return 40 docs
+2024-08-15 20:00:08,387 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/an-sinh.htm return 26 docs
+2024-08-15 20:00:08,503 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/phap-luat.htm return 34 docs
+2024-08-15 20:00:08,518 - Database - INFO - Inserted 652 docs
+2024-08-15 20:00:08,519 - Main - INFO - Task queue empty, task done
+2024-08-15 20:30:06,775 - Main - INFO - __________________________________Run Crawl URL raw
+2024-08-15 20:30:06,802 - Database - INFO - Connected database crawl_news
+2024-08-15 20:30:06,803 - Database - INFO - Connected collection urls_raw
+2024-08-15 20:30:06,949 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://vnexpress.net/ return 26 docs
+2024-08-15 20:30:06,992 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/tin-moi-nhat.htm return 17 docs
+2024-08-15 20:30:07,040 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://tuoitre.vn/ return 84 docs
+2024-08-15 20:30:07,232 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/the-gioi.htm return 40 docs
+2024-08-15 20:30:07,437 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/giai-tri.htm return 41 docs
+2024-08-15 20:30:07,621 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/kinh-doanh.htm return 39 docs
+2024-08-15 20:30:07,653 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/bat-dong-san.htm return 43 docs
+2024-08-15 20:30:08,105 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/the-thao.htm return 39 docs
+2024-08-15 20:30:08,225 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/xa-hoi.htm return 45 docs
+2024-08-15 20:30:08,683 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/tam-long-nhan-ai.htm return 28 docs
+2024-08-15 20:30:08,842 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/lao-dong-viec-lam.htm return 33 docs
+2024-08-15 20:30:09,009 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/suc-manh-so.htm return 31 docs
+2024-08-15 20:30:09,115 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/o-to-xe-may.htm return 35 docs
+2024-08-15 20:30:09,297 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/giao-duc.htm return 40 docs
+2024-08-15 20:30:09,497 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/phap-luat.htm return 34 docs
+2024-08-15 20:30:09,570 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/an-sinh.htm return 26 docs
+2024-08-15 20:30:11,590 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/suc-khoe.htm return 50 docs
+2024-08-15 20:30:11,614 - Database - INFO - Inserted 651 docs
+2024-08-15 20:30:11,710 - Main - INFO - Task queue empty, task done
+2024-08-15 21:00:08,055 - Main - INFO - __________________________________Run Crawl URL raw
+2024-08-15 21:00:08,261 - Database - INFO - Connected database crawl_news
+2024-08-15 21:00:08,263 - Database - INFO - Connected collection urls_raw
+2024-08-15 21:00:08,376 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://vnexpress.net/ return 26 docs
+2024-08-15 21:00:08,482 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/tin-moi-nhat.htm return 17 docs
+2024-08-15 21:00:08,508 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://tuoitre.vn/ return 84 docs
+2024-08-15 21:00:08,659 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/kinh-doanh.htm return 38 docs
+2024-08-15 21:00:08,721 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/the-gioi.htm return 40 docs
+2024-08-15 21:00:08,740 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/xa-hoi.htm return 45 docs
+2024-08-15 21:00:08,875 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/giai-tri.htm return 41 docs
+2024-08-15 21:00:08,914 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/the-thao.htm return 39 docs
+2024-08-15 21:00:09,112 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/tam-long-nhan-ai.htm return 28 docs
+2024-08-15 21:00:09,212 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/bat-dong-san.htm return 43 docs
+2024-08-15 21:00:09,321 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/lao-dong-viec-lam.htm return 33 docs
+2024-08-15 21:00:09,345 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/suc-khoe.htm return 50 docs
+2024-08-15 21:00:09,527 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/giao-duc.htm return 40 docs
+2024-08-15 21:00:09,699 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/o-to-xe-may.htm return 35 docs
+2024-08-15 21:00:09,875 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/phap-luat.htm return 34 docs
+2024-08-15 21:00:09,999 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/an-sinh.htm return 26 docs
+2024-08-15 21:00:10,494 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/suc-manh-so.htm return 31 docs
+2024-08-15 21:00:10,509 - Database - INFO - Inserted 650 docs
+2024-08-15 21:00:10,510 - Main - INFO - Task queue empty, task done
+2024-08-15 21:30:07,256 - Main - INFO - __________________________________Run Crawl URL raw
+2024-08-15 21:30:07,306 - Database - INFO - Connected database crawl_news
+2024-08-15 21:30:07,307 - Database - INFO - Connected collection urls_raw
+2024-08-15 21:30:07,426 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://vnexpress.net/ return 25 docs
+2024-08-15 21:30:07,509 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://tuoitre.vn/ return 85 docs
+2024-08-15 21:30:07,524 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/tin-moi-nhat.htm return 17 docs
+2024-08-15 21:30:07,741 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/kinh-doanh.htm return 38 docs
+2024-08-15 21:30:07,774 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/the-gioi.htm return 40 docs
+2024-08-15 21:30:07,970 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/giai-tri.htm return 41 docs
+2024-08-15 21:30:07,988 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/bat-dong-san.htm return 43 docs
+2024-08-15 21:30:08,222 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/lao-dong-viec-lam.htm return 33 docs
+2024-08-15 21:30:08,246 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/the-thao.htm return 39 docs
+2024-08-15 21:30:08,407 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/tam-long-nhan-ai.htm return 28 docs
+2024-08-15 21:30:08,467 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/suc-khoe.htm return 50 docs
+2024-08-15 21:30:08,660 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/suc-manh-so.htm return 31 docs
+2024-08-15 21:30:08,852 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/o-to-xe-may.htm return 35 docs
+2024-08-15 21:30:08,972 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/giao-duc.htm return 40 docs
+2024-08-15 21:30:09,027 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/an-sinh.htm return 26 docs
+2024-08-15 21:30:09,450 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/xa-hoi.htm return 45 docs
+2024-08-15 21:30:09,460 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/phap-luat.htm return 34 docs
+2024-08-15 21:30:09,567 - Database - INFO - Inserted 650 docs
+2024-08-15 21:30:09,568 - Main - INFO - Task queue empty, task done
+2024-08-15 22:00:07,682 - Main - INFO - __________________________________Run Crawl URL raw
+2024-08-15 22:00:08,115 - Database - INFO - Connected database crawl_news
+2024-08-15 22:00:08,117 - Database - INFO - Connected collection urls_raw
+2024-08-15 22:00:08,217 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://vnexpress.net/ return 25 docs
+2024-08-15 22:00:08,291 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/tin-moi-nhat.htm return 17 docs
+2024-08-15 22:00:08,359 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://tuoitre.vn/ return 85 docs
+2024-08-15 22:00:08,504 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/xa-hoi.htm return 45 docs
+2024-08-15 22:00:08,565 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/kinh-doanh.htm return 38 docs
+2024-08-15 22:00:08,605 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/the-gioi.htm return 39 docs
+2024-08-15 22:00:08,690 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/giai-tri.htm return 41 docs
+2024-08-15 22:00:08,836 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/the-thao.htm return 39 docs
+2024-08-15 22:00:08,985 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/lao-dong-viec-lam.htm return 33 docs
+2024-08-15 22:00:09,244 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/tam-long-nhan-ai.htm return 28 docs
+2024-08-15 22:00:09,441 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/o-to-xe-may.htm return 35 docs
+2024-08-15 22:00:09,546 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/suc-khoe.htm return 50 docs
+2024-08-15 22:00:09,631 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/suc-manh-so.htm return 31 docs
+2024-08-15 22:00:09,770 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/bat-dong-san.htm return 43 docs
+2024-08-15 22:00:09,954 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/phap-luat.htm return 34 docs
+2024-08-15 22:00:10,036 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/giao-duc.htm return 40 docs
+2024-08-15 22:00:10,043 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/an-sinh.htm return 26 docs
+2024-08-15 22:00:10,064 - Database - INFO - Inserted 649 docs
+2024-08-15 22:00:10,065 - Main - INFO - Task queue empty, task done
+2024-08-15 22:30:09,540 - Main - INFO - __________________________________Run Crawl URL raw
+2024-08-15 22:30:10,097 - Database - INFO - Connected database crawl_news
+2024-08-15 22:30:10,106 - Database - INFO - Connected collection urls_raw
+2024-08-15 22:30:10,380 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://vnexpress.net/ return 25 docs
+2024-08-15 22:30:10,414 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/tin-moi-nhat.htm return 17 docs
+2024-08-15 22:30:10,514 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://tuoitre.vn/ return 84 docs
+2024-08-15 22:30:10,696 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/kinh-doanh.htm return 38 docs
+2024-08-15 22:30:10,719 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/xa-hoi.htm return 45 docs
+2024-08-15 22:30:10,779 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/the-gioi.htm return 39 docs
+2024-08-15 22:30:10,872 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/giai-tri.htm return 41 docs
+2024-08-15 22:30:10,897 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/bat-dong-san.htm return 43 docs
+2024-08-15 22:30:11,054 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/lao-dong-viec-lam.htm return 33 docs
+2024-08-15 22:30:11,080 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/tam-long-nhan-ai.htm return 28 docs
+2024-08-15 22:30:11,258 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/o-to-xe-may.htm return 35 docs
+2024-08-15 22:30:11,341 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/suc-khoe.htm return 50 docs
+2024-08-15 22:30:11,461 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/suc-manh-so.htm return 31 docs
+2024-08-15 22:30:11,546 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/giao-duc.htm return 40 docs
+2024-08-15 22:30:11,629 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/an-sinh.htm return 26 docs
+2024-08-15 22:30:11,729 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/phap-luat.htm return 34 docs
+2024-08-15 22:30:11,980 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/the-thao.htm return 39 docs
+2024-08-15 22:30:12,004 - Database - INFO - Inserted 648 docs
+2024-08-15 22:30:12,005 - Main - INFO - Task queue empty, task done
+2024-08-15 23:00:10,067 - Main - INFO - __________________________________Run Crawl URL raw
+2024-08-15 23:00:10,298 - Database - INFO - Connected database crawl_news
+2024-08-15 23:00:10,300 - Database - INFO - Connected collection urls_raw
+2024-08-15 23:00:10,476 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://vnexpress.net/ return 25 docs
+2024-08-15 23:00:10,518 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/tin-moi-nhat.htm return 17 docs
+2024-08-15 23:00:10,647 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://tuoitre.vn/ return 84 docs
+2024-08-15 23:00:10,673 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/kinh-doanh.htm return 38 docs
+2024-08-15 23:00:10,732 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/xa-hoi.htm return 45 docs
+2024-08-15 23:00:11,099 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/the-gioi.htm return 39 docs
+2024-08-15 23:00:11,173 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/giai-tri.htm return 41 docs
+2024-08-15 23:00:11,205 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/bat-dong-san.htm return 43 docs
+2024-08-15 23:00:11,401 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/the-thao.htm return 39 docs
+2024-08-15 23:00:11,453 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/lao-dong-viec-lam.htm return 33 docs
+2024-08-15 23:00:11,471 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/tam-long-nhan-ai.htm return 28 docs
+2024-08-15 23:00:11,600 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/suc-khoe.htm return 50 docs
+2024-08-15 23:00:11,711 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/o-to-xe-may.htm return 35 docs
+2024-08-15 23:00:11,742 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/suc-manh-so.htm return 31 docs
+2024-08-15 23:00:11,872 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/giao-duc.htm return 40 docs
+2024-08-15 23:00:11,945 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/an-sinh.htm return 26 docs
+2024-08-15 23:00:11,977 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/phap-luat.htm return 34 docs
+2024-08-15 23:00:12,054 - Database - INFO - Inserted 648 docs
+2024-08-15 23:00:12,061 - Main - INFO - Task queue empty, task done
+2024-08-15 23:30:09,640 - Main - INFO - __________________________________Run Crawl URL raw
+2024-08-15 23:30:09,924 - Database - INFO - Connected database crawl_news
+2024-08-15 23:30:09,926 - Database - INFO - Connected collection urls_raw
+2024-08-15 23:30:10,060 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/tin-moi-nhat.htm return 17 docs
+2024-08-15 23:30:10,078 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://vnexpress.net/ return 25 docs
+2024-08-15 23:30:10,223 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://tuoitre.vn/ return 84 docs
+2024-08-15 23:30:10,249 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/xa-hoi.htm return 45 docs
+2024-08-15 23:30:10,291 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/kinh-doanh.htm return 38 docs
+2024-08-15 23:30:10,359 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/the-gioi.htm return 39 docs
+2024-08-15 23:30:10,413 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/giai-tri.htm return 41 docs
+2024-08-15 23:30:10,438 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/bat-dong-san.htm return 43 docs
+2024-08-15 23:30:10,531 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/the-thao.htm return 39 docs
+2024-08-15 23:30:10,599 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/lao-dong-viec-lam.htm return 33 docs
+2024-08-15 23:30:10,607 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/tam-long-nhan-ai.htm return 28 docs
+2024-08-15 23:30:10,789 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/suc-khoe.htm return 50 docs
+2024-08-15 23:30:10,828 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/o-to-xe-may.htm return 35 docs
+2024-08-15 23:30:10,880 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/suc-manh-so.htm return 31 docs
+2024-08-15 23:30:10,986 - Crawl - WARNING - ThreadPoolExecutor-0_1: Url crawl https://dantri.com.vn/giao-duc.htm return 40 docs
+2024-08-15 23:30:11,002 - Crawl - WARNING - ThreadPoolExecutor-0_0: Url crawl https://dantri.com.vn/an-sinh.htm return 26 docs
+2024-08-15 23:30:11,086 - Crawl - WARNING - ThreadPoolExecutor-0_2: Url crawl https://dantri.com.vn/phap-luat.htm return 34 docs
+2024-08-15 23:30:11,143 - Database - INFO - Inserted 648 docs
+2024-08-15 23:30:11,145 - Main - INFO - Task queue empty, task done
