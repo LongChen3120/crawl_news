@@ -9,7 +9,6 @@
 - 1: gửi requests đến url
 - 2: lấy dữ liệu về theo xpath
 - 3: lấy dữ liệu về theo xpath + regex
-- 4: 
 
 # type result 
 - 1: int
