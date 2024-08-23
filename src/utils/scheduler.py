@@ -1,9 +1,10 @@
 
+import sys
 import time
-import logging
 import datetime
+sys.path.append("./src")
 
-import _env, utils
+from utils import _env, utils
 
 
 def init_logger(path_log):

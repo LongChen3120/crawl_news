@@ -1,10 +1,10 @@
+import sys
+sys.path.append("./src")
 
-import logging
 import threading
-import datetime
 from concurrent.futures import ThreadPoolExecutor
 
-import _env, utils
+from utils import _env, utils
 
 
 def init_logger(path_log):

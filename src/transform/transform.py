@@ -1,55 +1,17 @@
 
-import json
-import logging
+import sys
 import datetime
-import logging.handlers
-import transform
+sys.path.append("./src")
 
-import _env
+from lxml import html
+
+from transform import _env
+from utils import utils
 
 
 def init_logger(path_log):
     global logger
-    logger = config_log(path_log, _env.NAME_LOGGER_MODUL_UTILS, _env.LEVEL_LOG_MODUL_UTILS)
-
-def config_log(path_log, name_logger, lever_logger):
-    '''
-    cấu hình root logger này bị cấu hình của airflow ghi đè nên không thể ghi log ra file riêng _env.PATH_LOG_FILE được
-    '''
-    # logging.basicConfig(level=logging.INFO, 
-    #                     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', 
-    #                     handlers=[logging.FileHandler(_env.PATH_LOG_FILE)]
-    #                     )
-
-
-    '''
-    cấu hình tạo logger riêng để tự ghi log ra file riêng
-    '''
-    logger = logging.getLogger(name_logger)
-    logger.setLevel(lever_logger)
-
-    # Tạo formatter để định dạng log
-    formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
-
-    # Tạo file handler để ghi log vào file theo ngày
-    file_handler = logging.handlers.TimedRotatingFileHandler(path_log, when="midnight", interval=1, encoding="utf-8")
-    file_handler.setFormatter(formatter)
-    # tên sẽ kèm thêm thời gian
-    file_handler.suffix = "%Y-%m-%d.log"
-
-    # Loại bỏ tất cả các handler ghi ra console
-    for handler in logger.handlers:
-        if isinstance(handler, logging.StreamHandler):
-            logger.removeHandler(handler)
-    
-    # Thêm file handler vào logger
-    logger.addHandler(file_handler)
-    return logger
-
-def read_config(path_config):
-    name_config = path_config.split("/")[-1]
-    logger.info(f"Read config {name_config}")
-    return json.load(open(path_config, "r", encoding="utf-8"))
+    logger = utils.config_log(path_log, _env.NAME_LOGGER_MODUL_TRANSFORM, _env.LEVEL_LOG_MODUL_TRANSFORM)
 
 def format_task(time_run, config):
     # 1 task sẽ có thời gian thực hiện và config
@@ -113,12 +75,6 @@ def format_list_detail_news(list_detail_news, config):
         })
         return list_doc
 
-def check_all_thread_done(futures):
-    for future in futures:
-        if future.done() == False:
-            return False
-    return True
-
 def detect_result(logger, thread_name, config, result):
     if not result:
         logger.error(f"{thread_name}: Detect result false")
@@ -155,6 +111,64 @@ def detect_result(logger, thread_name, config, result):
         elif config["type_result"] == 11:
             pass
 
+def list_element_to_output(logger, thread_name, config, list_element):
+    if config["type_output"] == 1:
+        pass
+    elif config["type_output"] == 2:
+        pass
+    elif config["type_output"] == 3:
+        return list_element_to_string(thread_name, list_element)
+    elif config["type_output"] == 4:
+        pass
+    elif config["type_output"] == 5:
+        pass
+    elif config["type_output"] == 6:
+        pass
+    elif config["type_output"] == 7:
+        pass
+    elif config["type_output"] == 8:
+        pass
+    elif config["type_output"] == 9:
+        pass
+    elif config["type_output"] == 10:
+        pass
+    elif config["type_output"] == 11:
+        return list_element_to_list_attribute(thread_name, config, list_element)
+
+def list_element_to_string(thread_name, list_element):
+    try:
+        result = ""
+        for element in list_element: # duyet qua cac phan tu
+            temp = ' '.join(element.itertext()) # trich xuat text cua phan tu
+            result += temp + "\n"
+        result = result.strip() # loai bo khoang trang thua
+        if not result:
+            logger.error(f"{thread_name}: String is None")
+            return None
+        else:
+            logger.info(f"{thread_name}: Transfrom list element to string complete")
+            return result
+        
+    except Exception as e:
+        logger.warning(f"{thread_name}: Transfrom list element to string Exception:\n{e}")
+
+def list_element_to_list_attribute(thread_name, config, list_element):
+    
+    list_result = []
+    for element in list_element:
+        logger.info(html.tostring(element))
+        try:
+            list_result.append(element.attrib[config["name_attribute"]])
+        except:
+            continue
+
+    if not list_result:
+        logger.error(f"{thread_name}: List attribute is None")
+        return None
+    else:
+        logger.info(f"{thread_name}: Transfrom list element to list attribute complete")
+        return list_result
+    
 def int_to_output(logger, thread_name, config, int_data):
     pass
 
@@ -172,30 +186,6 @@ def datetime_to_output(logger, thread_name, config, datetime):
 
 def element_to_output(logger, thread_name, config, element):
     pass
-
-def list_element_to_output(logger, thread_name, config, list_element):
-    if config["type_output"] == 1:
-        pass
-    elif config["type_output"] == 2:
-        pass
-    elif config["type_output"] == 3:
-        return transform.list_element_to_string(thread_name, list_element)
-    elif config["type_output"] == 4:
-        pass
-    elif config["type_output"] == 5:
-        pass
-    elif config["type_output"] == 6:
-        pass
-    elif config["type_output"] == 7:
-        pass
-    elif config["type_output"] == 8:
-        pass
-    elif config["type_output"] == 9:
-        pass
-    elif config["type_output"] == 10:
-        pass
-    elif config["type_output"] == 11:
-        return transform.list_element_to_list_attribute(thread_name, config, list_element)
 
 def json_to_output(logger, thread_name, config, json_data):
     pass

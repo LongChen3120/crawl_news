@@ -1,17 +1,20 @@
-import logging
+import sys
+sys.path.append("./src")
+
 import pymongo
 import pymongo.mongo_client
 
-import _env, utils
+from load import _env
+from utils import utils
 
 
 def init_logger(path_log):
     global logger
     logger = utils.config_log(path_log, _env.NAME_LOGGER_MODUL_DATABASE, _env.LEVEL_LOG_MODUL_DATABASE)
 
-def connect_db_mongodb(connection_string, db_name):
+def connect_db_mongodb(db_name):
     try:
-        client = pymongo.MongoClient(connection_string)
+        client = pymongo.MongoClient(_env.MONGODB_SERVER)
         db = client[db_name]
         logger.info(f"Connected database {db_name}")
         return db
