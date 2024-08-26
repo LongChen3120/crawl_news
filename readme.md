@@ -17,21 +17,26 @@
 - File Config là File Json thiết lập cách mà chương trình thu thập dữ liệu, nằm ở trong thư mục ./src/extract.
 - Nếu có Website mới cần thu thập dữ liệu, thêm Website đó vào trong File Config theo mẫu, ý nghĩa của các Key trong file Config Json được định nghĩa ở trong File ./src/extract/keys.md.
 
+
 2. Thu thập URL bài viết
 - Truy cập vào Website, thu thập tất cả URL rồi lưu vào Datalake.
 - Lập lịch Airflow chạy thu thập URL của tất cả các Website trong File Config mỗi 30 phút.
 
+
 3. Thu thập dữ liệu chi tiết bài viết lần 1
 - Select những URL mới (chưa được thu thập dữ liệu chi tiết lần nào) trong Data Warehouse.
 - Truy cập vào URL bài viết, thu thập Tiêu đề, sapo, nội dung, ảnh, tác giả, thời gian rồi lưu vào Datalake.
-- Những URL đã được thu thậP dữ liệu chi tiết sẽ được cập nhật số lần thu thập dữ liệu chi tiết += 1.
-- Lập lịch Airflow chạy thu thập dữ liệu chi tiết mỗi 30 phut.
+- Những URL đã được thu thập dữ liệu chi tiết sẽ được cập nhật số lần thu thập dữ liệu chi tiết += 1.
+- Lập lịch Airflow chạy thu thập dữ liệu chi tiết mỗi 30 phút.
+
 
 4. Cập nhật lại bài viết
+- Mục đích là để cập nhật lại dữ liệu chi tiết của một bài viết, tránh trường hợp thông tin bài viết bị sửa đổi, thông tin trong Data Warehouse là thông tin cũ.
 - Select lấy những URL có số lần thu thập dữ liệu chi tiết từ 1 đến 5 và có thời gian cập nhật dữ liệu chi tiết nhỏ hơn 10 giờ trong Data Warehouse.
 - Truy cập vào URL bài viết, thu thập Tiêu đề, sapo, nội dung, ảnh, tác giả, thời gian rồi cập nhật trong Data Warehouse.
 - Những URL đã được thu thậP dữ liệu chi tiết sẽ được cập nhật số lần thu thập dữ liệu chi tiết += 1.
 - Lập lịch Airflow chạy thu thập dữ liệu chi tiết mỗi 1 tiếng.
+
 
 3. Xử lý dữ liệu
 - Dọn dẹp dữ liệu URL, dữ liệu chi tiết cũ (dữ liệu cũ là dữ liệu có time_crawl > 48h) trong Datalake vào 23h45p chủ nhật hàng tuần.
